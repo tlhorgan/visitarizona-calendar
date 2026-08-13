@@ -20,15 +20,43 @@ from icalendar import Calendar, Event
 
 BASE_URL = "https://www.visitarizona.com"
 EVENTS_URL = f"{BASE_URL}/events"
+READER_URL = "https://r.jina.ai/https://www.visitarizona.com"
 OUTPUT = Path(__file__).with_name("visitarizona.ics")
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; VisitArizonaCalendar/1.0)"}
 TIMEOUT = 30
+USE_READER = False
 
 
 def fetch(session: requests.Session, url: str) -> str:
-    response = session.get(url, headers=HEADERS, timeout=TIMEOUT)
-    response.raise_for_status()
-    return response.text
+    global USE_READER
+    direct_error: requests.RequestException | None = None
+    if not USE_READER:
+        try:
+            response = session.get(url, headers=HEADERS, timeout=TIMEOUT)
+            response.raise_for_status()
+            return response.text
+        except requests.RequestException as exc:
+            direct_error = exc
+            if getattr(exc.response, "status_code", None) == 403:
+                USE_READER = True
+    if USE_READER or direct_error:
+        # Visit Arizona currently rejects GitHub-hosted runners with HTTP 403.
+        # Jina Reader retrieves the same public page and returns clean Markdown.
+        parsed = urlparse(url)
+        if parsed.netloc not in {"www.visitarizona.com", "visitarizona.com"}:
+            raise
+        reader = f"{READER_URL}{parsed.path}"
+        if parsed.query:
+            reader += f"?{parsed.query}"
+        response = session.get(reader, headers=HEADERS, timeout=60)
+        try:
+            response.raise_for_status()
+        except requests.RequestException:
+            if direct_error:
+                raise direct_error
+            raise
+        return response.text
+    raise RuntimeError(f"Could not retrieve {url}")
 
 
 def sitemap_urls(session: requests.Session, url: str, seen: set[str] | None = None) -> set[str]:
@@ -38,7 +66,12 @@ def sitemap_urls(session: requests.Session, url: str, seen: set[str] | None = No
         return set()
     seen.add(url)
     try:
-        root = ElementTree.fromstring(fetch(session, url))
+        content = fetch(session, url)
+        root = ElementTree.fromstring(content)
+    except ElementTree.ParseError:
+        # Reader output for an XML sitemap may be Markdown/plain text.
+        locations = set(re.findall(r"https://(?:www\.)?visitarizona\.com/[^\s<>)\]]+", content))
+        return {u.rstrip(".,") for u in locations}
     except Exception as exc:
         print(f"WARNING: could not read {url}: {exc}")
         return set()
@@ -150,6 +183,12 @@ def parse_event_page(page_html: str, url: str) -> dict | None:
     if not title:
         title = compact(soup.h1.get_text(" ", strip=True)) if soup.h1 else ""
     if not title:
+        heading = re.search(r"(?m)^#\s+(.+?)\s*$", page_html)
+        title = compact(heading.group(1)) if heading else ""
+    if not title:
+        metadata_title = re.search(r"(?m)^Title:\s*(.+?)\s*$", page_html)
+        title = compact(re.sub(r"\s*\|\s*Visit Arizona Events\s*$", "", metadata_title.group(1), flags=re.I)) if metadata_title else ""
+    if not title:
         return None
 
     start = parse_date(data.get("startDate"))
@@ -169,9 +208,24 @@ def parse_event_page(page_html: str, url: str) -> dict | None:
     if not description:
         meta = soup.select_one('meta[name="description"], meta[property="og:description"]')
         description = compact(meta.get("content", "")) if meta else ""
+    if not description:
+        body = re.search(r"(?ms)^#\s+.+?\n+(.*?)\n+#{2,6}\s+SAVE THE DATE", page_html)
+        description = compact(body.group(1)) if body else ""
+    if not description:
+        before_date = re.split(r"(?im)^#{2,6}\s+SAVE THE DATE\s*$", page_html, maxsplit=1)[0]
+        candidates = []
+        for paragraph in re.split(r"\n\s*\n", before_date):
+            value = compact(paragraph)
+            if (value and not value.startswith(("Title:", "URL Source:", "Published Time:", "Markdown Content:", "![", "[return"))
+                    and value.lower() != "no items found."):
+                candidates.append(value)
+        description = candidates[-1] if candidates else ""
     location = location_from_json(data.get("location"))
     if not location:
         location = text_after_heading(soup, "Location")
+    if not location:
+        match = re.search(r"(?ms)^#{2,6}\s+Location\s*\n+(.*?)(?=\n#{1,6}\s|\n\[?iframe|\nsubscribe|\Z)", page_html, re.I)
+        location = compact(re.sub(r"\[([^]]+)]\([^)]+\)", r"\1", match.group(1))) if match else ""
     if location.lower() == "undefined":
         location = ""
     external = ""
@@ -180,6 +234,9 @@ def parse_event_page(page_html: str, url: str) -> dict | None:
         if compact(link.get_text()).lower() == "website" and urlparse(href).scheme in {"http", "https"}:
             external = href
             break
+    if not external:
+        link = re.search(r"\[Website\]\((https?://[^)]+)\)", page_html, re.I)
+        external = link.group(1) if link else ""
     return {
         "title": title,
         "start": start,
