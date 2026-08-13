@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Arizona Events Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Visit Arizona Events
+X-WR-CALDESC:Run the included GitHub Action to populate this calendar.
+END:VCALENDAR
