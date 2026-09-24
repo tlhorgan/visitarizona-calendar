@@ -5,48 +5,25 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:Arizona State Fair
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20260923T152932Z
-UID:0f0b8899ec2784a48dde7b3b@visitarizona-calendar
-DESCRIPTION:The Arizona State Fair is one of the top 10 state fairs in the
-  country and is more than 130 years old. Each year\, more than a million g
- uests come to experience a great combination of the traditional and the ex
- traordinary at the Fair. With family entertainment\, animals\, food\, ride
- s\, top-notch concerts\, exhibits\, motorized events\, a rodeo and more. O
- pen Thursdays through Sundays.\n\nEvent website: https://azstatefair.com/\
- n\nVisit Arizona listing: https://www.visitarizona.com/events/arizona-stat
- e-fair
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Arizona State Fair Exhibit Building\, North 19th Avenue\, Phoenix
- \, AZ\, USA
-URL:https://www.visitarizona.com/events/arizona-state-fair
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:19th Annual Prescott Area Artist Studio Tour
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20260923T152932Z
-UID:337a2d26713c0bea7d12b495@visitarizona-calendar
-DESCRIPTION:Visit 74 juried artists across 53 private studios\, observe th
- eir creative processes and purchase one-of-a-kind works of art. Showcases 
- different artistic mediums — ranging from painting and ceramics to jewel
- ry and glass. Free and self-guided. Learn about the materials\, techniques
-  and processes used in creating a work of art\, while forging a personal c
- onnection with the artists.\n\nEvent website: https://www.prescottstudioto
- ur.com/%20%20%E2%80%8B\n\nVisit Arizona listing: https://www.visitarizona.
- com/events/19th-annual-prescott-area-artist-studio-tour
-LAST-MODIFIED:20260923T152932Z
-URL:https://www.visitarizona.com/events/19th-annual-prescott-area-artist-s
- tudio-tour
+SUMMARY:Jim Click’s Run ‘n’ Roll 5K & 1 Mile
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260924T155509Z
+UID:4a75f4c35427b9dd84b0d2b4@visitarizona-calendar
+DESCRIPTION:A fast\, flat\, fun course on the beautiful U of A campus.\n\n
+ Event website: https://runsar.org/events/jim-clicks-run-n-roll-5k-and-1-mi
+ le/\n\nVisit Arizona listing: https://www.visitarizona.com/events/jim-clic
+ k-s-run-n-roll-5k-1-mile
+LAST-MODIFIED:20260924T155509Z
+LOCATION:UofA Mall
+URL:https://www.visitarizona.com/events/jim-click-s-run-n-roll-5k-1-mile
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19th Annual Flagstaff Marathon – The “Coolest Marathon” in A
  rizona
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:1f7160991a5593f056a64900@visitarizona-calendar
 DESCRIPTION:A completely off-road course in the Coconino National Forest. 
  At 8\,000+ ft. elevation\, it is one of the most challenging courses in th
@@ -57,35 +34,15 @@ DESCRIPTION:A completely off-road course in the Coconino National Forest.
  marathon.com/)\n\nEvent website: https://flagstaffmarathon.com/\n\nVisit A
  rizona listing: https://www.visitarizona.com/events/19th-annual-flagstaff-
  marathon---the-coolest-marathon-in-arizona
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 URL:https://www.visitarizona.com/events/19th-annual-flagstaff-marathon---t
  he-coolest-marathon-in-arizona
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sedona Gem & Mineral Show
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20260923T152932Z
-UID:daaa4fb754215786a0bc8448@visitarizona-calendar
-DESCRIPTION:Vendors offer dazzling crystals\, amethyst\, colorful agates\,
-  unusual minerals\, rare fossils\, meteorites\, custom jewelry\, gemstones
- \, beads\, and more.There is an hourly raffle with a grand prize.Visit our
-  vendors offering dazzling crystals\, amethyst\, colorful agates\, unusual
-  minerals\, rare fossils\, meteorites\, custom jewelry\, gemstones\, beads
- \, and more. There is an Hourly Raffle with an amazing grand prize. Come s
- tay all day!\n\nEvent website: https://sedonagemandmineral.org/adventurebe
- gins/gem-show/\n\nVisit Arizona listing: https://www.visitarizona.com/even
- ts/sedona-gem-mineral-show
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Sedona Red Rock Jr. Sr. High school\, Upper Red Rock Loop Road\, 
- Sedona\, AZ\, USA
-URL:https://www.visitarizona.com/events/sedona-gem-mineral-show
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20th Annual Prescott Antique Show & Vintage Market
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:84952bff23a6ac86a2ceaaf9@visitarizona-calendar
 DESCRIPTION:Hosts vendors from all around Arizona and from surrounding sta
  tes. Antiques and collectibles\, vintage clothing\, furniture\, home decor
@@ -93,38 +50,21 @@ DESCRIPTION:Hosts vendors from all around Arizona and from surrounding sta
  oods!\n\nEvent website: https://www.prescottantiqueshow.com/\n\nVisit Ariz
  ona listing: https://www.visitarizona.com/events/20th-annual-prescott-anti
  que-show-vintage-market
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Prescott Rodeo Grounds\, Fairgrounds Avenue\, Prescott\, AZ\, USA
 URL:https://www.visitarizona.com/events/20th-annual-prescott-antique-show-
  vintage-market
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:22nd Annual Tucson Film Festival
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20260923T152932Z
-UID:941f3fc0c0c374bd17e2b548@visitarizona-calendar
-DESCRIPTION:Celebrates the past\, present and future of the Tucson\, Arizo
- na filmmaking scene. The festival accepts narrative and documentary featur
- es\, and shorts of all genres including Animation\, Experimental\, Comedy\
- , Drama and World. Tucson Film Festival will continue to focus on music-re
- lated content\, with an emphasis on films and filmmakers with a connection
-  to Arizona and the desert Southwest.\n\nEvent website: https://tucsonfilm
- festival.net/\n\nVisit Arizona listing: https://www.visitarizona.com/event
- s/22nd-annual-tucson-film-festival
-LAST-MODIFIED:20260923T152932Z
-URL:https://www.visitarizona.com/events/22nd-annual-tucson-film-festival
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Greer Gazers
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:23fbafc3778242979e0ee01d@visitarizona-calendar
 DESCRIPTION:A solar and stargazing event.\n\nEvent website: https://greera
  zcivic.org/greer-gazers/\n\nVisit Arizona listing: https://www.visitarizon
  a.com/events/2026-greer-gazers
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Greer Community Center\, Main Street\, Greer\, AZ\, USA
 URL:https://www.visitarizona.com/events/2026-greer-gazers
 END:VEVENT
@@ -132,13 +72,13 @@ BEGIN:VEVENT
 SUMMARY:32nd Annual Beeline Cruise-In and Car Show
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:ee28d0751b44e7918aa465bc@visitarizona-calendar
 DESCRIPTION:We are continuing with our tradition of Classic Cars\, Trucks 
  and Rat Rods\, model year 2000 or older.\n\nEvent website: https://adventu
  repayson.com/events%20/\n\nVisit Arizona listing: https://www.visitarizona
  .com/events/32nd-annual-beeline-cruise-in-and-car-show
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Green Valley Park\, West Country Club Drive\, Payson\, AZ\, USA
 URL:https://www.visitarizona.com/events/32nd-annual-beeline-cruise-in-and-
  car-show
@@ -147,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Fall NASCAR Cup Series
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:80b2ee739adaa02e86db07ab@visitarizona-calendar
 DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
  y Auto Parts Series and ARCA Menards Series and the NASCAR Cup Series! Tak
@@ -157,7 +97,7 @@ DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
   and sign the start/finish line on Sunday!\n\nEvent website: https://www.p
  hoenixraceway.com/events/fall-cup-series/\n\nVisit Arizona listing: https:
  //www.visitarizona.com/events/2026-fall-nascar-cup-series
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/2026-fall-nascar-cup-series
 END:VEVENT
@@ -165,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:11th Annual Int’l Wild Bunch Film Festival
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:a879dad995ff5fdda1f62a64@visitarizona-calendar
 DESCRIPTION:This festival has become a compelling 'must attend' event by i
  ndie filmmakers and writers for the Western Genre\, Western sub-genres and
@@ -174,7 +114,7 @@ DESCRIPTION:This festival has become a compelling 'must attend' event by i
  ational attention from all over the world!\n\nEvent website: https://www.t
  hewildbunchfilmfestival.com/\n\nVisit Arizona listing: https://www.visitar
  izona.com/events/11th-annual-int-l-wild-bunch-film-festival
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Galaxy Theatres Tucson\, South Houghton Road\, Tucson\, AZ\, USA
 URL:https://www.visitarizona.com/events/11th-annual-int-l-wild-bunch-film-
  festival
@@ -183,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:12th Annual Copperstate Overland
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:bcbd851c6c8b094d7ed1994c@visitarizona-calendar
 DESCRIPTION:A fully supported on-road/off-road driving adventure open to v
  intage off-road vehicles. Modeled after the renowned Copperstate 1000 vint
@@ -194,7 +134,7 @@ DESCRIPTION:A fully supported on-road/off-road driving adventure open to v
  nEvent website: https://mensartscouncil.com/copperstate-overland/\n\nVisit
   Arizona listing: https://www.visitarizona.com/events/12th-annual-copperst
  ate-overland
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 URL:https://www.visitarizona.com/events/12th-annual-copperstate-overland
 END:VEVENT
 BEGIN:VEVENT
@@ -202,7 +142,7 @@ SUMMARY:2025 Blue Water Resort & Casino-Bit Pros Fire Services Parker Endu
  ro
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:a105d77e826e2c08478e373c@visitarizona-calendar
 DESCRIPTION:This world famous event is the oldest and last endurance power
  boat race of its kind in the world.Racers from North America converge for 
@@ -213,42 +153,15 @@ DESCRIPTION:This world famous event is the oldest and last endurance power
   race.\n\nEvent website: https://rpmracingent.com/\n\nVisit Arizona listin
  g: https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-p
  ros-fire-services-parker-enduro
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 URL:https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-
  pros-fire-services-parker-enduro
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B.R.A.T.S. Parade
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20260923T152932Z
-UID:f7266d2ab5c92181fbdf43e3@visitarizona-calendar
-DESCRIPTION:The B.R.A.T.S. Parade is a ragtag posse of creatives who build
-  gravity-powered art carts that roll down Tombstone Canyon and Old Bisbee
- ’s Main Street.\n\nEvent website: https://www.bisbeebrats.com/\n\nVisit 
- Arizona listing: https://www.visitarizona.com/events/b-r-a-t-s-parade
-LAST-MODIFIED:20260923T152932Z
-URL:https://www.visitarizona.com/events/b-r-a-t-s-parade
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halloween Monster Bash
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20260923T152932Z
-UID:66baf7aa84f4ecc969764c4f@visitarizona-calendar
-DESCRIPTION:Treats\, musical entertainment\, costume contests\, family act
- ivities\, and more.\n\nEvent website: https://www.peoriaaz.gov/government/
- departments/arts-culture/special-events/halloween-monster-bash\n\nVisit Ar
- izona listing: https://www.visitarizona.com/events/halloween-monster-bash
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Peoria Sports Complex\, North 83rd Avenue\, Peoria\, AZ\, USA
-URL:https://www.visitarizona.com/events/halloween-monster-bash
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17th Annual Sonoran Fine Art & Wine Festival
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:43c2b92029b6671cdadf472c@visitarizona-calendar
 DESCRIPTION:Featuring local and regional artists showcasing their work ami
  dst western-style architecture and panoramic mountain views. Explore an ec
@@ -257,35 +170,16 @@ DESCRIPTION:Featuring local and regional artists showcasing their work ami
  stival experience.\n\nEvent website: https://www.vermillionpromotions.com/
  event/sonoran-fine-art-wine-festival/\n\nVisit Arizona listing: https://ww
  w.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-festival
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Stagecoach Village\, East Cave Creek Road\, Cave Creek\, AZ\, USA
 URL:https://www.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-
  festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Rough Rider
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20260923T152932Z
-UID:30fcd5142bb3aaa1b81f050f@visitarizona-calendar
-DESCRIPTION:Blends world-class riding with a uniquely local spirit—drawi
- ng on the legacy of frontier hero Buckey O’Neill and the rough-and-ready
-  cavalrymen of the Spanish-American War. Featuring epic routes through the
-  Prescott National Forest and beyond\, the race delivers challenging terra
- in\, scenic backcountry\, and legendary vibes in one of Arizona’s most i
- conic adventure destinations.\n\nEvent website: https://www.roughridergrav
- el.com/\n\nVisit Arizona listing: https://www.visitarizona.com/events/the-
- rough-rider
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Prescott Downtown Partnership\, East Gurley Street\, Prescott\, A
- Z\, USA
-URL:https://www.visitarizona.com/events/the-rough-rider
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15th Annual Bentley Scottsdale Polo Championships
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:0dbef6ec9c0ce7fbdf74bd5e@visitarizona-calendar
 DESCRIPTION:Featuring six matches\, four days of festivities. Includes a w
  ide spectrum of international talent\, and taking place the weekend before
@@ -294,33 +188,15 @@ DESCRIPTION:Featuring six matches\, four days of festivities. Includes a w
  ongest Catwalk Fashion Show by Phoenix Fashion Club.\n\nEvent website: htt
  ps://thepoloparty.com/\n\nVisit Arizona listing: https://www.visitarizona.
  com/events/15th-annual-bentley-scottsdale-polo-championships
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 URL:https://www.visitarizona.com/events/15th-annual-bentley-scottsdale-pol
  o-championships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:17th Annual Pecan Classic 10K and 5K Run/Walk
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20260923T152932Z
-UID:5cf4865ea23bfaa1ab6a3ea8@visitarizona-calendar
-DESCRIPTION:The race route travels a scenic course on dirt roads through t
- he pecan orchards\, giving runners the a unique and amazing Fall running e
- xperience under the trees. The 5K Run/Walk will be an out-and-back course 
- with a turn around at the 1.55 mile mark. [https://runsignup.com/Race/AZ/S
- ahuarita/PecanClassic10Kand5KRunWalk](https://runsignup.com/Race/AZ/Sahuar
- ita/PecanClassic10Kand5KRunWalk)\n\nEvent website: https://www.greenvalley
- pecan.com/5k-runs/\n\nVisit Arizona listing: https://www.visitarizona.com/
- events/17th-annual-pecan-classic-10k-and-5k-run-walk
-LAST-MODIFIED:20260923T152932Z
-URL:https://www.visitarizona.com/events/17th-annual-pecan-classic-10k-and-
- 5k-run-walk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18th Annual Walkin’ on Main
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:7be40c0393b7743cf2bb7c76@visitarizona-calendar
 DESCRIPTION:Enjoy outdoor wine tasting of the Verde Valley wines\, hosted 
  by the Verde Valley Wine Consortium. Find out why Cottonwood is the Heart 
@@ -329,7 +205,7 @@ DESCRIPTION:Enjoy outdoor wine tasting of the Verde Valley wines\, hosted
  ants of Old Town Cottonwood.\n\nEvent website: https://www.azwom.com/\n\nV
  isit Arizona listing: https://www.visitarizona.com/events/18th-annual-walk
  in-on-main
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Old Town Cottonwood\, North Main Street\, Cottonwood\, AZ\, USA
 URL:https://www.visitarizona.com/events/18th-annual-walkin-on-main
 END:VEVENT
@@ -337,12 +213,12 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Night Under the Stars
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:46b3a2021a8a96bfd6518343@visitarizona-calendar
 DESCRIPTION:Sponsored by the West Valley Astronomy Club.\n\nEvent website:
   https://nightsky.jpl.nasa.gov/events/wvac/38028/\n\nVisit Arizona listing
  : https://www.visitarizona.com/events/20th-annual-night-under-the-stars
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Alamo Lake State Park\, Arizona\, USA
 URL:https://www.visitarizona.com/events/20th-annual-night-under-the-stars
 END:VEVENT
@@ -350,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:10th Annual Dusk Music Festival
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:62c2628a4a65059d450645cc@visitarizona-calendar
 DESCRIPTION:A music\, culinary and art festival. DUSK builds on its reputa
  tion for diverse and inclusive lineups\, as well as Tucson's best food\, b
@@ -359,73 +235,77 @@ DESCRIPTION:A music\, culinary and art festival. DUSK builds on its reputa
  , and singer-songwriter.\n\nEvent website: https://duskmusicfestival.com/\
  n\nVisit Arizona listing: https://www.visitarizona.com/events/10th-annual-
  dusk-music-festival
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 URL:https://www.visitarizona.com/events/10th-annual-dusk-music-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11th Annual Pizza Festival
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:6fcb91773523d6a96476e088@visitarizona-calendar
 DESCRIPTION:Celebrates local pizza makers and features all types of pizza\
  , Italian foods and desserts. Enjoy local beer\, wine\, live music stage\,
   a vendor market\, a kids zone and more.\n\nEvent website: https://www.pho
  enix.pizza/\n\nVisit Arizona listing: https://www.visitarizona.com/events/
  11th-annual-pizza-festival
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Margaret T. Hance Park\, West Culver Street\, Phoenix\, AZ\, USA
 URL:https://www.visitarizona.com/events/11th-annual-pizza-festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:6th Annual Tempe Jam
+SUMMARY:Indigenous Arts Fair
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260923T152932Z
-UID:75a2221518214c7109e9e692@visitarizona-calendar
-DESCRIPTION:A free\, annual music celebration that honors and highlights l
- ocal bands and musicians who live\, work\, or play in Tempe. Also interact
- ive art installations\, arts activities\, dance performances\, food trucks
- \, a beer garden and more! Tempe Jam specifically highlights local musicia
- ns.\n\nEvent website: https://www.tempe.gov/government/community-services/
- arts-culture-history/community-arts/tempe-jam#ad-image-0\n\nVisit Arizona 
- listing: https://www.visitarizona.com/events/6th-annual-tempe-jam
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Tempe Sports Complex\, South Hardy Drive\, Tempe\, AZ\, USA
-URL:https://www.visitarizona.com/events/6th-annual-tempe-jam
+DTSTAMP:20260924T155509Z
+UID:28dfda966467825b8b5e8e12@visitarizona-calendar
+DESCRIPTION:Meet talented artists\, watch live demonstrations\, and shop a
+ uthentic handmade jewelry\, pottery\, paintings\, and more. Experience tra
+ dition\, creativity\, and connection in a vibrant outdoor setting.\n\nEven
+ t website: https://www.desertmuseum.org/calendar/\n\nVisit Arizona listing
+ : https://www.visitarizona.com/events/indigenous-arts-fair
+LAST-MODIFIED:20260924T155509Z
+LOCATION:Arizona Sonora Desert Museum
+URL:https://www.visitarizona.com/events/indigenous-arts-fair
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Study the Stars from Homolovi
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20260923T152932Z
-UID:910efdef771fa00f3bedea5e@visitarizona-calendar
-DESCRIPTION:Monthly**s**tar parties through November. They feature a guest
-  speaker in the visitor center followed by dark sky viewing through the Ho
- molovi Observatory’s Moore Telescope. Night sky targets change throughou
- t the year but may include deep space nebulae\, star clusters\, and more. 
- Homolovi is the only Arizona State Parks with its own observatory. Thank y
- ou to the Little Colorado River Valley Astronomy Club for supporting these
-  astronomy events. Learn more about them at[www.lcrvac.org](http://www.lcr
- vac.org/) or[nightsky.jpl.nasa.gov/clubs/lcrvac](http://nightsky.jpl.nasa.
- gov/clubs/lcrvac/)\n\nEvent website: https://azstateparks.com/homolovi/eve
- nts/star-party-homolovi\n\nVisit Arizona listing: https://www.visitarizona
- .com/events/study-the-stars-from-homolovi-837ac
-LAST-MODIFIED:20260923T152932Z
-LOCATION:Homolovi State Park\, AZ-87\, Winslow\, AZ\, USA
-URL:https://www.visitarizona.com/events/study-the-stars-from-homolovi-837a
- c
+SUMMARY:45th Annual Fort McDowell Orme Dam Victory Days
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260924T155509Z
+UID:4029abdac9e69e277cf373bc@visitarizona-calendar
+DESCRIPTION:Celebrating Yavapai land\, culture and tradition.\n\nEvent web
+ site: https://fmyn.org/events/\n\nVisit Arizona listing: https://www.visit
+ arizona.com/events/45th-annual-fort-mcdowell-orme-dam-victory-days
+LAST-MODIFIED:20260924T155509Z
+URL:https://www.visitarizona.com/events/45th-annual-fort-mcdowell-orme-dam
+ -victory-days
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:38th Annual Acker Night
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260924T155509Z
+UID:cfac4ac61cea87c093554d93@visitarizona-calendar
+DESCRIPTION:Acker Night is an evening when participating downtown business
+ es partner with local and national musical talent to bring you a fulfillin
+ g evening of music\, food\, and fun during the Christmas season all while 
+ donating to a worthy cause. More than 100 performers in more than 100 shop
+ s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
+  https://www.visitarizona.com/events/38th-annual-acker-night
+LAST-MODIFIED:20260924T155509Z
+URL:https://www.visitarizona.com/events/38th-annual-acker-night
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
 DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
  ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
  ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
  -sands-of-eternity
@@ -434,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:2025 Taco Bell New Year’s Eve Downtown Bowl Bash
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260923T152932Z
+DTSTAMP:20260924T155509Z
 UID:d104c3721bf1bc4536858a03@visitarizona-calendar
 DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
  s Band! A Silent Disco\, presented by Tucson Federal Credit Union. Food tr
@@ -444,7 +324,7 @@ DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
  earizonabowl.com/event/2025-taco-bell-new-years-eve-downtown-bowl-bash/\n\
  nVisit Arizona listing: https://www.visitarizona.com/events/2025-taco-bell
  -new-year-s-eve-downtown-bowl-bash
-LAST-MODIFIED:20260923T152932Z
+LAST-MODIFIED:20260924T155509Z
 LOCATION:Jácome Plaza\, North Stone Avenue\, Tucson\, AZ\, USA
 URL:https://www.visitarizona.com/events/2025-taco-bell-new-year-s-eve-down
  town-bowl-bash
