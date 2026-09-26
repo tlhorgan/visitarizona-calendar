@@ -5,121 +5,42 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:19th Annual Prescott Area Artist Studio Tour
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20260925T155253Z
-UID:337a2d26713c0bea7d12b495@visitarizona-calendar
-DESCRIPTION:Visit 74 juried artists across 53 private studios\, observe th
- eir creative processes and purchase one-of-a-kind works of art. Showcases 
- different artistic mediums — ranging from painting and ceramics to jewel
- ry and glass. Free and self-guided. Learn about the materials\, techniques
-  and processes used in creating a work of art\, while forging a personal c
- onnection with the artists.\n\nEvent website: https://www.prescottstudioto
- ur.com/%20%20%E2%80%8B\n\nVisit Arizona listing: https://www.visitarizona.
- com/events/19th-annual-prescott-area-artist-studio-tour
-LAST-MODIFIED:20260925T155253Z
-URL:https://www.visitarizona.com/events/19th-annual-prescott-area-artist-s
- tudio-tour
+SUMMARY:6th Annual Tempe Jam
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260926T150123Z
+UID:75a2221518214c7109e9e692@visitarizona-calendar
+DESCRIPTION:A free\, annual music celebration that honors and highlights l
+ ocal bands and musicians who live\, work\, or play in Tempe. Also interact
+ ive art installations\, arts activities\, dance performances\, food trucks
+ \, a beer garden and more! Tempe Jam specifically highlights local musicia
+ ns.\n\nEvent website: https://www.tempe.gov/government/community-services/
+ arts-culture-history/community-arts/tempe-jam#ad-image-0\n\nVisit Arizona 
+ listing: https://www.visitarizona.com/events/6th-annual-tempe-jam
+LAST-MODIFIED:20260926T150123Z
+LOCATION:Tempe Sports Complex\, South Hardy Drive\, Tempe\, AZ\, USA
+URL:https://www.visitarizona.com/events/6th-annual-tempe-jam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:22nd Annual Tucson Film Festival
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20260925T155253Z
-UID:941f3fc0c0c374bd17e2b548@visitarizona-calendar
-DESCRIPTION:Celebrates the past\, present and future of the Tucson\, Arizo
- na filmmaking scene. The festival accepts narrative and documentary featur
- es\, and shorts of all genres including Animation\, Experimental\, Comedy\
- , Drama and World. Tucson Film Festival will continue to focus on music-re
- lated content\, with an emphasis on films and filmmakers with a connection
-  to Arizona and the desert Southwest.\n\nEvent website: https://tucsonfilm
- festival.net/\n\nVisit Arizona listing: https://www.visitarizona.com/event
- s/22nd-annual-tucson-film-festival
-LAST-MODIFIED:20260925T155253Z
-URL:https://www.visitarizona.com/events/22nd-annual-tucson-film-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B.R.A.T.S. Parade
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20260925T155253Z
-UID:f7266d2ab5c92181fbdf43e3@visitarizona-calendar
-DESCRIPTION:The B.R.A.T.S. Parade is a ragtag posse of creatives who build
-  gravity-powered art carts that roll down Tombstone Canyon and Old Bisbee
- ’s Main Street.\n\nEvent website: https://www.bisbeebrats.com/\n\nVisit 
- Arizona listing: https://www.visitarizona.com/events/b-r-a-t-s-parade
-LAST-MODIFIED:20260925T155253Z
-URL:https://www.visitarizona.com/events/b-r-a-t-s-parade
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halloween Monster Bash
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20260925T155253Z
-UID:66baf7aa84f4ecc969764c4f@visitarizona-calendar
-DESCRIPTION:Treats\, musical entertainment\, costume contests\, family act
- ivities\, and more.\n\nEvent website: https://www.peoriaaz.gov/government/
- departments/arts-culture/special-events/halloween-monster-bash\n\nVisit Ar
- izona listing: https://www.visitarizona.com/events/halloween-monster-bash
-LAST-MODIFIED:20260925T155253Z
-LOCATION:Peoria Sports Complex\, North 83rd Avenue\, Peoria\, AZ\, USA
-URL:https://www.visitarizona.com/events/halloween-monster-bash
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boot Barn Turquoise Circuit Finals Rodeo\, presented by Bucky’s 
- Casin Turquoise Circuit Pro Rodeo Finals
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20260925T155253Z
-UID:9f7f6c8d262542cd79c9693c@visitarizona-calendar
-DESCRIPTION:The best from Arizona and New Mexico compete for a spot at the
-  NFR Open. _The best cowboys and cowgirls in the southwest!_\n\nEvent webs
- ite: https://www.turquoisecircuitfinalsrodeo.com/rodeo-info\n\nVisit Arizo
- na listing: https://www.visitarizona.com/events/boot-barn-turquoise-circui
- t-finals-rodeo-presented-by-bucky-s-casin-turquoise-circuit-pro-rodeo-fina
- ls
-LAST-MODIFIED:20260925T155253Z
-URL:https://www.visitarizona.com/events/boot-barn-turquoise-circuit-finals
- -rodeo-presented-by-bucky-s-casin-turquoise-circuit-pro-rodeo-finals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sedona Mountain Bike Festival
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20260925T155253Z
-UID:a8190d831061f0ae83093295@visitarizona-calendar
-DESCRIPTION:World-class mountain biking with more than 250 miles of stunni
- ng red rock single-track. Sedona Mountain Bike Festival is the must-visit 
- spring MTB event\, featuring a main Expo/Festival\, bike demos\, shuttled 
- rides\, gear vendors\, a beer garden\, bands\, food trucks\, and skills cl
- inics. Featuring 90+ vendors\, this festival offers more demo bikes and ac
- tivities than any other mountain bike fest.\n\nEvent website: https://sedo
- namtbfestival.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
- events/sedona-mountain-bike-festival
-LAST-MODIFIED:20260925T155253Z
-LOCATION:525 Posse Ground Road\, Sedona\, AZ\, USA
-URL:https://www.visitarizona.com/events/sedona-mountain-bike-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucson Marathon
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20260925T155253Z
-UID:3ee379f99edc5b58933fa2c3@visitarizona-calendar
-DESCRIPTION:Biosphere 2 to Oro Valley\, AZ. Net downhill courses along the
-  foothills of the Santa Catalina mountains run since 1969. The full Marath
- on\, 50K & Marathon Relay start at Biosphere 2 near Oracle and run down pa
- st Catalina\, through Oro Valley and finishing at Pima Community College N
- orthwest Campus. The Half Marathon starts at Golder Ranch Fire Administrat
- ion in Catalina and runs down through Oro Valley\, join The Loop Bike Path
-  next to the Cañada del Oro to the finish at Pima Community College. 50K 
- Ultra | Marathon | Half Marathon | Marathon Relay. [h](https://www.faceboo
- k.com/TucsonMarathon/)or\n\nEvent website: https://www.aravaiparunning.com
- /tucson/\n\nVisit Arizona listing: https://www.visitarizona.com/events/tuc
- son-marathon
-LAST-MODIFIED:20260925T155253Z
-LOCATION:Biosphere 2\, South Biosphere Road\, Oracle\, AZ\, USA
-URL:https://www.visitarizona.com/events/tucson-marathon
+SUMMARY:Study the Stars from Homolovi
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20260926T150123Z
+UID:910efdef771fa00f3bedea5e@visitarizona-calendar
+DESCRIPTION:Monthly**s**tar parties through November. They feature a guest
+  speaker in the visitor center followed by dark sky viewing through the Ho
+ molovi Observatory’s Moore Telescope. Night sky targets change throughou
+ t the year but may include deep space nebulae\, star clusters\, and more. 
+ Homolovi is the only Arizona State Parks with its own observatory. Thank y
+ ou to the Little Colorado River Valley Astronomy Club for supporting these
+  astronomy events. Learn more about them at[www.lcrvac.org](http://www.lcr
+ vac.org/) or[nightsky.jpl.nasa.gov/clubs/lcrvac](http://nightsky.jpl.nasa.
+ gov/clubs/lcrvac/)\n\nEvent website: https://azstateparks.com/homolovi/eve
+ nts/star-party-homolovi\n\nVisit Arizona listing: https://www.visitarizona
+ .com/events/study-the-stars-from-homolovi-837ac
+LAST-MODIFIED:20260926T150123Z
+LOCATION:Homolovi State Park\, AZ-87\, Winslow\, AZ\, USA
+URL:https://www.visitarizona.com/events/study-the-stars-from-homolovi-837a
+ c
 END:VEVENT
 END:VCALENDAR
