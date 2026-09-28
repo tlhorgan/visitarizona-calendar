@@ -5,42 +5,38 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:6th Annual Tempe Jam
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20260926T150123Z
-UID:75a2221518214c7109e9e692@visitarizona-calendar
-DESCRIPTION:A free\, annual music celebration that honors and highlights l
- ocal bands and musicians who live\, work\, or play in Tempe. Also interact
- ive art installations\, arts activities\, dance performances\, food trucks
- \, a beer garden and more! Tempe Jam specifically highlights local musicia
- ns.\n\nEvent website: https://www.tempe.gov/government/community-services/
- arts-culture-history/community-arts/tempe-jam#ad-image-0\n\nVisit Arizona 
- listing: https://www.visitarizona.com/events/6th-annual-tempe-jam
-LAST-MODIFIED:20260926T150123Z
-LOCATION:Tempe Sports Complex\, South Hardy Drive\, Tempe\, AZ\, USA
-URL:https://www.visitarizona.com/events/6th-annual-tempe-jam
+SUMMARY:Tour of the White Mountains
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260928T183835Z
+UID:c0e7525ec815947f77883f86@visitarizona-calendar
+DESCRIPTION:A family experience. Enjoy the onsite amphitheater for event a
+ ctivities and live music\, nearby accommodations\, campground games\, a co
+ mmunal campfire and more! At 7\,000 ft. a limited field of riders will dis
+ cover the challenges and gratification from riding awesome single track am
+ ong a pine forest backdrop while witnessing the endless beauty of the fall
+  season in the[Apache-Sitgreaves National Forests](http://www.fs.fed.us/r3
+ /asnf/).\n\nEvent website: https://epicrides.com/\n\nVisit Arizona listing
+ : https://www.visitarizona.com/events/tour-of-the-white-mountains
+LAST-MODIFIED:20260928T183835Z
+URL:https://www.visitarizona.com/events/tour-of-the-white-mountains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Study the Stars from Homolovi
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20260926T150123Z
-UID:910efdef771fa00f3bedea5e@visitarizona-calendar
-DESCRIPTION:Monthly**s**tar parties through November. They feature a guest
-  speaker in the visitor center followed by dark sky viewing through the Ho
- molovi Observatory’s Moore Telescope. Night sky targets change throughou
- t the year but may include deep space nebulae\, star clusters\, and more. 
- Homolovi is the only Arizona State Parks with its own observatory. Thank y
- ou to the Little Colorado River Valley Astronomy Club for supporting these
-  astronomy events. Learn more about them at[www.lcrvac.org](http://www.lcr
- vac.org/) or[nightsky.jpl.nasa.gov/clubs/lcrvac](http://nightsky.jpl.nasa.
- gov/clubs/lcrvac/)\n\nEvent website: https://azstateparks.com/homolovi/eve
- nts/star-party-homolovi\n\nVisit Arizona listing: https://www.visitarizona
- .com/events/study-the-stars-from-homolovi-837ac
-LAST-MODIFIED:20260926T150123Z
-LOCATION:Homolovi State Park\, AZ-87\, Winslow\, AZ\, USA
-URL:https://www.visitarizona.com/events/study-the-stars-from-homolovi-837a
- c
+SUMMARY:17th Annual Pecan Classic 10K and 5K Run/Walk
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20260928T183835Z
+UID:5cf4865ea23bfaa1ab6a3ea8@visitarizona-calendar
+DESCRIPTION:The race route travels a scenic course on dirt roads through t
+ he pecan orchards\, giving runners the a unique and amazing Fall running e
+ xperience under the trees. The 5K Run/Walk will be an out-and-back course 
+ with a turn around at the 1.55 mile mark. [https://runsignup.com/Race/AZ/S
+ ahuarita/PecanClassic10Kand5KRunWalk](https://runsignup.com/Race/AZ/Sahuar
+ ita/PecanClassic10Kand5KRunWalk)\n\nEvent website: https://www.greenvalley
+ pecan.com/5k-runs/\n\nVisit Arizona listing: https://www.visitarizona.com/
+ events/17th-annual-pecan-classic-10k-and-5k-run-walk
+LAST-MODIFIED:20260928T183835Z
+URL:https://www.visitarizona.com/events/17th-annual-pecan-classic-10k-and-
+ 5k-run-walk
 END:VEVENT
 END:VCALENDAR
