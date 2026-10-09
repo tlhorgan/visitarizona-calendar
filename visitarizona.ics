@@ -5,107 +5,136 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:19th Annual Prescott Area Artist Studio Tour
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20261008T175550Z
-UID:337a2d26713c0bea7d12b495@visitarizona-calendar
-DESCRIPTION:Visit 74 juried artists across 53 private studios\, observe th
- eir creative processes and purchase one-of-a-kind works of art. Showcases 
- different artistic mediums — ranging from painting and ceramics to jewel
- ry and glass. Free and self-guided. Learn about the materials\, techniques
-  and processes used in creating a work of art\, while forging a personal c
- onnection with the artists.\n\nEvent website: https://www.prescottstudioto
- ur.com/%20%20%E2%80%8B\n\nVisit Arizona listing: https://www.visitarizona.
- com/events/19th-annual-prescott-area-artist-studio-tour
-LAST-MODIFIED:20261008T175550Z
-URL:https://www.visitarizona.com/events/19th-annual-prescott-area-artist-s
- tudio-tour
+SUMMARY:PBR Teams: Ridge Rider Days
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20261009T172918Z
+UID:2880392f574cd50ae20e1cc4@visitarizona-calendar
+DESCRIPTION:Witness talented bull riders going head-to-head with powerful 
+ bucking bulls to see which team come out on top!\n\nEvent website: https:/
+ /www.pbr.com/events\n\nVisit Arizona listing: https://www.visitarizona.com
+ /events/pbr-teams-ridge-rider-days
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Desert Diamond Arena\, West Maryland Avenue\, Glendale\, AZ\, USA
+URL:https://www.visitarizona.com/events/pbr-teams-ridge-rider-days
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fuel Altered Chaos
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261008T175550Z
-UID:0c15b6f907b4c7939aa468e5@visitarizona-calendar
-DESCRIPTION:Hosted by Jim Hughes of Tucson Dragway and Chris Graves of the
-  CHAOS series (Funny Car Chaos | Nitro Chaos) in an effort to give fuel al
- tereds a standalone premier event in the Southwest and revive fuel altered
-  racing at historic Tucson Dragway where fuel altereds once thrived!\n\nEv
- ent website: https://funnycarchaos.com/fuel-altered-chaos.html\n\nVisit Ar
- izona listing: https://www.visitarizona.com/events/fuel-altered-chaos
-LAST-MODIFIED:20261008T175550Z
-LOCATION:Tucson Dragway\, Sds\, South Houghton Road\, Tucson\, AZ\, USA
-URL:https://www.visitarizona.com/events/fuel-altered-chaos
+SUMMARY:Annual Fort Verde Days
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261009T172918Z
+UID:7e8a1f0d7b611df01de2d0d6@visitarizona-calendar
+DESCRIPTION:For 65 years\, Fort Verde Days has served as the community’s
+  annual homecoming while also celebrating the military post around which t
+ he town Camp Verde grew. A parade on Saturday\, food & craft vendors\, ent
+ ertainment and a host of events at Fort Verde State Historic Park highligh
+ t this event.\n\nEvent website: https://visitcampverde.com/fort-verde-days
+ /\n\nVisit Arizona listing: https://www.visitarizona.com/events/annual-for
+ t-verde-days
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Fort Verde State Historic Park\, East Hollamon Street\, Camp Verd
+ e\, AZ\, USA
+URL:https://www.visitarizona.com/events/annual-fort-verde-days
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Page Chamber Street Fair
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261008T175550Z
-UID:cfc265a791b743a750833a97@visitarizona-calendar
-DESCRIPTION:Be in Page on the first weekend of November for the Balloon Re
- gatta and Page Chamber Street Fair. Scores of hot air balloons ascend into
-  the clear Arizona sky against a backdrop so wondrous and unique. Vendor f
- air festivities include family activities with**Inflatables**and**kid-frie
- ndly**activities\, plus live entertainment.\n\nEvent website: https://www.
- pagechamberstreetfair.com/\n\nVisit Arizona listing: https://www.visitariz
- ona.com/events/page-chamber-street-fair
-LAST-MODIFIED:20261008T175550Z
-LOCATION:48 S Lake Powell Blvd\, Page\, AZ\, USA
-URL:https://www.visitarizona.com/events/page-chamber-street-fair
+SUMMARY:Fall Frenzy
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261009T172918Z
+UID:05f6716c02b3bea2aeaf7b35@visitarizona-calendar
+DESCRIPTION:Two choices\, a scenic and more challenging 8 miler or less fr
+ enzy-a 4 miler desert area course with flat canal stretches\, some weaving
+  around a couple of urban lakes with enough inclines to give runners an ho
+ nest workout.This is a road race. Some limited canal stretches with packed
+  dirt\, but primarily paved\, multi-use paths and roads.\n\nEvent website:
+  https://arizonaroadracers.com/portfolio-item/fall-frenzy-4mile-8mile/\n\n
+ Visit Arizona listing: https://www.visitarizona.com/events/fall-frenzy
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Papago Park\, North Galvin Parkway\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/fall-frenzy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pass Mountain Trail Runs
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261008T175550Z
-UID:7d25a34433a81f3f79b98bec@visitarizona-calendar
-DESCRIPTION:This is the second race in the Aravaipa Running –[Desert Run
- ner Trail Series](https://www.aravaiparunning.com/desert-runner-trail-seri
- es/)\, Arizona’s premier trail & ultra-run series. Courses feature windi
- ng trails through Cholla Forests\, views of Pass Mountain\, and the Supers
- tition Mountain range before climbing up Pass Mountain in the Tonto Nation
- al Forest. Distances include a 50-mile\, 50K\, 25K\, 10K\, and 5K. [](http
- ://www.aravaiparunning.com/pass-mountain/)\n\nEvent website: http://www.ar
- avaiparunning.com/pass-mountain/\n\nVisit Arizona listing: https://www.vis
- itarizona.com/events/pass-mountain-trail-runs
-LAST-MODIFIED:20261008T175550Z
-LOCATION:Usery Mountain Regional Park Nature Center\, North Usery Pass Roa
- d\, Mesa\, AZ\, USA
-URL:https://www.visitarizona.com/events/pass-mountain-trail-runs
+SUMMARY:Kierland Fine Art & Wine Festival
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261009T172918Z
+UID:4282a94c8776081f1efe6ae1@visitarizona-calendar
+DESCRIPTION:Explore artworks—including bronze\, clay\, glass\, metal\, a
+ nd wood sculptures\, paintings\, mixed media\, fiber art\, hand-blown glas
+ s\, intricate woodwork\, one-of-a-kind jewelry\, and fine photography by 1
+ 50+ local and national artisans. Purchase a wine tasting that includes win
+ es from 10 of 16 of Arizona’s wineries\, and a commemorative glass. Live
+  music.\n\nEvent website: https://www.vermillionpromotions.com/event/sprin
+ g-art-wine-festival/\n\nVisit Arizona listing: https://www.visitarizona.co
+ m/events/kierland-fine-art-wine-festival
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Kierland Commons\, North Scottsdale Road\, Scottsdale\, AZ\, USA
+URL:https://www.visitarizona.com/events/kierland-fine-art-wine-festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gem & Mineral Show
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261008T175550Z
-UID:82963f450f43ec4882bbe413@visitarizona-calendar
-DESCRIPTION:40 vendors\, door prizes\, Best Rock contest\, raffle\, kid’
- s area\, silent auction.\n\nEvent website: https://wickenburggms.org/gem-%
- 26-mineral-show\n\nVisit Arizona listing: https://www.visitarizona.com/eve
- nts/gem-mineral-show
-LAST-MODIFIED:20261008T175550Z
-LOCATION:Hassayampa Elementary School\, East Coconino Street\, Wickenburg\
- , AZ\, USA
-URL:https://www.visitarizona.com/events/gem-mineral-show
+SUMMARY:YumaCon 2026
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261009T172918Z
+UID:a691d5bd884ea613c2692097@visitarizona-calendar
+DESCRIPTION:Cosplay as your favorite character with other fans\, play vide
+ o games\, and attend panels! Meet new friends and talk with special guest 
+ groups and cosplay judges. Play tabletop games and explore the vendor gall
+ ery for all your geek merchandise needs! Celebrate the arts and see why Yu
+ maCon is the place where comics\, anime\, and pop culture collide!\n\nEven
+ t website: https://www.yumaaz.gov/government/parks-recreation/yuma-art-cen
+ ter-historic-yuma-theatre/yumacon\n\nVisit Arizona listing: https://www.vi
+ sitarizona.com/events/yumacon-2026
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Yuma Civic Center\, West Desert Hills Drive\, Yuma\, AZ\, USA
+URL:https://www.visitarizona.com/events/yumacon-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4th Annual Art at Anthem
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261008T175550Z
-UID:a2065ce77497dd86d9d97c0e@visitarizona-calendar
-DESCRIPTION:Brings together 60 juried artists\, local makers\, live music\
- , and family fun. Highlights everything from fine art and photography to j
- ewelry\, pottery\, Native American works and gourmet gifts\, plus local fa
- vorites like Queen Bee Gourmet Honey and Homemade Mommy & Me Aprons. Visit
- ors can also enjoy live music\, Santa visits\, and the sight of Arizona’
- s tallest fresh-cut Christmas tree.\n\nEvent website: https://oakcreekarts
- andcraftsshow.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
- events/4th-annual-art-at-anthem
-LAST-MODIFIED:20261008T175550Z
-LOCATION:Outlets North Phoenix\, West Anthem Way\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/4th-annual-art-at-anthem
+SUMMARY:Holiday Artist Market
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261009T172918Z
+UID:70cff132faf4edaf8678cff1@visitarizona-calendar
+DESCRIPTION:Features approximately 25 artists and makers from Sedona and a
+ round Arizona\, offering unique\, handmade gifts and fine art. From cerami
+ cs and jewelry to paintings\, textiles and more. The market highlights a c
+ urated collection of beautiful and functional creations.\n\nEvent website:
+  https://sedonaartscenter.org/events/\n\nVisit Arizona listing: https://ww
+ w.visitarizona.com/events/holiday-artist-market
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Sedona Arts Center.
+URL:https://www.visitarizona.com/events/holiday-artist-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desert Solstice Track Invitational
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20261009T172918Z
+UID:66614e45356ac2339839a692@visitarizona-calendar
+DESCRIPTION:An elite-level event for record-setting and as an ideal qualif
+ ier for the national 24 Hour team. [2025 USATF 24 Hour National Team Selec
+ tion Procedures & Performance List](https://trailrunner.com/trail-news/202
+ 5-iau-24-hour-world-championship-us-team-selection-criteria/?fbclid=IwAR0H
+ ik6UhKIRXeJaWzIBx_LwlomV5bHS3iWHOvAkzgg3iX20smLnvjgVLEE). This event is by
+  invitation or qualification only. 24-hour\, 100 miles.\n\nEvent website: 
+ https://svmfoundation.org/Indian-Market\n\nVisit Arizona listing: https://
+ www.visitarizona.com/events/desert-solstice-track-invitational
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Camelback High School\, North 28th Street\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/desert-solstice-track-invitational
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual Whiskey Row Boot Drop
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261009T172918Z
+UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
+DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
+  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
+ y-row-boot-drop
+LAST-MODIFIED:20261009T172918Z
+LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
 END:VEVENT
 END:VCALENDAR
