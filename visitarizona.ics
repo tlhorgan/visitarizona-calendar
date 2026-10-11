@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:100th Annual Graham County Fair
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261011T134211Z
+DTSTAMP:20261011T164154Z
 UID:21b99466e6d5d383414a3490@visitarizona-calendar
 DESCRIPTION:From thrilling rides and hometown parades to sizzling fair foo
  d and spotlight entertainment\, the fair is where the Gila Valley gathers 
@@ -19,108 +19,140 @@ DESCRIPTION:From thrilling rides and hometown parades to sizzling fair foo
  nd what makes this our most anticipated event of the year.\n\nEvent websit
  e: https://www.grahamcountyfair.com/\n\nVisit Arizona listing: https://www
  .visitarizona.com/events/100th-annual-graham-county-fair
-LAST-MODIFIED:20261011T134211Z
+LAST-MODIFIED:20261011T164154Z
 URL:https://www.visitarizona.com/events/100th-annual-graham-county-fair
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Original Phoenix Greek Festival
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261011T134211Z
-UID:e5da2aca6ee0e19c61c8c734@visitarizona-calendar
-DESCRIPTION:Ethnic cuisine\, cooking demos\, cathedral tours\, folk dancer
- s\, authentic regional costumes\, artifacts\, entertainment.\n\nEvent webs
- ite: https://phoenixgreekfestival.org/\n\nVisit Arizona listing: https://w
- ww.visitarizona.com/events/the-original-phoenix-greek-festival
-LAST-MODIFIED:20261011T134211Z
-LOCATION:Holy Trinity Greek Orthodox Cathedral\, East Maryland Avenue\, Ph
- oenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/the-original-phoenix-greek-festiva
- l
+SUMMARY:20th Annual Prescott Antique Show & Vintage Market
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20261011T164154Z
+UID:84952bff23a6ac86a2ceaaf9@visitarizona-calendar
+DESCRIPTION:Hosts vendors from all around Arizona and from surrounding sta
+ tes. Antiques and collectibles\, vintage clothing\, furniture\, home decor
+  - 3 buildings and outside area stuffed to the brim with made in the USA g
+ oods!\n\nEvent website: https://www.prescottantiqueshow.com/\n\nVisit Ariz
+ ona listing: https://www.visitarizona.com/events/20th-annual-prescott-anti
+ que-show-vintage-market
+LAST-MODIFIED:20261011T164154Z
+LOCATION:Prescott Rodeo Grounds\, Fairgrounds Avenue\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/20th-annual-prescott-antique-show-
+ vintage-market
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tucson Meet Yourself
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261011T134211Z
-UID:92bc040427b4414101e9f360@visitarizona-calendar
-DESCRIPTION:Tucson’s beloved folk life festival\, since 1974. More than 
- 75 live performances of traditional dance and music on three stages.More t
- han 75 traditional artists. Over 50 food vendors. Celebrate in the folklor
- e of childhood with live and interactive performances and activities.\n\nE
- vent website: https://tucsonmeetyourself.org/\n\nVisit Arizona listing: ht
- tps://www.visitarizona.com/events/tucson-meet-yourself
-LAST-MODIFIED:20261011T134211Z
-URL:https://www.visitarizona.com/events/tucson-meet-yourself
+SUMMARY:Arizona Dressage Association State Championship and Fall Fiesta
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261011T164154Z
+UID:bf596416763f7aac378b3055@visitarizona-calendar
+DESCRIPTION:This prestigious event brings together top riders from across 
+ the state to compete in a full slate of USDF/USEF classes\, including cham
+ pionship divisions.\n\nEvent website: https://azdressage.org/event/fall-fi
+ esta-recognized-show-arizona-state-dressage-championship/2026-11-07/\n\nVi
+ sit Arizona listing: https://www.visitarizona.com/events/arizona-dressage-
+ association-state-championship-and-fall-fiesta
+LAST-MODIFIED:20261011T164154Z
+LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
+URL:https://www.visitarizona.com/events/arizona-dressage-association-state
+ -championship-and-fall-fiesta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bisbee 1000 Stair Climb
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DTSTAMP:20261011T134211Z
-UID:ded9145e2afb6ae989c4e151@visitarizona-calendar
-DESCRIPTION:A challenging competitive run or a leisurely explorative walk 
- of Bisbee's more than 1000 stairs. Win prizes and help restore the histori
- c steps while improving your own health. The 1000 Ironman Ice Competition\
- , "the event within the event"\, involves carrying blocks of ice with a pa
- ir of antique tongs up 155 stairs\, across a trail and down a winding road
-  to an exhilarating finish—fun to participate in or just to watch!\n\nEv
- ent website: https://www.bisbee1000.org/\n\nVisit Arizona listing: https:/
- /www.visitarizona.com/events/bisbee-1000-stair-climb
-LAST-MODIFIED:20261011T134211Z
-URL:https://www.visitarizona.com/events/bisbee-1000-stair-climb
+SUMMARY:Autumnfest
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261011T164154Z
+UID:fbb5740f6727b3ec559f86d6@visitarizona-calendar
+DESCRIPTION:The Autumnfest Arts and Crafts fair is a festival-goers favori
+ te\, and offers all who attend the opportunity to get a head start on holi
+ day shopping! Fine arts\, crafts\, culinary items\, hand-made goods\, and 
+ more are offered for sale by vendors from across the state and region.\n\n
+ Event website: https://www.anthemcouncil.com/228/Autumnfest\n\nVisit Arizo
+ na listing: https://www.visitarizona.com/events/autumnfest
+LAST-MODIFIED:20261011T164154Z
+LOCATION:Anthem Community Park\, North Gavilan Peak Parkway\, Anthem\, AZ\
+ , USA
+URL:https://www.visitarizona.com/events/autumnfest
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Dia de los Muertos Celebration
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261011T134211Z
-UID:097d51bf31654c8f3363d0bd@visitarizona-calendar
-DESCRIPTION:Mesa Arts Center is pleased to celebrate Día de los Muertos w
- ith an annual event created in collaboration with the community.Día de lo
- s Muertos is a celebration of Latin American art and culture related to th
- e Mexican holiday\, Day of the Dead.The annual free event offers a variety
-  of features\, performances and more in celebration of the memories of the
-  deceased.\n\nEvent website: https://mesaartscenter.com/diadelosmuertos\n\
- nVisit Arizona listing: https://www.visitarizona.com/events/el-dia-de-los-
- muertos-celebration
-LAST-MODIFIED:20261011T134211Z
-LOCATION:Mesa Arts Center\, East Main Street\, Mesa\, AZ\, USA
-URL:https://www.visitarizona.com/events/el-dia-de-los-muertos-celebration
+SUMMARY:Arizona Paint Horse Club Arizona Harvest of Color
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261011T164154Z
+UID:80154ac7bd152cc122a1a6b7@visitarizona-calendar
+DESCRIPTION:12-15 SCOTTSDALE: – WestWorld. Western\, English\, jumping\,
+  driving\, ranch and halter APHA classes & all breed classes.\n\nEvent web
+ site: https://azpaints.org/aphc-harvest-of-color-25\n\nVisit Arizona listi
+ ng: https://www.visitarizona.com/events/arizona-paint-horse-club-arizona-h
+ arvest-of-color
+LAST-MODIFIED:20261011T164154Z
+LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
+URL:https://www.visitarizona.com/events/arizona-paint-horse-club-arizona-h
+ arvest-of-color
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Javelina Jundred 100
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261011T134211Z
-UID:f23d790dab6d5d16ad479cd4@visitarizona-calendar
-DESCRIPTION:Javelina Jundred is the original costumed 100-mile trail run p
- arty. The race is held on a ~20 mile rolling single track trail course com
- prised mostly of the Pemberton Trail in beautiful[McDowell Mountain Region
- al Park](http://www.maricopa.gov/parks/mcdowell/).\n\nEvent website: https
- ://www.aravaiparunning.com/javelina/\n\nVisit Arizona listing: https://www
- .visitarizona.com/events/javelina-jundred-100
-LAST-MODIFIED:20261011T134211Z
-LOCATION:McDowell Mountain Regional Park\, McDowell Mountain Park Drive\, 
- Fort McDowell\, AZ\, USA
-URL:https://www.visitarizona.com/events/javelina-jundred-100
+SUMMARY:Route 66 UltraRun
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261011T164154Z
+UID:0a22ee6607dacf7754bc98e2@visitarizona-calendar
+DESCRIPTION:The race recognizes and celebrates the history of the Mother R
+ oad. From the Bunion Derbies\; “Oakie’s” during the Dust Bowl\; the 
+ boom years of family road trips after WWII\; decline after the interstate 
+ system bypassed mom- and-pop motels\, restaurants\, and shops\; to grassro
+ ots resurgence leading to official recognition that Route 66 had “become
+  a symbol of the American people’s heritage of travel and their legacy o
+ f seeking a better life.” Options are available for a fast solo runner\,
+  a team player or even a walker. Individual runners or relay teams Route 6
+ 6 Centennial Certified Event 140 Miles of History\n\nEvent website: https:
+ //route66ultrarun.com/\n\nVisit Arizona listing: https://www.visitarizona.
+ com/events/route-66-ultrarun
+LAST-MODIFIED:20261011T164154Z
+LOCATION:22265 Historic Route 66\, Seligman\, AZ 86337
+URL:https://www.visitarizona.com/events/route-66-ultrarun
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Christmas Parade and Craft Fair
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261011T134211Z
-UID:dd75f29d8167828d71710677@visitarizona-calendar
-DESCRIPTION:A dazzling display of lights\, laughter\, and community joy. I
- t transforms our quaint town into a winter wonderland. There's something m
- agical for everyone to enjoy at this enchanting celebration of the holiday
-  season.\n\nEvent website: https://visitwillcox.az.gov/christmas-parade-cr
- aft-fair?__hstc=241043100.1ef1a6486e0074b5d2dfb50bea886bdd.1791726080397.1
- 791726080397.1791726080397.1&__hssc=241043100.1.1791726080397&__hsfp=154eb
- c98dab32d492c87709eae91f0d9\n\nVisit Arizona listing: https://www.visitari
- zona.com/events/christmas-parade-and-craft-fair
-LAST-MODIFIED:20261011T134211Z
-LOCATION:Railroad Park\, N Railroad Ave\, Willcox\, AZ\, USA
-URL:https://www.visitarizona.com/events/christmas-parade-and-craft-fair
+SUMMARY:45th Annual Fort McDowell Orme Dam Victory Days
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261011T164154Z
+UID:4029abdac9e69e277cf373bc@visitarizona-calendar
+DESCRIPTION:Celebrating Yavapai land\, culture and tradition.\n\nEvent web
+ site: https://fmyn.org/events/\n\nVisit Arizona listing: https://www.visit
+ arizona.com/events/45th-annual-fort-mcdowell-orme-dam-victory-days
+LAST-MODIFIED:20261011T164154Z
+URL:https://www.visitarizona.com/events/45th-annual-fort-mcdowell-orme-dam
+ -victory-days
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cars & Coffee
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261011T164154Z
+UID:5bf054b9d30a1b33665e3759@visitarizona-calendar
+DESCRIPTION:Participant free coffee and prizes in different categories\, f
+ ood and beverage specials\, Hualapai vendors\, Hualapai DJ\, singers and d
+ ancers\, and a live remote event with KWLP.\n\nEvent website: https://www.
+ visitarizona.com/events/cars-coffee-ab655#\n\nVisit Arizona listing: https
+ ://www.visitarizona.com/events/cars-coffee-ab655
+LAST-MODIFIED:20261011T164154Z
+LOCATION:Hualapai Lodge\, Arizona 66\, Peach Springs\, AZ\, USA
+URL:https://www.visitarizona.com/events/cars-coffee-ab655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Run Rudolph
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20261011T164154Z
+UID:cc5879b6b0fffba9df67a020@visitarizona-calendar
+DESCRIPTION:Get Rudolph & the rest of the reindeer ready for delivery day 
+ with a Half Marathon\, Quarter Marathon\, 5K\,and Reindeer Dash!The course
+  is on dedicated running trails (all asphalt and concrete) of the New Rive
+ r Trail System\, starting and ending at Peoria Sports Complex.\n\nEvent we
+ bsite: https://www.runguides.com/event/2495/phoenix-run-run-rudolph\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/run-run-rudolph
+LAST-MODIFIED:20261011T164154Z
+LOCATION:Rio Vista Community Park\, West Thunderbird Road\, Peoria\, AZ\, 
+ USA
+URL:https://www.visitarizona.com/events/run-run-rudolph
 END:VEVENT
 END:VCALENDAR
