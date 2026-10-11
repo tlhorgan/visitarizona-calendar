@@ -5,136 +5,122 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:PBR Teams: Ridge Rider Days
+SUMMARY:100th Annual Graham County Fair
 DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261009T172918Z
-UID:2880392f574cd50ae20e1cc4@visitarizona-calendar
-DESCRIPTION:Witness talented bull riders going head-to-head with powerful 
- bucking bulls to see which team come out on top!\n\nEvent website: https:/
- /www.pbr.com/events\n\nVisit Arizona listing: https://www.visitarizona.com
- /events/pbr-teams-ridge-rider-days
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Desert Diamond Arena\, West Maryland Avenue\, Glendale\, AZ\, USA
-URL:https://www.visitarizona.com/events/pbr-teams-ridge-rider-days
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annual Fort Verde Days
-DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20261009T172918Z
-UID:7e8a1f0d7b611df01de2d0d6@visitarizona-calendar
-DESCRIPTION:For 65 years\, Fort Verde Days has served as the community’s
-  annual homecoming while also celebrating the military post around which t
- he town Camp Verde grew. A parade on Saturday\, food & craft vendors\, ent
- ertainment and a host of events at Fort Verde State Historic Park highligh
- t this event.\n\nEvent website: https://visitcampverde.com/fort-verde-days
- /\n\nVisit Arizona listing: https://www.visitarizona.com/events/annual-for
- t-verde-days
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Fort Verde State Historic Park\, East Hollamon Street\, Camp Verd
- e\, AZ\, USA
-URL:https://www.visitarizona.com/events/annual-fort-verde-days
+DTSTAMP:20261011T134211Z
+UID:21b99466e6d5d383414a3490@visitarizona-calendar
+DESCRIPTION:From thrilling rides and hometown parades to sizzling fair foo
+ d and spotlight entertainment\, the fair is where the Gila Valley gathers 
+ to celebrate our roots\, our people\, and our spirit. Our 99th year is all
+  about feeling fine and celebrating what makes our community one-of-a-kind
+ . Whether you're a longtime fairgoer\, a curious first-timer\, or visiting
+  Arizona for the season — come see what’s new\, what’s nostalgic\, a
+ nd what makes this our most anticipated event of the year.\n\nEvent websit
+ e: https://www.grahamcountyfair.com/\n\nVisit Arizona listing: https://www
+ .visitarizona.com/events/100th-annual-graham-county-fair
+LAST-MODIFIED:20261011T134211Z
+URL:https://www.visitarizona.com/events/100th-annual-graham-county-fair
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall Frenzy
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261009T172918Z
-UID:05f6716c02b3bea2aeaf7b35@visitarizona-calendar
-DESCRIPTION:Two choices\, a scenic and more challenging 8 miler or less fr
- enzy-a 4 miler desert area course with flat canal stretches\, some weaving
-  around a couple of urban lakes with enough inclines to give runners an ho
- nest workout.This is a road race. Some limited canal stretches with packed
-  dirt\, but primarily paved\, multi-use paths and roads.\n\nEvent website:
-  https://arizonaroadracers.com/portfolio-item/fall-frenzy-4mile-8mile/\n\n
- Visit Arizona listing: https://www.visitarizona.com/events/fall-frenzy
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Papago Park\, North Galvin Parkway\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/fall-frenzy
+SUMMARY:The Original Phoenix Greek Festival
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261011T134211Z
+UID:e5da2aca6ee0e19c61c8c734@visitarizona-calendar
+DESCRIPTION:Ethnic cuisine\, cooking demos\, cathedral tours\, folk dancer
+ s\, authentic regional costumes\, artifacts\, entertainment.\n\nEvent webs
+ ite: https://phoenixgreekfestival.org/\n\nVisit Arizona listing: https://w
+ ww.visitarizona.com/events/the-original-phoenix-greek-festival
+LAST-MODIFIED:20261011T134211Z
+LOCATION:Holy Trinity Greek Orthodox Cathedral\, East Maryland Avenue\, Ph
+ oenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/the-original-phoenix-greek-festiva
+ l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kierland Fine Art & Wine Festival
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261009T172918Z
-UID:4282a94c8776081f1efe6ae1@visitarizona-calendar
-DESCRIPTION:Explore artworks—including bronze\, clay\, glass\, metal\, a
- nd wood sculptures\, paintings\, mixed media\, fiber art\, hand-blown glas
- s\, intricate woodwork\, one-of-a-kind jewelry\, and fine photography by 1
- 50+ local and national artisans. Purchase a wine tasting that includes win
- es from 10 of 16 of Arizona’s wineries\, and a commemorative glass. Live
-  music.\n\nEvent website: https://www.vermillionpromotions.com/event/sprin
- g-art-wine-festival/\n\nVisit Arizona listing: https://www.visitarizona.co
- m/events/kierland-fine-art-wine-festival
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Kierland Commons\, North Scottsdale Road\, Scottsdale\, AZ\, USA
-URL:https://www.visitarizona.com/events/kierland-fine-art-wine-festival
+SUMMARY:Tucson Meet Yourself
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261011T134211Z
+UID:92bc040427b4414101e9f360@visitarizona-calendar
+DESCRIPTION:Tucson’s beloved folk life festival\, since 1974. More than 
+ 75 live performances of traditional dance and music on three stages.More t
+ han 75 traditional artists. Over 50 food vendors. Celebrate in the folklor
+ e of childhood with live and interactive performances and activities.\n\nE
+ vent website: https://tucsonmeetyourself.org/\n\nVisit Arizona listing: ht
+ tps://www.visitarizona.com/events/tucson-meet-yourself
+LAST-MODIFIED:20261011T134211Z
+URL:https://www.visitarizona.com/events/tucson-meet-yourself
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YumaCon 2026
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261009T172918Z
-UID:a691d5bd884ea613c2692097@visitarizona-calendar
-DESCRIPTION:Cosplay as your favorite character with other fans\, play vide
- o games\, and attend panels! Meet new friends and talk with special guest 
- groups and cosplay judges. Play tabletop games and explore the vendor gall
- ery for all your geek merchandise needs! Celebrate the arts and see why Yu
- maCon is the place where comics\, anime\, and pop culture collide!\n\nEven
- t website: https://www.yumaaz.gov/government/parks-recreation/yuma-art-cen
- ter-historic-yuma-theatre/yumacon\n\nVisit Arizona listing: https://www.vi
- sitarizona.com/events/yumacon-2026
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Yuma Civic Center\, West Desert Hills Drive\, Yuma\, AZ\, USA
-URL:https://www.visitarizona.com/events/yumacon-2026
+SUMMARY:Bisbee 1000 Stair Climb
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261011T134211Z
+UID:ded9145e2afb6ae989c4e151@visitarizona-calendar
+DESCRIPTION:A challenging competitive run or a leisurely explorative walk 
+ of Bisbee's more than 1000 stairs. Win prizes and help restore the histori
+ c steps while improving your own health. The 1000 Ironman Ice Competition\
+ , "the event within the event"\, involves carrying blocks of ice with a pa
+ ir of antique tongs up 155 stairs\, across a trail and down a winding road
+  to an exhilarating finish—fun to participate in or just to watch!\n\nEv
+ ent website: https://www.bisbee1000.org/\n\nVisit Arizona listing: https:/
+ /www.visitarizona.com/events/bisbee-1000-stair-climb
+LAST-MODIFIED:20261011T134211Z
+URL:https://www.visitarizona.com/events/bisbee-1000-stair-climb
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holiday Artist Market
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-DTSTAMP:20261009T172918Z
-UID:70cff132faf4edaf8678cff1@visitarizona-calendar
-DESCRIPTION:Features approximately 25 artists and makers from Sedona and a
- round Arizona\, offering unique\, handmade gifts and fine art. From cerami
- cs and jewelry to paintings\, textiles and more. The market highlights a c
- urated collection of beautiful and functional creations.\n\nEvent website:
-  https://sedonaartscenter.org/events/\n\nVisit Arizona listing: https://ww
- w.visitarizona.com/events/holiday-artist-market
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Sedona Arts Center.
-URL:https://www.visitarizona.com/events/holiday-artist-market
+SUMMARY:El Dia de los Muertos Celebration
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261011T134211Z
+UID:097d51bf31654c8f3363d0bd@visitarizona-calendar
+DESCRIPTION:Mesa Arts Center is pleased to celebrate Día de los Muertos w
+ ith an annual event created in collaboration with the community.Día de lo
+ s Muertos is a celebration of Latin American art and culture related to th
+ e Mexican holiday\, Day of the Dead.The annual free event offers a variety
+  of features\, performances and more in celebration of the memories of the
+  deceased.\n\nEvent website: https://mesaartscenter.com/diadelosmuertos\n\
+ nVisit Arizona listing: https://www.visitarizona.com/events/el-dia-de-los-
+ muertos-celebration
+LAST-MODIFIED:20261011T134211Z
+LOCATION:Mesa Arts Center\, East Main Street\, Mesa\, AZ\, USA
+URL:https://www.visitarizona.com/events/el-dia-de-los-muertos-celebration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Desert Solstice Track Invitational
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20261009T172918Z
-UID:66614e45356ac2339839a692@visitarizona-calendar
-DESCRIPTION:An elite-level event for record-setting and as an ideal qualif
- ier for the national 24 Hour team. [2025 USATF 24 Hour National Team Selec
- tion Procedures & Performance List](https://trailrunner.com/trail-news/202
- 5-iau-24-hour-world-championship-us-team-selection-criteria/?fbclid=IwAR0H
- ik6UhKIRXeJaWzIBx_LwlomV5bHS3iWHOvAkzgg3iX20smLnvjgVLEE). This event is by
-  invitation or qualification only. 24-hour\, 100 miles.\n\nEvent website: 
- https://svmfoundation.org/Indian-Market\n\nVisit Arizona listing: https://
- www.visitarizona.com/events/desert-solstice-track-invitational
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Camelback High School\, North 28th Street\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/desert-solstice-track-invitational
+SUMMARY:Javelina Jundred 100
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261011T134211Z
+UID:f23d790dab6d5d16ad479cd4@visitarizona-calendar
+DESCRIPTION:Javelina Jundred is the original costumed 100-mile trail run p
+ arty. The race is held on a ~20 mile rolling single track trail course com
+ prised mostly of the Pemberton Trail in beautiful[McDowell Mountain Region
+ al Park](http://www.maricopa.gov/parks/mcdowell/).\n\nEvent website: https
+ ://www.aravaiparunning.com/javelina/\n\nVisit Arizona listing: https://www
+ .visitarizona.com/events/javelina-jundred-100
+LAST-MODIFIED:20261011T134211Z
+LOCATION:McDowell Mountain Regional Park\, McDowell Mountain Park Drive\, 
+ Fort McDowell\, AZ\, USA
+URL:https://www.visitarizona.com/events/javelina-jundred-100
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:15th Annual Whiskey Row Boot Drop
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261009T172918Z
-UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
-DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
-  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
- it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
- y-row-boot-drop
-LAST-MODIFIED:20261009T172918Z
-LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
-URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
+SUMMARY:Christmas Parade and Craft Fair
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261011T134211Z
+UID:dd75f29d8167828d71710677@visitarizona-calendar
+DESCRIPTION:A dazzling display of lights\, laughter\, and community joy. I
+ t transforms our quaint town into a winter wonderland. There's something m
+ agical for everyone to enjoy at this enchanting celebration of the holiday
+  season.\n\nEvent website: https://visitwillcox.az.gov/christmas-parade-cr
+ aft-fair?__hstc=241043100.1ef1a6486e0074b5d2dfb50bea886bdd.1791726080397.1
+ 791726080397.1791726080397.1&__hssc=241043100.1.1791726080397&__hsfp=154eb
+ c98dab32d492c87709eae91f0d9\n\nVisit Arizona listing: https://www.visitari
+ zona.com/events/christmas-parade-and-craft-fair
+LAST-MODIFIED:20261011T134211Z
+LOCATION:Railroad Park\, N Railroad Ave\, Willcox\, AZ\, USA
+URL:https://www.visitarizona.com/events/christmas-parade-and-craft-fair
 END:VEVENT
 END:VCALENDAR
