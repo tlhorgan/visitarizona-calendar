@@ -98,6 +98,17 @@ def discover_event_urls(session: requests.Session) -> list[str]:
         if urlparse(u).netloc.endswith("visitarizona.com")
         and re.search(r"/events/[^/?#]+$", urlparse(u).path.rstrip("/"))
     }
+    if not clean and OUTPUT.exists():
+        # Keep discovery resilient when Visit Arizona blocks sitemap/index access.
+        # The previously published ICS retains canonical event listing URLs.
+        previous = OUTPUT.read_text(encoding="utf-8", errors="ignore")
+        fallback = set(re.findall(
+            r"https?://(?:www\\.)?visitarizona\\.com/events/[^\\s\\\\,;<>]+",
+            previous, re.I,
+        ))
+        clean.update(u.rstrip("/").split("#", 1)[0] for u in fallback
+                     if re.search(r"/events/[^/?#]+$", urlparse(u).path.rstrip("/")))
+        print(f"Existing calendar fallback: {len(clean)} event URLs")
     return sorted(clean)
 
 
@@ -305,7 +316,10 @@ def main() -> None:
             time.sleep(0.15)
     events = deduplicate(events)
     if not events:
-        raise RuntimeError("No current or future events were parsed; existing calendar was not replaced")
+        if OUTPUT.exists() and OUTPUT.stat().st_size > 100:
+            print("WARNING: No fresh events available; preserving existing calendar without publishing an empty feed")
+            return
+        raise RuntimeError("No current or future events were parsed; no existing calendar to preserve")
     write_calendar(events)
     print(f"Visit Arizona: wrote {len(events)} events to {OUTPUT.name}")
 
