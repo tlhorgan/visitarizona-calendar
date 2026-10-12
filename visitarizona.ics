@@ -5,154 +5,120 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:100th Annual Graham County Fair
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261011T164154Z
-UID:21b99466e6d5d383414a3490@visitarizona-calendar
-DESCRIPTION:From thrilling rides and hometown parades to sizzling fair foo
- d and spotlight entertainment\, the fair is where the Gila Valley gathers 
- to celebrate our roots\, our people\, and our spirit. Our 99th year is all
-  about feeling fine and celebrating what makes our community one-of-a-kind
- . Whether you're a longtime fairgoer\, a curious first-timer\, or visiting
-  Arizona for the season — come see what’s new\, what’s nostalgic\, a
- nd what makes this our most anticipated event of the year.\n\nEvent websit
- e: https://www.grahamcountyfair.com/\n\nVisit Arizona listing: https://www
- .visitarizona.com/events/100th-annual-graham-county-fair
-LAST-MODIFIED:20261011T164154Z
-URL:https://www.visitarizona.com/events/100th-annual-graham-county-fair
+SUMMARY:27th Annual Mariachi and Folklórico Festival with Aída Cuevas
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261012T202002Z
+UID:7e984c9c9bdf590712657e67@visitarizona-calendar
+DESCRIPTION:Celebrates Hispanic Heritage Month\, the Chandler Mariachi and
+  Folklórico Festival honors Mexican music\, art\, and culture. Showcases 
+ music by renowned mariachi ensembles and captivating folklórico dance per
+ formances.\n\nEvent website: https://www.chandlercenter.org/events/cca-cal
+ le-de-arizona-present-27th-annual-mariachi-and-folklorico-festival\n\nVisi
+ t Arizona listing: https://www.visitarizona.com/events/27th-annual-mariach
+ i-and-folklorico-festival-with-aida-cuevas
+LAST-MODIFIED:20261012T202002Z
+LOCATION:Chandler Center for the Arts\, North Arizona Avenue\, Chandler\, 
+ AZ\, USA
+URL:https://www.visitarizona.com/events/27th-annual-mariachi-and-folkloric
+ o-festival-with-aida-cuevas
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:20th Annual Prescott Antique Show & Vintage Market
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261011T164154Z
-UID:84952bff23a6ac86a2ceaaf9@visitarizona-calendar
-DESCRIPTION:Hosts vendors from all around Arizona and from surrounding sta
- tes. Antiques and collectibles\, vintage clothing\, furniture\, home decor
-  - 3 buildings and outside area stuffed to the brim with made in the USA g
- oods!\n\nEvent website: https://www.prescottantiqueshow.com/\n\nVisit Ariz
- ona listing: https://www.visitarizona.com/events/20th-annual-prescott-anti
- que-show-vintage-market
-LAST-MODIFIED:20261011T164154Z
-LOCATION:Prescott Rodeo Grounds\, Fairgrounds Avenue\, Prescott\, AZ\, USA
-URL:https://www.visitarizona.com/events/20th-annual-prescott-antique-show-
- vintage-market
+SUMMARY:Day of the Dead
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261012T202002Z
+UID:433e5b7ddddffa43d12157b3@visitarizona-calendar
+DESCRIPTION:Ballet Folkloric de Colores performs traditional dances in col
+ orful\, vibrant\, time-honored costumes. One of Sedona’s favorite guitar
+ ists\, Eric mesmerizes audiences with his mastery of flamenco\, Latin rhyt
+ hms\, Brazilian sambas\, jazz and original compositions. An award-winning 
+ all-women Mariachi group from Phoenix. Beautiful Mexican ballads and Neo F
+ lamenco music\, kid’s activities and more.\n\nEvent website: https://www
+ .tlaq.com/events\n\nVisit Arizona listing: https://www.visitarizona.com/ev
+ ents/day-of-the-dead
+LAST-MODIFIED:20261012T202002Z
+LOCATION:TLAQUEPAQUE\, Arizona 179\, Sedona\, AZ\, USA
+URL:https://www.visitarizona.com/events/day-of-the-dead
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arizona Dressage Association State Championship and Fall Fiesta
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DTSTAMP:20261011T164154Z
-UID:bf596416763f7aac378b3055@visitarizona-calendar
-DESCRIPTION:This prestigious event brings together top riders from across 
- the state to compete in a full slate of USDF/USEF classes\, including cham
- pionship divisions.\n\nEvent website: https://azdressage.org/event/fall-fi
- esta-recognized-show-arizona-state-dressage-championship/2026-11-07/\n\nVi
- sit Arizona listing: https://www.visitarizona.com/events/arizona-dressage-
- association-state-championship-and-fall-fiesta
-LAST-MODIFIED:20261011T164154Z
-LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
-URL:https://www.visitarizona.com/events/arizona-dressage-association-state
- -championship-and-fall-fiesta
+SUMMARY:Light the Night Walk
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20261012T202002Z
+UID:5ab83d20be8c49ba069c2b0d@visitarizona-calendar
+DESCRIPTION:For Leukemia & Lymphoma Society. To celebrate\, honor\, and re
+ member those touched by blood cancers.\n\nEvent website: https://www.light
+ thenight.org/events/greater-phoenix\n\nVisit Arizona listing: https://www.
+ visitarizona.com/events/light-the-night-walk
+LAST-MODIFIED:20261012T202002Z
+LOCATION:Salt River Fields at Talking Stick\, North Pima Road\, Scottsdale
+ \, AZ\, USA
+URL:https://www.visitarizona.com/events/light-the-night-walk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Autumnfest
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261011T164154Z
-UID:fbb5740f6727b3ec559f86d6@visitarizona-calendar
-DESCRIPTION:The Autumnfest Arts and Crafts fair is a festival-goers favori
- te\, and offers all who attend the opportunity to get a head start on holi
- day shopping! Fine arts\, crafts\, culinary items\, hand-made goods\, and 
- more are offered for sale by vendors from across the state and region.\n\n
- Event website: https://www.anthemcouncil.com/228/Autumnfest\n\nVisit Arizo
- na listing: https://www.visitarizona.com/events/autumnfest
-LAST-MODIFIED:20261011T164154Z
-LOCATION:Anthem Community Park\, North Gavilan Peak Parkway\, Anthem\, AZ\
- , USA
-URL:https://www.visitarizona.com/events/autumnfest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arizona Paint Horse Club Arizona Harvest of Color
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261011T164154Z
-UID:80154ac7bd152cc122a1a6b7@visitarizona-calendar
-DESCRIPTION:12-15 SCOTTSDALE: – WestWorld. Western\, English\, jumping\,
-  driving\, ranch and halter APHA classes & all breed classes.\n\nEvent web
- site: https://azpaints.org/aphc-harvest-of-color-25\n\nVisit Arizona listi
- ng: https://www.visitarizona.com/events/arizona-paint-horse-club-arizona-h
- arvest-of-color
-LAST-MODIFIED:20261011T164154Z
-LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
-URL:https://www.visitarizona.com/events/arizona-paint-horse-club-arizona-h
- arvest-of-color
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Route 66 UltraRun
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261011T164154Z
-UID:0a22ee6607dacf7754bc98e2@visitarizona-calendar
-DESCRIPTION:The race recognizes and celebrates the history of the Mother R
- oad. From the Bunion Derbies\; “Oakie’s” during the Dust Bowl\; the 
- boom years of family road trips after WWII\; decline after the interstate 
- system bypassed mom- and-pop motels\, restaurants\, and shops\; to grassro
- ots resurgence leading to official recognition that Route 66 had “become
-  a symbol of the American people’s heritage of travel and their legacy o
- f seeking a better life.” Options are available for a fast solo runner\,
-  a team player or even a walker. Individual runners or relay teams Route 6
- 6 Centennial Certified Event 140 Miles of History\n\nEvent website: https:
- //route66ultrarun.com/\n\nVisit Arizona listing: https://www.visitarizona.
- com/events/route-66-ultrarun
-LAST-MODIFIED:20261011T164154Z
-LOCATION:22265 Historic Route 66\, Seligman\, AZ 86337
-URL:https://www.visitarizona.com/events/route-66-ultrarun
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:45th Annual Fort McDowell Orme Dam Victory Days
-DTSTART;VALUE=DATE:20261120
+SUMMARY:La Encantada Fine Art Festival
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261011T164154Z
-UID:4029abdac9e69e277cf373bc@visitarizona-calendar
-DESCRIPTION:Celebrating Yavapai land\, culture and tradition.\n\nEvent web
- site: https://fmyn.org/events/\n\nVisit Arizona listing: https://www.visit
- arizona.com/events/45th-annual-fort-mcdowell-orme-dam-victory-days
-LAST-MODIFIED:20261011T164154Z
-URL:https://www.visitarizona.com/events/45th-annual-fort-mcdowell-orme-dam
- -victory-days
+DTSTAMP:20261012T202002Z
+UID:ebddf03bfda669a45d8bda8c@visitarizona-calendar
+DESCRIPTION:Where creativity and craftsmanship converge in a celebration o
+ f the arts. This open-air festival allows you to support local artisans an
+ d fine art crafters. Live art demonstrations presented by Southern Arizona
+  Artists Guild (SAAG) Gallery\, see creativity come to life. One of the mo
+ st respected art festivals in the state\, celebrating diverse and dynamic 
+ work of our local art community.\n\nEvent website: https://artstateaz.org/
+ la-encantada-fine-art-festival/\n\nVisit Arizona listing: https://www.visi
+ tarizona.com/events/la-encantada-fine-art-festival
+LAST-MODIFIED:20261012T202002Z
+LOCATION:La Encantada\, East Skyline Drive\, Tucson\, AZ\, USA
+URL:https://www.visitarizona.com/events/la-encantada-fine-art-festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cars & Coffee
+SUMMARY:Turkey Trot & Turkey Bowl
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261011T164154Z
-UID:5bf054b9d30a1b33665e3759@visitarizona-calendar
-DESCRIPTION:Participant free coffee and prizes in different categories\, f
- ood and beverage specials\, Hualapai vendors\, Hualapai DJ\, singers and d
- ancers\, and a live remote event with KWLP.\n\nEvent website: https://www.
- visitarizona.com/events/cars-coffee-ab655#\n\nVisit Arizona listing: https
- ://www.visitarizona.com/events/cars-coffee-ab655
-LAST-MODIFIED:20261011T164154Z
-LOCATION:Hualapai Lodge\, Arizona 66\, Peach Springs\, AZ\, USA
-URL:https://www.visitarizona.com/events/cars-coffee-ab655
+DTSTAMP:20261012T202002Z
+UID:482ff9c5e7545cf46cef689f@visitarizona-calendar
+DESCRIPTION:Two options: 5k or 1 mile. Choose which race works best for yo
+ u and your crew! Gather your favorite people for a morning of Festive Fun.
+  [https://adventurepayson.com/turkeytrot/](https://adventurepayson.com/tur
+ keytrot/)\n\nEvent website: https://adventurepayson.com/events/\n\nVisit A
+ rizona listing: https://www.visitarizona.com/events/turkey-trot-turkey-bow
+ l
+LAST-MODIFIED:20261012T202002Z
+LOCATION:Green Valley Park
+URL:https://www.visitarizona.com/events/turkey-trot-turkey-bowl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Run Run Rudolph
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20261011T164154Z
-UID:cc5879b6b0fffba9df67a020@visitarizona-calendar
-DESCRIPTION:Get Rudolph & the rest of the reindeer ready for delivery day 
- with a Half Marathon\, Quarter Marathon\, 5K\,and Reindeer Dash!The course
-  is on dedicated running trails (all asphalt and concrete) of the New Rive
- r Trail System\, starting and ending at Peoria Sports Complex.\n\nEvent we
- bsite: https://www.runguides.com/event/2495/phoenix-run-run-rudolph\n\nVis
- it Arizona listing: https://www.visitarizona.com/events/run-run-rudolph
-LAST-MODIFIED:20261011T164154Z
-LOCATION:Rio Vista Community Park\, West Thunderbird Road\, Peoria\, AZ\, 
- USA
-URL:https://www.visitarizona.com/events/run-run-rudolph
+SUMMARY:Luminaria Nights de Tubac
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261012T202002Z
+UID:86535c92a0279957306228b5@visitarizona-calendar
+DESCRIPTION:Takes place the first Friday and Saturday in December\, lighti
+ ng up the Historic Village! Enjoy delicious treats\, shopping\, music\, an
+ d more. Shops\, art galleries\, and restaurants are open late to explore a
+ nd get some holiday shopping done.\n\nEvent website: https://www.tubacaz.c
+ om/event-details/luminaria-nights\n\nVisit Arizona listing: https://www.vi
+ sitarizona.com/events/luminaria-nights-de-tubac
+LAST-MODIFIED:20261012T202002Z
+URL:https://www.visitarizona.com/events/luminaria-nights-de-tubac
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dawn to Dusk
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261012T202002Z
+UID:f089163fdf76458441b69799@visitarizona-calendar
+DESCRIPTION:An endurance mountain bike event. Join Zia Rides at McDowell M
+ ountain Regional Park to enjoy perfect December weather\, fun and fast tra
+ ils\, and a great venue at the Four Peaks Staging area where you can enjoy
+  live music\, food trucks\, vendors\, and a lively beer garden. Sign up ea
+ rly\, as this event always sells out!\n\nEvent website: https://ziarides.c
+ om/dawn-to-dusk-arizona\n\nVisit Arizona listing: https://www.visitarizona
+ .com/events/dawn-to-dusk
+LAST-MODIFIED:20261012T202002Z
+URL:https://www.visitarizona.com/events/dawn-to-dusk
 END:VEVENT
 END:VCALENDAR
