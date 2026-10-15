@@ -5,93 +5,47 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:27th Annual Mariachi and Folklórico Festival with Aída Cuevas
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261014T155157Z
-UID:7e984c9c9bdf590712657e67@visitarizona-calendar
-DESCRIPTION:Celebrates Hispanic Heritage Month\, the Chandler Mariachi and
-  Folklórico Festival honors Mexican music\, art\, and culture. Showcases 
- music by renowned mariachi ensembles and captivating folklórico dance per
- formances.\n\nEvent website: https://www.chandlercenter.org/events/cca-cal
- le-de-arizona-present-27th-annual-mariachi-and-folklorico-festival\n\nVisi
- t Arizona listing: https://www.visitarizona.com/events/27th-annual-mariach
- i-and-folklorico-festival-with-aida-cuevas
-LAST-MODIFIED:20261014T155157Z
-LOCATION:Chandler Center for the Arts\, North Arizona Avenue\, Chandler\, 
- AZ\, USA
-URL:https://www.visitarizona.com/events/27th-annual-mariachi-and-folkloric
- o-festival-with-aida-cuevas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Light the Night Walk
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261014T155157Z
-UID:5ab83d20be8c49ba069c2b0d@visitarizona-calendar
-DESCRIPTION:For Leukemia & Lymphoma Society. To celebrate\, honor\, and re
- member those touched by blood cancers.\n\nEvent website: https://www.light
- thenight.org/events/greater-phoenix\n\nVisit Arizona listing: https://www.
- visitarizona.com/events/light-the-night-walk
-LAST-MODIFIED:20261014T155157Z
-LOCATION:Salt River Fields at Talking Stick\, North Pima Road\, Scottsdale
- \, AZ\, USA
-URL:https://www.visitarizona.com/events/light-the-night-walk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verde Valley Pottery Festival
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261014T155157Z
-UID:dd5679ae46eb9ccf12bc2d01@visitarizona-calendar
-DESCRIPTION:Meet the artists\, free demos and live music.\n\nEvent website
- : https://www.verdevalleypotteryfestival.com/\n\nVisit Arizona listing: ht
- tps://www.visitarizona.com/events/verde-valley-pottery-festival
-LAST-MODIFIED:20261014T155157Z
-LOCATION:DA Ranch Vineyards
-URL:https://www.visitarizona.com/events/verde-valley-pottery-festival
+SUMMARY:43rd Annual Apache Jii Day
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261015T153751Z
+UID:5bd59a962ea9d79de531f821@visitarizona-calendar
+DESCRIPTION:All Indian celebration. Native American cuisine such as fry br
+ ead and Apache Acorn Stew\, Native American singing\, dancing and storytel
+ ling representing the Apache Tribe including Apache Crown Dancers\, art in
+ cluding jewelry\, clothing\, dolls\, pottery and more\, and additional ent
+ ertainment by various tribes.\n\nEvent website: https://www.globemiamicham
+ ber.com/apachejii\n\nVisit Arizona listing: https://www.visitarizona.com/e
+ vents/43rd-annual-apache-jii-day
+LAST-MODIFIED:20261015T153751Z
+URL:https://www.visitarizona.com/events/43rd-annual-apache-jii-day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Gilbert Days Rodeo
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261014T155157Z
+DTSTAMP:20261015T153751Z
 UID:d73e27c446bb240690fe79f5@visitarizona-calendar
 DESCRIPTION:Steer riding open to kids ages 8-11. Also the Lil’ Dudes Rod
  eo for ages 4-7.\n\nEvent website: https://www.gilbertdaysrodeo.org/\n\nVi
  sit Arizona listing: https://www.visitarizona.com/events/2026-gilbert-days
  -rodeo
-LAST-MODIFIED:20261014T155157Z
+LAST-MODIFIED:20261015T153751Z
 LOCATION:Horseshoe Park & Equestrian Centre
 URL:https://www.visitarizona.com/events/2026-gilbert-days-rodeo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Luminaria Nights de Tubac
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261014T155157Z
-UID:86535c92a0279957306228b5@visitarizona-calendar
-DESCRIPTION:Takes place the first Friday and Saturday in December\, lighti
- ng up the Historic Village! Enjoy delicious treats\, shopping\, music\, an
- d more. Shops\, art galleries\, and restaurants are open late to explore a
- nd get some holiday shopping done.\n\nEvent website: https://www.tubacaz.c
- om/event-details/luminaria-nights\n\nVisit Arizona listing: https://www.vi
- sitarizona.com/events/luminaria-nights-de-tubac
-LAST-MODIFIED:20261014T155157Z
-URL:https://www.visitarizona.com/events/luminaria-nights-de-tubac
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:21st Annual Vail Jingle Trail
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261014T155157Z
+DTSTAMP:20261015T153751Z
 UID:c4c8669eb2e069795e1cf1b2@visitarizona-calendar
 DESCRIPTION:Enjoy a holiday themed race with course decorations\, cheering
   and motivation from Mica Mountain Cross Country\, themed shirts\, and awa
  rds.\n\nEvent website: https://runsignup.com/Race/AZ/Tucson/VailJingleTrai
  l\n\nVisit Arizona listing: https://www.visitarizona.com/events/21st-annua
  l-vail-jingle-trail
-LAST-MODIFIED:20261014T155157Z
+LAST-MODIFIED:20261015T153751Z
 LOCATION:Mica Mountain High School
 URL:https://www.visitarizona.com/events/21st-annual-vail-jingle-trail
 END:VEVENT
@@ -99,35 +53,21 @@ BEGIN:VEVENT
 SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261014T155157Z
+DTSTAMP:20261015T153751Z
 UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
 DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
  ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
  ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
-LAST-MODIFIED:20261014T155157Z
+LAST-MODIFIED:20261015T153751Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
  -sands-of-eternity
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:15th Annual Whiskey Row Boot Drop
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261014T155157Z
-UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
-DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
-  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
- it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
- y-row-boot-drop
-LAST-MODIFIED:20261014T155157Z
-LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
-URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:22nd Annual Sedona Plein Air Festival
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261014T155157Z
+DTSTAMP:20261015T153751Z
 UID:49d7cc0a815e2fc44134c9a6@visitarizona-calendar
 DESCRIPTION:An immersive celebration of art set against the awe-inspiring 
  red rock landscapes of Sedona. As one of the oldest continuously running p
@@ -138,7 +78,7 @@ DESCRIPTION:An immersive celebration of art set against the awe-inspiring
  , engaging workshops\, and free community events.\n\nEvent website: https:
  //sedonaartscenter.org/events\n\nVisit Arizona listing: https://www.visita
  rizona.com/events/22nd-annual-sedona-plein-air-festival
-LAST-MODIFIED:20261014T155157Z
+LAST-MODIFIED:20261015T153751Z
 URL:https://www.visitarizona.com/events/22nd-annual-sedona-plein-air-festi
  val
 END:VEVENT
