@@ -5,11 +5,29 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
+SUMMARY:2026 Fall NASCAR Cup Series
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261017T133839Z
+UID:80b2ee739adaa02e86db07ab@visitarizona-calendar
+DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
+ y Auto Parts Series and ARCA Menards Series and the NASCAR Cup Series! Tak
+ e your Phoenix Raceway weekend to the next level with the Desert Diamond C
+ asino Infield Experience\, offering behind-the-scenes access\, up-close vi
+ ews of drivers and crews\, a chance to celebrate in Mobil 1 Victory Lane\,
+  and sign the start/finish line on Sunday!\n\nEvent website: https://www.p
+ hoenixraceway.com/events/fall-cup-series/\n\nVisit Arizona listing: https:
+ //www.visitarizona.com/events/2026-fall-nascar-cup-series
+LAST-MODIFIED:20261017T133839Z
+LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
+URL:https://www.visitarizona.com/events/2026-fall-nascar-cup-series
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Blue Water Resort & Casino-Bit Pros Fire Services Parker Endu
  ro
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261017T131758Z
+DTSTAMP:20261017T133839Z
 UID:a105d77e826e2c08478e373c@visitarizona-calendar
 DESCRIPTION:This world famous event is the oldest and last endurance power
  boat race of its kind in the world.Racers from North America converge for 
@@ -20,7 +38,7 @@ DESCRIPTION:This world famous event is the oldest and last endurance power
   race.\n\nEvent website: https://rpmracingent.com/\n\nVisit Arizona listin
  g: https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-p
  ros-fire-services-parker-enduro
-LAST-MODIFIED:20261017T131758Z
+LAST-MODIFIED:20261017T133839Z
 URL:https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-
  pros-fire-services-parker-enduro
 END:VEVENT
@@ -28,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:17th Annual Sonoran Fine Art & Wine Festival
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261017T131758Z
+DTSTAMP:20261017T133839Z
 UID:43c2b92029b6671cdadf472c@visitarizona-calendar
 DESCRIPTION:Featuring local and regional artists showcasing their work ami
  dst western-style architecture and panoramic mountain views. Explore an ec
@@ -37,33 +55,16 @@ DESCRIPTION:Featuring local and regional artists showcasing their work ami
  stival experience.\n\nEvent website: https://www.vermillionpromotions.com/
  event/sonoran-fine-art-wine-festival/\n\nVisit Arizona listing: https://ww
  w.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-festival
-LAST-MODIFIED:20261017T131758Z
+LAST-MODIFIED:20261017T133839Z
 LOCATION:Stagecoach Village\, East Cave Creek Road\, Cave Creek\, AZ\, USA
 URL:https://www.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-
  festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All Soul's Procession
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261017T131758Z
-UID:193ca5ef52cf719777c87571@visitarizona-calendar
-DESCRIPTION:A two-mile\, human-powered procession that ends in the finaliz
- ing action of burning a large urn filled with the hopes\, offerings and wi
- shes for those who have passed. The event also includes installation art\,
-  altars\, performers and creative artists. The All Souls Procession\, and 
- now the entire All Souls Weekend\, is a celebration and mourning of the li
- ves of our loved ones who have passed.\n\nEvent website: https://allsoulsp
- rocession.org/\n\nVisit Arizona listing: https://www.visitarizona.com/even
- ts/all-soul-s-procession
-LAST-MODIFIED:20261017T131758Z
-URL:https://www.visitarizona.com/events/all-soul-s-procession
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261017T131758Z
+DTSTAMP:20261017T133839Z
 UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
 DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
  genous artists\, both professional and youth-led mariachi groups\, and the
@@ -73,7 +74,7 @@ DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
  on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
  ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
  ertos-phx-festival
-LAST-MODIFIED:20261017T131758Z
+LAST-MODIFIED:20261017T133839Z
 LOCATION:Arizona Center
 URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
  ertos-phx-festival
@@ -82,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:24th Annual Patagonia Art Walk
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261017T131758Z
+DTSTAMP:20261017T133839Z
 UID:89e11a1486df85a1ee8bda30@visitarizona-calendar
 DESCRIPTION:Showcase this unique town’s artistic talents! Whether throug
  h paint\, clay\, fiber\, wood\, jewelry\, found items…and even food\, ou
@@ -92,7 +93,61 @@ DESCRIPTION:Showcase this unique town’s artistic talents! Whether throug
   other towns.\n\nEvent website: https://patagoniaartwalk.com/\n\nVisit Ari
  zona listing: https://www.visitarizona.com/events/24th-annual-patagonia-ar
  t-walk
-LAST-MODIFIED:20261017T131758Z
+LAST-MODIFIED:20261017T133839Z
 URL:https://www.visitarizona.com/events/24th-annual-patagonia-art-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Artist Market
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261017T133839Z
+UID:70cff132faf4edaf8678cff1@visitarizona-calendar
+DESCRIPTION:Features approximately 25 artists and makers from Sedona and a
+ round Arizona\, offering unique\, handmade gifts and fine art. From cerami
+ cs and jewelry to paintings\, textiles and more. The market highlights a c
+ urated collection of beautiful and functional creations.\n\nEvent website:
+  https://sedonaartscenter.org/events/\n\nVisit Arizona listing: https://ww
+ w.visitarizona.com/events/holiday-artist-market
+LAST-MODIFIED:20261017T133839Z
+LOCATION:Sedona Arts Center.
+URL:https://www.visitarizona.com/events/holiday-artist-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Festival & Christmas Tree Lighting
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261017T133839Z
+UID:91f5a239aa862828787c89a3@visitarizona-calendar
+DESCRIPTION:The Christmas tree is 45 feet tall with 100\,000 lights! This 
+ is the largest municipal tree in Arizona! More than 100\,000 additional Ch
+ ristmas lights wrap the landscape trees that dance to holiday music. A tru
+ e holiday winter wonderland. Live music\, performances from local bands an
+ d dance organizations\, and activities for the kids along with more than 3
+ 0 food trucks.\n\nEvent website: https://www.discovermarana.org/events/ann
+ ual-events/holiday-festival-tree-lighting/\n\nVisit Arizona listing: https
+ ://www.visitarizona.com/events/holiday-festival-christmas-tree-lighting
+LAST-MODIFIED:20261017T133839Z
+LOCATION:Ed Honea Marana Municipal Complex
+URL:https://www.visitarizona.com/events/holiday-festival-christmas-tree-li
+ ghting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Taco Bell New Year’s Eve Downtown Bowl Bash
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261017T133839Z
+UID:d104c3721bf1bc4536858a03@visitarizona-calendar
+DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
+ s Band! A Silent Disco\, presented by Tucson Federal Credit Union. Food tr
+ ucks and beer stations throughout the area to keep you fueled up for the b
+ ig countdown to the taco touchdown. When the clock strikes 12:00:00 a big 
+ taco is lowered from the sky to welcome 2026!\n\nEvent website: https://th
+ earizonabowl.com/event/2025-taco-bell-new-years-eve-downtown-bowl-bash/\n\
+ nVisit Arizona listing: https://www.visitarizona.com/events/2025-taco-bell
+ -new-year-s-eve-downtown-bowl-bash
+LAST-MODIFIED:20261017T133839Z
+LOCATION:Jácome Plaza\, North Stone Avenue\, Tucson\, AZ\, USA
+URL:https://www.visitarizona.com/events/2025-taco-bell-new-year-s-eve-down
+ town-bowl-bash
 END:VEVENT
 END:VCALENDAR
