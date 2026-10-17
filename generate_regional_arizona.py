@@ -121,6 +121,21 @@ def detail_event(soup, url, slug):
         start = None
         date_match = re.search(r"\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?,?\s+20\d{2}", text, re.I)
         if date_match: start = parse_date(date_match.group(0).split("–")[0].split("-")[0])
+        if not start:
+            # Visit Mesa detail pages show a numeric MM DD date badge immediately
+            # before the heading, often without a year in the date text.
+            heading = soup.find("h1")
+            nearby = compact(" ".join(heading.find_all_previous(string=True, limit=14)[::-1])) if heading else ""
+            badge = re.search(r"\\b(1[0-2]|0?[1-9])\\s+(3[01]|[12]\\d|0?[1-9])\\b", nearby)
+            if badge:
+                month, day = map(int, badge.groups())
+                try:
+                    candidate = date(TODAY.year, month, day)
+                    if candidate < TODAY - timedelta(days=30):
+                        candidate = date(TODAY.year + 1, month, day)
+                    start = candidate
+                except ValueError:
+                    pass
         location = ""
         address = re.search(r"\b\d{1,6}\s+[\w.\- ]{3,85}?,?\s+(?:Mesa|Gilbert|Tempe|Phoenix|Queen Creek|Chandler|Scottsdale),?\s+(?:AZ|Arizona)?\s*\d{5}\b", text, re.I)
         if address: location = compact(address.group(0))[:180]
@@ -157,7 +172,9 @@ def build(source, url, output, slug):
     if slug == "sedona":
         pages += [url.rstrip("/") + "/P" + str(n) + "/" for n in range(12, 241, 12)]
     elif slug == "mesa":
-        pages += [url + "?page=" + str(n) for n in range(2, 9)]
+        # The main events calendar is JavaScript-rendered; the newsletter page
+        # exposes real event links in server-rendered HTML.
+        pages = ["https://www.visitmesa.com/events/event-newsletter/"]
     elif slug == "flagstaff":
         pages = [url + "?CID=0&view=list&month=" + str((TODAY.month - 1 + n) % 12 + 1)
                  + "&year=" + str(TODAY.year + (TODAY.month - 1 + n) // 12)
