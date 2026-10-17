@@ -74,7 +74,7 @@ def listing_links(soup, page, slug):
         parsed = urlparse(href)
         if not parsed.path.startswith(prefix) or parsed.path.rstrip("/") == prefix.rstrip("/"):
             continue
-        if slug == "sedona" and re.search(r"/P\\d+/?$", parsed.path, re.I):
+        if slug == "sedona" and re.search(r"/P\d+/?$", parsed.path, re.I):
             continue
         if slug == "mesa" and ("/annual-events/" in parsed.path or
                                "/featured-events-calendar/" in parsed.path or
@@ -101,28 +101,28 @@ def detail_event(soup, url, slug):
     text = compact(soup.get_text(" ", strip=True))
     # Sedona detail pages explicitly label the date, before the event text.
     if slug == "sedona":
-        date_match = re.search(r"\\bDate:\\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\\s+([A-Za-z]+\\s+\\d{1,2},?\\s+20\\d{2})", text, re.I)
+        date_match = re.search(r"\bDate:\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+([A-Za-z]+\s+\d{1,2},?\s+20\d{2})", text, re.I)
         if not date_match:
-            date_match = re.search(r"\\bDate:\\s*([A-Za-z]+\\s+\\d{1,2},?\\s+20\\d{2})", text, re.I)
+            date_match = re.search(r"\bDate:\s*([A-Za-z]+\s+\d{1,2},?\s+20\d{2})", text, re.I)
         start = parse_date(date_match.group(1)) if date_match else None
-        directions = soup.find(string=re.compile(r"^\\s*Directions\\s*$", re.I))
+        directions = soup.find(string=re.compile(r"^\s*Directions\s*$", re.I))
         location = ""
         if directions:
             section = directions.find_parent(["section", "div"])
             if section:
                 for item in section.stripped_strings:
                     value = compact(item)
-                    if re.search(r"\\d+\\s+.{2,80}\\b(?:Sedona|Village of Oak Creek|Cottonwood)\\b", value, re.I):
+                    if re.search(r"\d+\s+.{2,80}\b(?:Sedona|Village of Oak Creek|Cottonwood)\b", value, re.I):
                         location = value[:180]
                         break
     else:
         # Mesa event pages show date ribbons and offer an iCal link.
         # The calendar link, when available, is the authoritative date source.
         start = None
-        date_match = re.search(r"\\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*[-–]\\s*\\d{1,2})?,?\\s+20\\d{2}", text, re.I)
+        date_match = re.search(r"\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?,?\s+20\d{2}", text, re.I)
         if date_match: start = parse_date(date_match.group(0).split("–")[0].split("-")[0])
         location = ""
-        address = re.search(r"\\b\\d{1,6}\\s+[\\w.\\- ]{3,85}?,?\\s+(?:Mesa|Gilbert|Tempe|Phoenix|Queen Creek|Chandler|Scottsdale),?\\s+(?:AZ|Arizona)?\\s*\\d{5}\\b", text, re.I)
+        address = re.search(r"\b\d{1,6}\s+[\w.\- ]{3,85}?,?\s+(?:Mesa|Gilbert|Tempe|Phoenix|Queen Creek|Chandler|Scottsdale),?\s+(?:AZ|Arizona)?\s*\d{5}\b", text, re.I)
         if address: location = compact(address.group(0))[:180]
     if not start: return []
     summary = soup.select_one('meta[name="description"],meta[property="og:description"]')
@@ -141,7 +141,7 @@ def flagstaff_entries(soup, page):
         node = header.find_parent("li") or header.find_parent(class_=re.compile("event", re.I))
         excerpt = compact(node.get_text(" ", strip=True))[:900] if node else ""
         if not excerpt: continue
-        m = re.search(r"\\b(January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2},?\\s+20\\d{2}", excerpt, re.I)
+        m = re.search(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+20\d{2}", excerpt, re.I)
         if not m: continue
         start = parse_date(m.group(0))
         if start:
@@ -212,7 +212,7 @@ def build(source, url, output, slug):
         e.add("dtstamp", datetime.now(timezone.utc))
         e.add("url", link)
         if location: e.add("location", location)
-        e.add("description", (description + "\\n\\nSource: " + link).strip())
+        e.add("description", (description + "\n\nSource: " + link).strip())
         cal.add_component(e)
     path.write_bytes(cal.to_ical())
 
