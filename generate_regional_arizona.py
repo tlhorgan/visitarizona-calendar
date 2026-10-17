@@ -145,6 +145,71 @@ def detail_event(soup, url, slug):
     return [(title, start, start, url, location, desc[:1200])]
 
 
+def mesa_newsletter_entries(soup, page):
+    """Parse Visit Mesa's server-rendered Upcoming Events cards.
+
+    Their listing has dates immediately before linked event titles, while
+    individual event detail pages may omit machine-readable date metadata.
+    """
+    lines = [compact(s) for s in soup.get_text("\n", strip=True).splitlines()]
+    lines = [s for s in lines if s]
+    start_marker = next((i for i, s in enumerate(lines) if s == "Upcoming Events"), None)
+    if start_marker is None:
+        print("WARNING Visit Mesa: Upcoming Events section not found")
+        return []
+    lines = lines[start_marker + 1:]
+    stop = next((i for i, s in enumerate(lines) if s in ("Email Newsletter", "Visitors Guide")), len(lines))
+    lines = lines[:stop]
+    title_links = {}
+    for a in soup.select('a[href]'):
+        href = urljoin(page, a["href"])
+        if re.search(r"/events/[^/?#]+/?$", urlparse(href).path):
+            title_links.setdefault(compact(a.get_text(" ", strip=True)).casefold(), href)
+    month = r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
+    date_pattern = re.compile(
+        rf"^({month}\s+\d{{1,2}})(?:\s+to\s+({month}\s+\d{{1,2}}(?:,\s*20\d{{2}})?))?(?:,\s*(20\d{{2}}))?$",
+        re.I,
+    )
+    out = []
+    for idx, line in enumerate(lines):
+        match = date_pattern.fullmatch(line.replace("\xa0", " "))
+        if not match or idx + 1 >= len(lines):
+            continue
+        title = lines[idx + 1]
+        link = title_links.get(title.casefold())
+        if not link or title.lower() in ("learn more", "website", "save"):
+            continue
+        year = int(match.group(3) or TODAY.year)
+        start = parse_date(f"{match.group(1)}, {year}")
+        if not start:
+            continue
+        finish = start
+        if match.group(2):
+            specified_year = re.search(r"20\d{2}$", match.group(2))
+            end_year = int(specified_year.group()) if specified_year else year
+            finish = parse_date(f"{match.group(2)}, {end_year}") or start
+            if finish < start and not specified_year:
+                finish = parse_date(f"{match.group(2)}, {year + 1}") or start
+        # Restrict to upcoming or ongoing dates; do not misassign past events.
+        if finish < TODAY or start > END:
+            continue
+        nearby = lines[idx + 2:next(
+            (j for j in range(idx + 2, min(idx + 10, len(lines)))
+             if date_pattern.fullmatch(lines[j].replace("\xa0", " "))),
+            min(idx + 10, len(lines)),
+        )]
+        venue_text = " ".join(x for x in nearby[:3] if x not in ("Website", "Learn More", "Save"))
+        # Require a recognizable street number and Mesa-area locality.
+        street = re.search(
+            r"\b\d{1,6}\s+.{3,100}?\b(?:Mesa|Gilbert|Tempe|Phoenix|Queen Creek|Chandler|Scottsdale)\s*,?\s*(?:AZ|Arizona)\s*\d{5}\b",
+            venue_text, re.I,
+        )
+        location = compact(street.group(0))[:180] if street else ""
+        out.append((title, max(start, TODAY), finish, link, location, venue_text[:500]))
+    print(f"Visit Mesa: {len(out)} dated entries from newsletter listing")
+    return out
+
+
 def flagstaff_entries(soup, page):
     """Flagstaff CivicEngage publishes events in list markup, not JSON-LD."""
     results = []
@@ -188,6 +253,8 @@ def build(source, url, output, slug):
             continue
         if slug == "flagstaff":
             entries.extend(flagstaff_entries(soup, page))
+        elif slug == "mesa":
+            entries.extend(mesa_newsletter_entries(soup, page))
         else:
             links.update(listing_links(soup, page, slug))
             for obj in event_jsonld(soup):
