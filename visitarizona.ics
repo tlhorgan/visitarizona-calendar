@@ -5,10 +5,26 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
+SUMMARY:43rd Annual Apache Jii Day
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261018T143842Z
+UID:5bd59a962ea9d79de531f821@visitarizona-calendar
+DESCRIPTION:All Indian celebration. Native American cuisine such as fry br
+ ead and Apache Acorn Stew\, Native American singing\, dancing and storytel
+ ling representing the Apache Tribe including Apache Crown Dancers\, art in
+ cluding jewelry\, clothing\, dolls\, pottery and more\, and additional ent
+ ertainment by various tribes.\n\nEvent website: https://www.globemiamicham
+ ber.com/apachejii\n\nVisit Arizona listing: https://www.visitarizona.com/e
+ vents/43rd-annual-apache-jii-day
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/43rd-annual-apache-jii-day
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Fall NASCAR Cup Series
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:80b2ee739adaa02e86db07ab@visitarizona-calendar
 DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
  y Auto Parts Series and ARCA Menards Series and the NASCAR Cup Series! Tak
@@ -18,7 +34,7 @@ DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
   and sign the start/finish line on Sunday!\n\nEvent website: https://www.p
  hoenixraceway.com/events/fall-cup-series/\n\nVisit Arizona listing: https:
  //www.visitarizona.com/events/2026-fall-nascar-cup-series
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/2026-fall-nascar-cup-series
 END:VEVENT
@@ -27,7 +43,7 @@ SUMMARY:2025 Blue Water Resort & Casino-Bit Pros Fire Services Parker Endu
  ro
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:a105d77e826e2c08478e373c@visitarizona-calendar
 DESCRIPTION:This world famous event is the oldest and last endurance power
  boat race of its kind in the world.Racers from North America converge for 
@@ -38,7 +54,7 @@ DESCRIPTION:This world famous event is the oldest and last endurance power
   race.\n\nEvent website: https://rpmracingent.com/\n\nVisit Arizona listin
  g: https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-p
  ros-fire-services-parker-enduro
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 URL:https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-
  pros-fire-services-parker-enduro
 END:VEVENT
@@ -46,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Tucson Classic Car Show
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:a98b1830f7c9600fea18f5db@visitarizona-calendar
 DESCRIPTION:A fun family day with over 400 classic cars\, food\, vendors a
  nd music. A $10 entry ticket includes a raffle ticket for a 2025 C-8 1LT C
@@ -55,7 +71,7 @@ DESCRIPTION:A fun family day with over 400 classic cars\, food\, vendors a
  n\nEvent website: https://tucsonclassicscarshow.com/\n\nVisit Arizona list
  ing: https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sh
  ow
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 URL:https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sho
  w
 END:VEVENT
@@ -63,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:23rd Annual Celebraciones de la Gente
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:6a85b9421b783043b0e1d2d0@visitarizona-calendar
 DESCRIPTION:Experience the traditions of Mexican\, Mexican American\, and 
  LatinX communities filled with color\, culture\, and celebration! Honors t
@@ -74,35 +90,17 @@ DESCRIPTION:Experience the traditions of Mexican\, Mexican American\, and
  painting.\n\nEvent website: https://www.flagstaffarizona.org/events/festiv
  als/celebraciones-de-la-gente/\n\nVisit Arizona listing: https://www.visit
  arizona.com/events/23rd-annual-celebraciones-de-la-gente
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Museum of Northern Arizona\, North Fort Valley Road\, Flagstaff\,
   AZ\, USA
 URL:https://www.visitarizona.com/events/23rd-annual-celebraciones-de-la-ge
  nte
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El Dia de los Muertos Celebration
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261017T141507Z
-UID:097d51bf31654c8f3363d0bd@visitarizona-calendar
-DESCRIPTION:Mesa Arts Center is pleased to celebrate Día de los Muertos w
- ith an annual event created in collaboration with the community.Día de lo
- s Muertos is a celebration of Latin American art and culture related to th
- e Mexican holiday\, Day of the Dead.The annual free event offers a variety
-  of features\, performances and more in celebration of the memories of the
-  deceased.\n\nEvent website: https://mesaartscenter.com/diadelosmuertos\n\
- nVisit Arizona listing: https://www.visitarizona.com/events/el-dia-de-los-
- muertos-celebration
-LAST-MODIFIED:20261017T141507Z
-LOCATION:Mesa Arts Center\, East Main Street\, Mesa\, AZ\, USA
-URL:https://www.visitarizona.com/events/el-dia-de-los-muertos-celebration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:17th Annual Sonoran Fine Art & Wine Festival
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:43c2b92029b6671cdadf472c@visitarizona-calendar
 DESCRIPTION:Featuring local and regional artists showcasing their work ami
  dst western-style architecture and panoramic mountain views. Explore an ec
@@ -111,40 +109,76 @@ DESCRIPTION:Featuring local and regional artists showcasing their work ami
  stival experience.\n\nEvent website: https://www.vermillionpromotions.com/
  event/sonoran-fine-art-wine-festival/\n\nVisit Arizona listing: https://ww
  w.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-festival
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Stagecoach Village\, East Cave Creek Road\, Cave Creek\, AZ\, USA
 URL:https://www.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-
  festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arizona Dressage Association State Championship and Fall Fiesta
+SUMMARY:17th Annual Pecan Classic 10K and 5K Run/Walk
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261017T141507Z
-UID:bf596416763f7aac378b3055@visitarizona-calendar
-DESCRIPTION:This prestigious event brings together top riders from across 
- the state to compete in a full slate of USDF/USEF classes\, including cham
- pionship divisions.\n\nEvent website: https://azdressage.org/event/fall-fi
- esta-recognized-show-arizona-state-dressage-championship/2026-11-07/\n\nVi
- sit Arizona listing: https://www.visitarizona.com/events/arizona-dressage-
- association-state-championship-and-fall-fiesta
-LAST-MODIFIED:20261017T141507Z
-LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
-URL:https://www.visitarizona.com/events/arizona-dressage-association-state
- -championship-and-fall-fiesta
+DTSTAMP:20261018T143842Z
+UID:5cf4865ea23bfaa1ab6a3ea8@visitarizona-calendar
+DESCRIPTION:The race route travels a scenic course on dirt roads through t
+ he pecan orchards\, giving runners the a unique and amazing Fall running e
+ xperience under the trees. The 5K Run/Walk will be an out-and-back course 
+ with a turn around at the 1.55 mile mark. [https://runsignup.com/Race/AZ/S
+ ahuarita/PecanClassic10Kand5KRunWalk](https://runsignup.com/Race/AZ/Sahuar
+ ita/PecanClassic10Kand5KRunWalk)\n\nEvent website: https://www.greenvalley
+ pecan.com/5k-runs/\n\nVisit Arizona listing: https://www.visitarizona.com/
+ events/17th-annual-pecan-classic-10k-and-5k-run-walk
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/17th-annual-pecan-classic-10k-and-
+ 5k-run-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:47th Annual Bluegrass Festival & Fiddle Championship
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261018T143842Z
+UID:fcc4c1c1aa8bfb7ca9ac149d@visitarizona-calendar
+DESCRIPTION:One of the oldest bluegrass festivals in the Southwest. Limite
+ d covered grandstand seating is available. Visitors are encouraged to brin
+ g lawn chairs. Enjoy the beer booth and food vendors on site. Three featur
+ ed bands will be jamming all three days of the festival.\n\nEvent website:
+  https://www.wickenburgchamber.com/annual-events#BluegrassFestival\n\nVisi
+ t Arizona listing: https://www.visitarizona.com/events/47th-annual-bluegra
+ ss-festival-fiddle-championship
+LAST-MODIFIED:20261018T143842Z
+LOCATION:Everett Bowman Rodeo Arena\, Constellation Road\, Wickenburg\, AZ
+ \, USA
+URL:https://www.visitarizona.com/events/47th-annual-bluegrass-festival-fid
+ dle-championship
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Art Walk
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261018T143842Z
+UID:d5e09b3f50e55845f54b5871@visitarizona-calendar
+DESCRIPTION:This long-standing tradition allows visitors to meet the artis
+ ts inside the Village’s galleries and artist studios. See art in action\
+ , and enjoy the hospitality of Tubac’s many art galleries\, specialty sh
+ ops\, and restaurants. Enjoy live music\, free parking\, and admission![ht
+ tps://tubacartwalk.com/](https://tubacartwalk.com/)\n\nEvent website: http
+ s://tubacaz.com/tubac-art-walk/\n\nVisit Arizona listing: https://www.visi
+ tarizona.com/events/fall-art-walk
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/fall-art-walk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11th Annual Pizza Festival
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:6fcb91773523d6a96476e088@visitarizona-calendar
 DESCRIPTION:Celebrates local pizza makers and features all types of pizza\
  , Italian foods and desserts. Enjoy local beer\, wine\, live music stage\,
   a vendor market\, a kids zone and more.\n\nEvent website: https://www.pho
  enix.pizza/\n\nVisit Arizona listing: https://www.visitarizona.com/events/
  11th-annual-pizza-festival
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Margaret T. Hance Park\, West Culver Street\, Phoenix\, AZ\, USA
 URL:https://www.visitarizona.com/events/11th-annual-pizza-festival
 END:VEVENT
@@ -152,13 +186,13 @@ BEGIN:VEVENT
 SUMMARY:2026 Gilbert Days Rodeo
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:d73e27c446bb240690fe79f5@visitarizona-calendar
 DESCRIPTION:Steer riding open to kids ages 8-11. Also the Lil’ Dudes Rod
  eo for ages 4-7.\n\nEvent website: https://www.gilbertdaysrodeo.org/\n\nVi
  sit Arizona listing: https://www.visitarizona.com/events/2026-gilbert-days
  -rodeo
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Horseshoe Park & Equestrian Centre
 URL:https://www.visitarizona.com/events/2026-gilbert-days-rodeo
 END:VEVENT
@@ -166,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:El Tour de Tucson
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:ed0c9e0018dfd1cca567a5ae@visitarizona-calendar
 DESCRIPTION:One of the premier bicycling events in the country. More than 
  9\,500 cyclists from around the world meet with fellow cyclists and intera
@@ -179,14 +213,14 @@ DESCRIPTION:One of the premier bicycling events in the country. More than
  es\, fun rides/3 miles\, and 5K run/walk.\n\nEvent website: https://eltour
  detucson.org/\n\nVisit Arizona listing: https://www.visitarizona.com/event
  s/el-tour-de-tucson
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 URL:https://www.visitarizona.com/events/el-tour-de-tucson
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
 DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
  genous artists\, both professional and youth-led mariachi groups\, and the
@@ -196,16 +230,30 @@ DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
  on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
  ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
  ertos-phx-festival
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Arizona Center
 URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
  ertos-phx-festival
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:42nd Annual Thanksgiving Day Parade
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261018T143842Z
+UID:8cf7e632ff3adfceb2d5313e@visitarizona-calendar
+DESCRIPTION:A hometown favorite drawing spectators from across the state w
+ ho wish to ring in Thanksgiving Day with a classic parade.\n\nEvent websit
+ e: https://fhchamber.com/thanksgiving-day-parade/\n\nVisit Arizona listing
+ : https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parade
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parad
+ e
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:24th Annual Patagonia Art Walk
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:89e11a1486df85a1ee8bda30@visitarizona-calendar
 DESCRIPTION:Showcase this unique town’s artistic talents! Whether throug
  h paint\, clay\, fiber\, wood\, jewelry\, found items…and even food\, ou
@@ -215,14 +263,46 @@ DESCRIPTION:Showcase this unique town’s artistic talents! Whether throug
   other towns.\n\nEvent website: https://patagoniaartwalk.com/\n\nVisit Ari
  zona listing: https://www.visitarizona.com/events/24th-annual-patagonia-ar
  t-walk
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 URL:https://www.visitarizona.com/events/24th-annual-patagonia-art-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32nd Annual Downtown Parade of Lights & Festival
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261018T143842Z
+UID:3901c66f40a4427f1c18dd99@visitarizona-calendar
+DESCRIPTION:Make sure to visit and support downtown businesses before and 
+ after the parade!\n\nEvent website: https://downtownparadeoflights.com/\n\
+ nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-do
+ wntown-parade-of-lights-festival
+LAST-MODIFIED:20261018T143842Z
+LOCATION:Armory Park\, Tucson\, AZ\, USA
+URL:https://www.visitarizona.com/events/32nd-annual-downtown-parade-of-lig
+ hts-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:39th Annual APS Electric Light Parade
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261018T143842Z
+UID:9de0c0e9f197b7ba8c91ed2e@visitarizona-calendar
+DESCRIPTION:For more than three decades\, the APS Electric Light Parade ha
+ s been an event where families\, neighborhood groups and businesses from a
+ cross the city come together to celebrate the joy of the holiday season.\n
+ \nEvent website: https://www.phoenix.gov/administration/departments/parks/
+ classes-programs/featured-events/aps-electric-light-parade.html\n\nVisit A
+ rizona listing: https://www.visitarizona.com/events/39th-annual-aps-electr
+ ic-light-parade
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/39th-annual-aps-electric-light-par
+ ade
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:32nd Annual Christmas Parade of Lights
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:4155c484c1cb488591868844@visitarizona-calendar
 DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
  t and take photos with Santa by the train on Frontier Street. Maverik gas 
@@ -231,15 +311,78 @@ DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
  Event website: https://www.wickenburgchamber.com/annual-events#1764294707\
  n\nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-
  christmas-parade-of-lights
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 URL:https://www.visitarizona.com/events/32nd-annual-christmas-parade-of-li
  ghts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:38th Annual Acker Night
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261018T143842Z
+UID:cfac4ac61cea87c093554d93@visitarizona-calendar
+DESCRIPTION:Acker Night is an evening when participating downtown business
+ es partner with local and national musical talent to bring you a fulfillin
+ g evening of music\, food\, and fun during the Christmas season all while 
+ donating to a worthy cause. More than 100 performers in more than 100 shop
+ s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
+  https://www.visitarizona.com/events/38th-annual-acker-night
+LAST-MODIFIED:20261018T143842Z
+URL:https://www.visitarizona.com/events/38th-annual-acker-night
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th Annual Art at Anthem
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261018T143842Z
+UID:a2065ce77497dd86d9d97c0e@visitarizona-calendar
+DESCRIPTION:Brings together 60 juried artists\, local makers\, live music\
+ , and family fun. Highlights everything from fine art and photography to j
+ ewelry\, pottery\, Native American works and gourmet gifts\, plus local fa
+ vorites like Queen Bee Gourmet Honey and Homemade Mommy & Me Aprons. Visit
+ ors can also enjoy live music\, Santa visits\, and the sight of Arizona’
+ s tallest fresh-cut Christmas tree.\n\nEvent website: https://oakcreekarts
+ andcraftsshow.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
+ events/4th-annual-art-at-anthem
+LAST-MODIFIED:20261018T143842Z
+LOCATION:Outlets North Phoenix\, West Anthem Way\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/4th-annual-art-at-anthem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Parade and Craft Fair
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261018T143842Z
+UID:dd75f29d8167828d71710677@visitarizona-calendar
+DESCRIPTION:A dazzling display of lights\, laughter\, and community joy. I
+ t transforms our quaint town into a winter wonderland. There's something m
+ agical for everyone to enjoy at this enchanting celebration of the holiday
+  season.\n\nEvent website: https://visitwillcox.az.gov/christmas-parade-cr
+ aft-fair\n\nVisit Arizona listing: https://www.visitarizona.com/events/chr
+ istmas-parade-and-craft-fair
+LAST-MODIFIED:20261018T143842Z
+LOCATION:Railroad Park\, N Railroad Ave\, Willcox\, AZ\, USA
+URL:https://www.visitarizona.com/events/christmas-parade-and-craft-fair
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual Whiskey Row Boot Drop
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261018T143842Z
+UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
+DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
+  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
+ y-row-boot-drop
+LAST-MODIFIED:20261018T143842Z
+LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Taco Bell New Year’s Eve Downtown Bowl Bash
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261017T141507Z
+DTSTAMP:20261018T143842Z
 UID:d104c3721bf1bc4536858a03@visitarizona-calendar
 DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
  s Band! A Silent Disco\, presented by Tucson Federal Credit Union. Food tr
@@ -249,7 +392,7 @@ DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
  earizonabowl.com/event/2025-taco-bell-new-years-eve-downtown-bowl-bash/\n\
  nVisit Arizona listing: https://www.visitarizona.com/events/2025-taco-bell
  -new-year-s-eve-downtown-bowl-bash
-LAST-MODIFIED:20261017T141507Z
+LAST-MODIFIED:20261018T143842Z
 LOCATION:Jácome Plaza\, North Stone Avenue\, Tucson\, AZ\, USA
 URL:https://www.visitarizona.com/events/2025-taco-bell-new-year-s-eve-down
  town-bowl-bash
