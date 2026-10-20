@@ -3,74 +3,41 @@ VERSION:2.0
 PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Flagstaff Events
 BEGIN:VEVENT
-SUMMARY:Bouncing Babies
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173631Z
-UID:cc38bde8ed7e683177a9a9f9@arizona-regional
-DESCRIPTION:Bouncing Babies October 19\, 2026\, 9:30 AM - 10:00 AM Bouncin
- g Babies 2026-10-19T09:30:00 Enjoy songs\, stories\, fingerplays\, knee bo
- unces\, rhymes and more. Event Location Downtown Library Flagstaff AZ 8600
- 1 Enjoy songs\, stories\, fingerplays\, knee bounces\, rhymes and more. Mo
- re Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4397&
- month=10&year=2026&day=19&calType=0
-URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4397&month=10&year=2026
- &day=19&calType=0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parks and Recreation Commission Meeting
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173631Z
-UID:22fa2d8c25a4cb73cb793124@arizona-regional
-DESCRIPTION:Parks and Recreation Commission Meeting October 19\, 2026\, 4:
- 00 PM @ This is a hybrid meeting. The meeting will be held in the Aquaplex
-  Community Room. The Teams link is available in the meeting agenda\, which
-  will be uploaded to https://public.destinyhosted.com/agenda_publish.cfm?i
- d=35247 prior to the meeting. Parks and Recreation Commission Meeting 2026
- -10-19T16:00:00 The Flagstaff Parks and Recreation Commission consists of 
- seven citizens\, and makes recommendations to the Council regarding City\n
- \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2980&month=10&yea
- r=2026&day=19&calType=0
-URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2980&month=10&year=2026
- &day=19&calType=0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173631Z
-UID:9f5f00368b38f15efc27be8c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c0ecc9e87d0d5f68cfcc9a54@arizona-regional
 DESCRIPTION:Toddler Tales October 20\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-10-20T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4417&month=10&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4417&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4417&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crafty Corner
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173631Z
-UID:1001ea257b18bcecd2a12cfb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e0ce42468ad105e0f2f7d8a6@arizona-regional
 DESCRIPTION:Crafty Corner October 20\, 2026\, 3:00 PM - 4:00 PM @ Communit
  y Room Crafty Corner 2026-10-20T15:00:00 Express your creativity at the Ea
  st Flagstaff Community Library! Ages 5-11 Community Room East Flagstaff Co
  mmunity Library Flagstaff AZ 86001 Express your creativity at the East Fla
  gstaff Community Library! Ages 5-11 More Details\n\nSource: https://www.fl
- agstaff.az.gov/Calendar.aspx?EID=4530&month=10&year=2026&day=19&calType=0
+ agstaff.az.gov/Calendar.aspx?EID=4530&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4530&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garden
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173631Z
-UID:48d1904442c5a9db7d4985b1@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2331000562596f763b659436@arizona-regional
 DESCRIPTION:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garde
  n October 20\, 2026\, 4:00 PM - 6:00 PM Garden Maintenance Volunteer Day -
   Hal Jensen Rec Center Garden 2026-10-20T16:00:00 Garden volunteer days ar
@@ -79,47 +46,47 @@ DESCRIPTION:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garde
   in further years. Each volunteer day includes a variety of activities tha
  t support the overall health of the gardens. These may range from essent\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4463&month=10&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4463&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:6b139c8725fd99cf2328c3c3@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:3d66931126d47f7a732d4e1a@arizona-regional
 DESCRIPTION:Toddler Tales October 21\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-10-21T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4428&month=10&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4428&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4428&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Express
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:2d858a47af374d46b8e29379@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:bd98fa3b6c60fb300b81ac58@arizona-regional
 DESCRIPTION:Preschool Express October 21\, 2026\, 10:15 AM - 10:45 AM @ Co
  mmunity Room Preschool Express 2026-10-21T10:15:00 Surprises galore are in
   store when we get together for stories\, songs\, and games Community Room
   Downtown Library Flagstaff AZ 86001 Surprises galore are in store when we
   get together for stories\, songs\, and games More Details\n\nSource: http
- s://www.flagstaff.az.gov/Calendar.aspx?EID=4506&month=10&year=2026&day=19&
+ s://www.flagstaff.az.gov/Calendar.aspx?EID=4506&month=10&year=2026&day=20&
  calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4506&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senior Book Club
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:24935e2acafcb8f13aba6e3e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e414c5cd94c0734d80eea201@arizona-regional
 DESCRIPTION:Senior Book Club October 21\, 2026\, 2:00 PM - 3:00 PM Senior 
  Book Club 2026-10-21T14:00:00 Join us at the 3rd Wednesday of every month 
  for a lively book discussion at the Joe C. Montoya Community and Senior Ce
@@ -128,47 +95,47 @@ DESCRIPTION:Senior Book Club October 21\, 2026\, 2:00 PM - 3:00 PM Senior
  y of every month for a lively book discussion at the Joe C. Montoya Commun
  ity and Senior Center (245 N Thorpe Rd\, Flagstaff\, AZ 86001). More Detai
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4435&month=10&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4435&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lego Builders
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:d80f38cc3fdf1f1231359e30@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:7d73e5517aec02ac6bdf3c6c@arizona-regional
 DESCRIPTION:Lego Builders October 21\, 2026\, 3:45 PM - 4:45 PM @ Communit
  y Room Lego Builders 2026-10-21T15:45:00 Bring your creativity and join us
   for building fun with hundreds and hundreds of blocks! Ages 5-12. Communi
  ty Room Downtown Library Flagstaff AZ 86001 Bring your creativity and join
   us for building fun with hundreds and hundreds of blocks! Ages 5-12. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4531&mo
- nth=10&year=2026&day=19&calType=0
+ nth=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4531&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:531f1ac5d5659de13b04ee9a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:da39dcd2d1a6996f6eb86240@arizona-regional
 DESCRIPTION:Wily Writers October 21\, 2026\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2026-10-21T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4443&month=
- 10&year=2026&day=19&calType=0
+ 10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4443&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heritage Preservation Commission Meeting
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173631Z
-UID:c2dfdee9d9c264c4daeb7960@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:5eca8494cb1d0bb0191aa3a4@arizona-regional
 DESCRIPTION:Heritage Preservation Commission Meeting October 21\, 2026\, 4
  :00 PM @ This is a hybrid meeting. The meeting will be held in Council Cha
  mbers in City Hall. The Teams link is available in the meeting agenda\, wh
@@ -177,16 +144,16 @@ DESCRIPTION:Heritage Preservation Commission Meeting October 21\, 2026\, 4
  2026-10-21T16:00:00 The Heritage Preservation Commission consists of seven
   citizens: At least two (2) members must be professionals in the areas \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3990&month=10&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3990&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Storytime
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:8e3cf0ddeac1bbb3d70c2bdd@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:67677063d1f9a41457fec127@arizona-regional
 DESCRIPTION:Family Storytime October 22\, 2026\, 10:00 AM - 11:00 AM @ Com
  munity Room Family Storytime 2026-10-22T10:00:00 Families of all ages are 
  welcome to join us every Thursday morning for storytime. There will be sin
@@ -194,16 +161,16 @@ DESCRIPTION:Family Storytime October 22\, 2026\, 10:00 AM - 11:00 AM @ Com
  Library Flagstaff AZ 86001 Families of all ages are welcome to join us eve
  ry Thursday morning for storytime. There will be singing\, dancing\, and g
  reat books! More Details\n\nSource: https://www.flagstaff.az.gov/Calendar.
- aspx?EID=4312&month=10&year=2026&day=19&calType=0
+ aspx?EID=4312&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4312&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paint & Pop: Vamped Up Portraiture
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:c2b05c66768117a2c0c66073@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:7862a4f3bb837e156099d08f@arizona-regional
 DESCRIPTION:Paint & Pop: Vamped Up Portraiture October 22\, 2026\, 3:45 PM
   - 5:15 PM Paint & Pop: Vamped Up Portraiture 2026-10-22T15:45:00 Grab a b
  ite to eat\, drain your drink\, & compose a vampire self-portrait (if you 
@@ -211,32 +178,32 @@ DESCRIPTION:Paint & Pop: Vamped Up Portraiture October 22\, 2026\, 3:45 PM
  staff AZ 86001 Grab a bite to eat\, drain your drink\, & compose a vampire
   self-portrait (if you can find your reflection). Ages 8-18. More Details\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4532&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4532&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prop 404/ 405 Information Session
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:7442764b95976fca63cebdc9@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b62d0c08fe7573f1af6da3d3@arizona-regional
 DESCRIPTION:Prop 404/ 405 Information Session October 22\, 2026\, 8:00 AM 
  - 9:30 AM Prop 404/ 405 Information Session 2026-10-22T08:00:00 Stop in to
   chat with Mayor Daggett and public safety staff and learn more about the 
  propositions. Event Location Mayan Winds Coffee Emporium Flagstaff AZ 8600
  4 Stop in to chat with Mayor Daggett and public safety staff and learn mor
  e about the propositions. More Details\n\nSource: https://www.flagstaff.az
- .gov/Calendar.aspx?EID=4467&month=10&year=2026&day=19&calType=0
+ .gov/Calendar.aspx?EID=4467&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4467&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Housing Commission
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:4140bce77c52b4a77edb09a4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:9565484272f01212590ba99c@arizona-regional
 DESCRIPTION:Housing Commission October 22\, 2026\, 1:00 PM - 3:00 PM @ Thi
  s is a virtual meeting. The Teams link is available on the meeting agenda.
   The meeting agenda will be uploaded to https://public.destinyhosted.com/a
@@ -244,17 +211,17 @@ DESCRIPTION:Housing Commission October 22\, 2026\, 1:00 PM - 3:00 PM @ Thi
  ard to City Council\, makes recommendations with respect to housing polici
  es\, needs\, and programs in Flagstaff\, and furnishes the Council with in
  formation through the Housing Director. More Details\n\nSource: https://ww
- w.flagstaff.az.gov/Calendar.aspx?EID=2824&month=10&year=2026&day=19&calTyp
+ w.flagstaff.az.gov/Calendar.aspx?EID=2824&month=10&year=2026&day=20&calTyp
  e=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2824&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Library Board Meeting
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:984817d952cf9cba431aae0c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:6046855d9e7cf9c4f0b366f1@arizona-regional
 DESCRIPTION:Library Board Meeting October 22\, 2026\, 1:00 PM - 2:30 PM @ 
  This is a hybrid meeting. The meeting will be held in the Downtown Library
   conference room. The Teams link is available in the meeting agenda\, whic
@@ -263,16 +230,16 @@ DESCRIPTION:Library Board Meeting October 22\, 2026\, 1:00 PM - 2:30 PM @
  o County Public Library Board consists of two County residents\, four City
   residents\, and one each non-voting member of the City Council and Board\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3616&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3616&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tourism Commission Meeting
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173631Z
-UID:c31de80132eca08f4e68bc3a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:92d82e6dc7cdaf4464e4a4f5@arizona-regional
 DESCRIPTION:Tourism Commission Meeting October 22\, 2026\, 1:30 PM @ This 
  is a hybrid meeting. The meeting will be held in the Staff Conference Room
   on the 2nd floor of City Hall. The Teams link is available in the meeting
@@ -281,46 +248,46 @@ DESCRIPTION:Tourism Commission Meeting October 22\, 2026\, 1:30 PM @ This
  e Tourism Commission consists of seven citizens. The mission of the Touris
  m Commission is to develop\, promote\, and maintain Flagstaff as a year-r\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3032&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3032&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173631Z
-UID:e92763d24335e9e426dd136c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:5269262ec2d994ce4d8d1189@arizona-regional
 DESCRIPTION:The Knitting Hour October 23\, 2026\, 1:00 PM - 3:00 PM @ Nort
  hwest Corner The Knitting Hour 2026-10-23T13:00:00 Northwest Corner Downto
  wn Library Flagstaff AZ 86001 More Details\n\nSource: https://www.flagstaf
- f.az.gov/Calendar.aspx?EID=4351&month=10&year=2026&day=19&calType=0
+ f.az.gov/Calendar.aspx?EID=4351&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4351&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Day
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173631Z
-UID:e7ed4e8bec63cc69e1f6852b@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:8711632f5c3fed1a911dc5e6@arizona-regional
 DESCRIPTION:Game Day October 23\, 2026\, 1:30 PM - 3:00 PM @ Community Roo
  m Game Day 2026-10-23T13:30:00 Swing by the community room at the East Fla
  gstaff Community Library to play games and table top games! For ages 8 to 
  17. Community Room East Flagstaff Community Library Flagstaff AZ 86004 Swi
  ng by the community room at the East Flagstaff Community Library to play g
  ames and table top games! For ages 8 to 17. More Details\n\nSource: https:
- //www.flagstaff.az.gov/Calendar.aspx?EID=4368&month=10&year=2026&day=19&ca
+ //www.flagstaff.az.gov/Calendar.aspx?EID=4368&month=10&year=2026&day=20&ca
  lType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4368&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Time Hang Time
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173631Z
-UID:6cfa5f53f3d3ab80b4f4b522@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:ac2a8b2c6b9bd5429f3cf98c@arizona-regional
 DESCRIPTION:Game Time Hang Time October 23\, 2026\, 1:30 PM - 3:00 PM Game
   Time Hang Time 2026-10-23T13:30:00 Stop by the Community Room at the Down
  town Library for videogames on the X-Box One\, Switch and PS5. Bring a fri
@@ -329,16 +296,16 @@ DESCRIPTION:Game Time Hang Time October 23\, 2026\, 1:30 PM - 3:00 PM Game
   Library for videogames on the X-Box One\, Switch and PS5. Bring a friend 
  and pick your game. Snacks available. Ages 8 - 18. More Details\n\nSource:
   https://www.flagstaff.az.gov/Calendar.aspx?EID=4373&month=10&year=2026&da
- y=19&calType=0
+ y=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4373&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sketch & Chill
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173631Z
-UID:7637f989e1a455f0e47350f4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:3ffdecda855f93b812d00fbd@arizona-regional
 DESCRIPTION:Sketch & Chill October 23\, 2026\, 4:00 PM - 5:30 PM @ Communi
  ty Room Sketch & Chill 2026-10-23T16:00:00 Looking for an excuse to hang o
  ut with cool people and make some art? Look no further! Come\, relax\, and
@@ -347,31 +314,31 @@ DESCRIPTION:Sketch & Chill October 23\, 2026\, 4:00 PM - 5:30 PM @ Communi
  be provided. Community Room East Flagstaff Community Library Flagstaff AZ 
  86001 Looking for an excuse to hang out with cool people and make some ar\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4492&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4492&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173631Z
-UID:04a05e5309ceff2e9a149970@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:67bafb2a5420028ad7b0a047@arizona-regional
 DESCRIPTION:Saturday Story Stop October 24\, 2026\, 10:30 AM - 11:00 AM @ 
  Community Room Saturday Story Stop 2026-10-24T10:30:00 Come to a fun-fille
  d morning of storytime for ALL AGES. Community Room Downtown Library Flags
  taff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4383&mo
- nth=10&year=2026&day=19&calType=0
+ nth=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4383&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arizona Rangelands: Flora & Fauna ID Tools
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173631Z
-UID:ff1539d18215742c147db339@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0d1eef99a8cfa5bc7e244d8e@arizona-regional
 DESCRIPTION:Arizona Rangelands: Flora & Fauna ID Tools October 24\, 2026\,
   2:00 PM - 3:30 PM Arizona Rangelands: Flora & Fauna ID Tools 2026-10-24T1
  4:00:00 Have you ever scratched your head about a bird at your feeder or a
@@ -380,31 +347,31 @@ DESCRIPTION:Arizona Rangelands: Flora & Fauna ID Tools October 24\, 2026\,
  species in our area\, as well as skills and tools you can use to identify 
  these species! Event Location Downtown Library Flagstaff AZ 86001 Have \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4533&month=10&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4533&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouncing Babies
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173631Z
-UID:c27cd8edd23eaf41814b12c2@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:55cb034cffc6c4c7459ab7be@arizona-regional
 DESCRIPTION:Bouncing Babies October 26\, 2026\, 9:30 AM - 10:00 AM Bouncin
  g Babies 2026-10-26T09:30:00 Enjoy songs\, stories\, fingerplays\, knee bo
  unces\, rhymes and more. Event Location Downtown Library Flagstaff AZ 8600
  1 Enjoy songs\, stories\, fingerplays\, knee bounces\, rhymes and more. Mo
  re Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4398&
- month=10&year=2026&day=19&calType=0
+ month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4398&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maker Monday
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173631Z
-UID:9f6eed57c66801a37f0c1b23@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:84b24e3ab0ddc247cfa92db1@arizona-regional
 DESCRIPTION:Maker Monday October 26\, 2026\, 3:45 PM - 4:45 PM @ Community
   Room Maker Monday 2026-10-26T15:45:00 Get inspired\, explore free choice 
  art-making\, and craft until your imagination’s content in our open pop-
@@ -412,16 +379,16 @@ DESCRIPTION:Maker Monday October 26\, 2026\, 3:45 PM - 4:45 PM @ Community
  01 Get inspired\, explore free choice art-making\, and craft until your im
  agination’s content in our open pop-up maker’s lab! Ages 3+ More Detai
  ls\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4518&month=10
- &year=2026&day=19&calType=0
+ &year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4518&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Spaces Commission
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173631Z
-UID:9c6c81588779c8a554c879bb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1698aa075c2abba3c7727b22@arizona-regional
 DESCRIPTION:Open Spaces Commission October 26\, 2026\, 4:00 PM @ This is a
   hybrid meeting. The meeting will be held in Aquaplex Community Room. The 
  Teams link is available in the meeting agenda\, which will be uploaded to 
@@ -430,47 +397,47 @@ DESCRIPTION:Open Spaces Commission October 26\, 2026\, 4:00 PM @ This is a
  sion was established in 2003 to serve as an advisory body on the acquisiti
  on\, management\, use\, restoration\, enhancement\, protection\, and conse
  rva\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2928&month=1
- 0&year=2026&day=19&calType=0
+ 0&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2928&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261019T173631Z
-UID:b311a9ecfc3b32970fa6ee43@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:19c3ee57ebe292a6e2d71bda@arizona-regional
 DESCRIPTION:Toddler Tales October 27\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-10-27T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4418&month=10&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4418&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4418&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lego Club
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261019T173631Z
-UID:f0a108a2dd15f26150af4fba@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4427f7274d6b692a8cee71f6@arizona-regional
 DESCRIPTION:Lego Club October 27\, 2026\, 3:00 PM - 4:00 PM Lego Club 2026
  -10-27T15:00:00 Bring your creativity and join us for building fun with hu
  ndreds and hundreds of blocks! Ages 5-11. Event Location East Flagstaff Co
  mmunity Library Flagstaff AZ 86001 Bring your creativity and join us for b
  uilding fun with hundreds and hundreds of blocks! Ages 5-11. More Details\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4498&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4498&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bring Your Own Book Club : Scifi Fantasy
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261019T173631Z
-UID:6a70463fadf61802941d76c8@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:910d14a36087e7c19968eb25@arizona-regional
 DESCRIPTION:Bring Your Own Book Club : Scifi Fantasy October 27\, 2026\, 6
  :00 PM - 7:00 PM @ Northwest Corner Bring Your Own Book Club : Scifi Fanta
  sy 2026-10-27T18:00:00 Enjoy refreshments and conversation with other book
@@ -479,62 +446,62 @@ DESCRIPTION:Bring Your Own Book Club : Scifi Fantasy October 27\, 2026\, 6
   or style! Some months will have themes\, other months will be free choice
  : Oct 27th: Science Fiction or Fantasy Northwest Corner Downtown Library F
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4501&month=10&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4501&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:f16dc6956697709fb0067adb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b3c593ffa4eafbed0a484284@arizona-regional
 DESCRIPTION:Toddler Tales October 28\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-10-28T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4429&month=10&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4429&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4429&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Express
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:fdd36019c4e08a945009e7e0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:8468e9e05bd9e365aef7b1d9@arizona-regional
 DESCRIPTION:Preschool Express October 28\, 2026\, 10:15 AM - 10:45 AM @ Co
  mmunity Room Preschool Express 2026-10-28T10:15:00 Surprises galore are in
   store when we get together for stories\, songs\, and games Community Room
   Downtown Library Flagstaff AZ 86001 Surprises galore are in store when we
   get together for stories\, songs\, and games More Details\n\nSource: http
- s://www.flagstaff.az.gov/Calendar.aspx?EID=4507&month=10&year=2026&day=19&
+ s://www.flagstaff.az.gov/Calendar.aspx?EID=4507&month=10&year=2026&day=20&
  calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4507&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:d715231cfe069d260dd041f0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:887373d3cb8266f47c35e3ef@arizona-regional
 DESCRIPTION:Wily Writers October 28\, 2026\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2026-10-28T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4444&month=
- 10&year=2026&day=19&calType=0
+ 10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4444&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southwest Reads: Poets Square
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:7f14e90e1ba96f889e0f64f4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e52510bd060605895cd26d21@arizona-regional
 DESCRIPTION:Southwest Reads: Poets Square October 28\, 2026\, 6:00 PM - 7:
  00 PM Southwest Reads: Poets Square 2026-10-28T18:00:00 Discuss the storie
  s of the Southwest with the Southwest Reads book club on the fourth Wednes
@@ -543,16 +510,16 @@ DESCRIPTION:Southwest Reads: Poets Square October 28\, 2026\, 6:00 PM - 7:
  f AZ 86001 Discuss the stories of the Southwest with the Southwest Reads b
  ook club on the fourth Wednesday of every other month! This month's re\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=4534&month=10&year=
- 2026&day=19&calType=0
+ 2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4534&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Inclusion and Adaptive Living Meeting
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:ea3352bc6face58cc5a0b156@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1fac6cb0b6ac30f1ba23d93b@arizona-regional
 DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting October 28
  \, 2026\, 11:00 AM @ Hybrid Meeting\, the Teams meeting link is available 
  on the posted agenda flagstaff.az.gov/2784/Commission-on-Disability-Awaren
@@ -561,16 +528,16 @@ DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting October 28
  ns\, and serves the disabled community in Flagstaff. The commission's goal
  s are to expand educational opportunities\, improve access to housing\, bu
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2668&month=10&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2668&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173631Z
-UID:4615eeb088b771043e2b5eeb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e758dd46399631387f535de8@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting October 28\, 2026\, 4:0
  0 PM @ This is a hybrid meeting. The meeting will be held in Council Chamb
  ers at City Hall. The Teams link is available in the meeting agenda\, whic
@@ -579,16 +546,16 @@ DESCRIPTION:Planning and Zoning Commission Meeting October 28\, 2026\, 4:0
  :00 The Planning and Zoning Commission consists of seven citizen members\,
   and serves as an advisory board to the Council on matters relating to t\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3292&month=10&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3292&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Storytime
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173631Z
-UID:eb06690cccec774eda52d2e6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d25ec8ce9192985e1811df8d@arizona-regional
 DESCRIPTION:Family Storytime October 29\, 2026\, 10:00 AM - 11:00 AM @ Com
  munity Room Family Storytime 2026-10-29T10:00:00 Families of all ages are 
  welcome to join us every Thursday morning for storytime. There will be sin
@@ -596,16 +563,16 @@ DESCRIPTION:Family Storytime October 29\, 2026\, 10:00 AM - 11:00 AM @ Com
  Library Flagstaff AZ 86001 Families of all ages are welcome to join us eve
  ry Thursday morning for storytime. There will be singing\, dancing\, and g
  reat books! More Details\n\nSource: https://www.flagstaff.az.gov/Calendar.
- aspx?EID=4313&month=10&year=2026&day=19&calType=0
+ aspx?EID=4313&month=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4313&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cookbook Creations
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173631Z
-UID:db8eabe3879b65390c4c38be@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fbe4b46c5d01431f6f30d1fd@arizona-regional
 DESCRIPTION:Cookbook Creations October 29\, 2026\, 3:45 PM - 4:45 PM @ Com
  munity Room Cookbook Creations 2026-10-29T15:45:00 Don’t get roasted by 
  your friends! Get ahead by learning basic culinary skills and recipes with
@@ -614,16 +581,16 @@ DESCRIPTION:Cookbook Creations October 29\, 2026\, 3:45 PM - 4:45 PM @ Com
  AZ 86001 Don’t get roasted by your friends! Get ahead by learning basic 
  culinary skills and recipes with the help of the library’s cookbook coll
  ecti\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4481&month=
- 10&year=2026&day=19&calType=0
+ 10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4481&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sustainability Commission Meeting
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173631Z
-UID:0f050ccb3de24b0fd23410d7@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0d9e12fba4ba365fd609ba70@arizona-regional
 DESCRIPTION:Sustainability Commission Meeting October 29\, 2026\, 4:30 PM 
  - 6:30 PM @ This is a hybrid meeting. The meeting will be held in the Staf
  f Conference Room on the 2nd floor of City Hall\, or on Teams. The Teams l
@@ -632,49 +599,49 @@ DESCRIPTION:Sustainability Commission Meeting October 29\, 2026\, 4:30 PM
  nability Commission consists of seven Council-appointed volunteer Flagstaf
  f community members. The commission serves in an advisory and working c\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2563&month=10&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2563&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Board Game Bonanza
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173631Z
-UID:692fdea05098d1e063277399@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:756fca74d4c0f053b7b3b370@arizona-regional
 DESCRIPTION:Board Game Bonanza October 30\, 2026\, 1:30 PM - 3:00 PM @ Com
  munity Room Board Game Bonanza 2026-10-30T13:30:00 Come learn new games\, 
  meet new people\, hang out with friends\, and enjoy snacks! Ages 8-18 Comm
  unity Room Downtown Library Flagstaff AZ 86001 Come learn new games\, meet
   new people\, hang out with friends\, and enjoy snacks! Ages 8-18 More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4486&month=
- 10&year=2026&day=19&calType=0
+ 10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4486&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Day
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173631Z
-UID:6683e76ee34ae1c897a7d48c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0a20846fcc12302e12c630c4@arizona-regional
 DESCRIPTION:Game Day October 30\, 2026\, 1:30 PM - 3:00 PM @ Community Roo
  m Game Day 2026-10-30T13:30:00 Swing by the community room at the East Fla
  gstaff Community Library to play games and table top games! For ages 8 to 
  17. Community Room East Flagstaff Community Library Flagstaff AZ 86004 Swi
  ng by the community room at the East Flagstaff Community Library to play g
  ames and table top games! For ages 8 to 17. More Details\n\nSource: https:
- //www.flagstaff.az.gov/Calendar.aspx?EID=4369&month=10&year=2026&day=19&ca
+ //www.flagstaff.az.gov/Calendar.aspx?EID=4369&month=10&year=2026&day=20&ca
  lType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4369&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sketch & Chill
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173631Z
-UID:491270a41c15aeaea0f3e4ca@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d8ab64c03aa4052cbfdcb9f8@arizona-regional
 DESCRIPTION:Sketch & Chill October 30\, 2026\, 4:00 PM - 5:30 PM @ Communi
  ty Room Sketch & Chill 2026-10-30T16:00:00 Looking for an excuse to hang o
  ut with cool people and make some art? Look no further! Come\, relax\, and
@@ -683,16 +650,16 @@ DESCRIPTION:Sketch & Chill October 30\, 2026\, 4:00 PM - 5:30 PM @ Communi
  be provided. Community Room East Flagstaff Community Library Flagstaff AZ 
  86001 Looking for an excuse to hang out with cool people and make some ar\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4493&month=10&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4493&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fright Night at the Rec
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173631Z
-UID:6ee8198c99af7d586d4ff5a4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fa378f85d90d0500cee84409@arizona-regional
 DESCRIPTION:Fright Night at the Rec October 30\, 2026\, 6:00 PM - 8:00 PM 
  Fright Night at the Rec 2026-10-30T18:00:00 Join us for a fun\, family-fri
  endly community movie night at Hal Jensen! We’ll be showing Monster Hous
@@ -701,16 +668,16 @@ DESCRIPTION:Fright Night at the Rec October 30\, 2026\, 6:00 PM - 8:00 PM
  perience extra cozy. Costumes are encouraged\, so feel free to get festive
   and come dressed up! This event is open to families and community members
   of a\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4454&month
- =10&year=2026&day=19&calType=0
+ =10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4454&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Locked in the Library
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261019T173631Z
-UID:613267335c141ff737a20226@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a9b3948dad51aa61e1dad9f7@arizona-regional
 DESCRIPTION:Locked in the Library October 30\, 2026\, 7:00 PM - 8:30 PM Lo
  cked in the Library 2026-10-30T19:00:00 Join us after the library closes f
  or stories\, games\, snacks and scares. Registration required. Ages 8-16. 
@@ -719,61 +686,61 @@ DESCRIPTION:Locked in the Library October 30\, 2026\, 7:00 PM - 8:30 PM Lo
  ary closes for stories\, games\, snacks and scares. Registration required.
   Ages 8-16. There will be no exceptions. *Parents/caregivers are not requi
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4535&month=10&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4535&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173631Z
-UID:36e9d664af9f9fdc766a2ec0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4566530cf72f119c99cba8a2@arizona-regional
 DESCRIPTION:Saturday Story Stop October 31\, 2026\, 10:30 AM - 11:00 AM @ 
  Community Room Saturday Story Stop 2026-10-31T10:30:00 Come to a fun-fille
  d morning of storytime for ALL AGES. Community Room Downtown Library Flags
  taff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4384&mo
- nth=10&year=2026&day=19&calType=0
+ nth=10&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4384&month=10&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouncing Babies
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261019T173631Z
-UID:5a32b84852697aca30178572@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e7d0088a89b451468f0a551c@arizona-regional
 DESCRIPTION:Bouncing Babies November 2\, 2026\, 9:30 AM - 10:00 AM Bouncin
  g Babies 2026-11-02T09:30:00 Enjoy songs\, stories\, fingerplays\, knee bo
  unces\, rhymes and more. Event Location Downtown Library Flagstaff AZ 8600
  1 Enjoy songs\, stories\, fingerplays\, knee bounces\, rhymes and more. Mo
  re Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4399&
- month=11&year=2026&day=19&calType=0
+ month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4399&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261019T173631Z
-UID:75923f54c95c3341ce6414dc@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:85eaae6c9391abb73e9e00cf@arizona-regional
 DESCRIPTION:Toddler Tales November 3\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-11-03T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4419&month=11&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4419&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4419&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Maintenance Volunteer Day - Bonito Community Garden
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261019T173631Z
-UID:7bb18edec9217ef07b4681aa@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e4a3419f225573c972bcf370@arizona-regional
 DESCRIPTION:Garden Maintenance Volunteer Day - Bonito Community Garden Nov
  ember 3\, 2026\, 4:00 PM - 6:00 PM Garden Maintenance Volunteer Day - Boni
  to Community Garden 2026-11-03T16:00:00 Garden volunteer days are a great 
@@ -782,78 +749,78 @@ DESCRIPTION:Garden Maintenance Volunteer Day - Bonito Community Garden Nov
  r years. Each volunteer day includes a variety of activities that support 
  the overall health of the gardens. These may range from essential mainte\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4459&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4459&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173631Z
-UID:50715280aebf27a760d2135e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0a469cfe6b6874267995626b@arizona-regional
 DESCRIPTION:Toddler Tales November 4\, 2026\, 9:30 AM - 10:00 AM Toddler T
  ales 2026-11-04T09:30:00 Your toddler will delight in this special time fo
  r stories\, songs\, games and more. Event Location Downtown Library Flagst
  aff AZ 86001 Your toddler will delight in this special time for stories\, 
  songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4430&month=11&year=2026&day=19&calType=0
+ ov/Calendar.aspx?EID=4430&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4430&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Express
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173631Z
-UID:ea078999db9ae583cfd725d5@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a6f01425761fe2d1920e870f@arizona-regional
 DESCRIPTION:Preschool Express November 4\, 2026\, 10:15 AM - 10:45 AM @ Co
  mmunity Room Preschool Express 2026-11-04T10:15:00 Surprises galore are in
   store when we get together for stories\, songs\, and games Community Room
   Downtown Library Flagstaff AZ 86001 Surprises galore are in store when we
   get together for stories\, songs\, and games More Details\n\nSource: http
- s://www.flagstaff.az.gov/Calendar.aspx?EID=4508&month=11&year=2026&day=19&
+ s://www.flagstaff.az.gov/Calendar.aspx?EID=4508&month=11&year=2026&day=20&
  calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4508&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lego Builders
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173631Z
-UID:fdd49509d7fb05d8d541ebec@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:45482d0c506598cacd738d5e@arizona-regional
 DESCRIPTION:Lego Builders November 4\, 2026\, 3:45 PM - 4:45 PM @ Communit
  y Room Lego Builders 2026-11-04T15:45:00 Bring your creativity and join us
   for building fun with hundreds and hundreds of blocks! Ages 5-12. Communi
  ty Room Downtown Library Flagstaff AZ 86001 Bring your creativity and join
   us for building fun with hundreds and hundreds of blocks! Ages 5-12. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4513&mo
- nth=11&year=2026&day=19&calType=0
+ nth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4513&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173631Z
-UID:c9ab27f4afb0fe89fa6e46c8@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:6bfa200269ac5b67d02ba42d@arizona-regional
 DESCRIPTION:Wily Writers November 4\, 2026\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2026-11-04T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4445&month=
- 11&year=2026&day=19&calType=0
+ 11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4445&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indigenous Commission Meeting
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T173631Z
-UID:32d0bc8264105c300bbadb1b@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:062e76deb934a086048ae51d@arizona-regional
 DESCRIPTION:Indigenous Commission Meeting November 5\, 2026\, 11:00 AM - 1
  2:30 PM @ This meeting is virtual only. The Teams link is available on the
   meeting agenda. The meeting agenda will be uploaded to https://public.des
@@ -862,16 +829,16 @@ DESCRIPTION:Indigenous Commission Meeting November 5\, 2026\, 11:00 AM - 1
  as an advisory board to City Council\, makes recommendations with respect 
  to certain policies\, needs\, issues\, and methods in promoting the Strate
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3779&month=11&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3779&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Time Hang Time
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173631Z
-UID:6b59dac332961fd40d2bbe12@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:ae309036986d93e1fa1d5793@arizona-regional
 DESCRIPTION:Game Time Hang Time November 6\, 2026\, 1:30 PM - 3:00 PM Game
   Time Hang Time 2026-11-06T13:30:00 Stop by the Community Room at the Down
  town Library for videogames on the X-Box One\, Switch and PS5. Bring a fri
@@ -880,46 +847,46 @@ DESCRIPTION:Game Time Hang Time November 6\, 2026\, 1:30 PM - 3:00 PM Game
   Library for videogames on the X-Box One\, Switch and PS5. Bring a friend 
  and pick your game. Snacks available. Ages 8 - 18. More Details\n\nSource:
   https://www.flagstaff.az.gov/Calendar.aspx?EID=4374&month=11&year=2026&da
- y=19&calType=0
+ y=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4374&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173631Z
-UID:f7275075e85da42991bc99bc@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a7e792ff20e560565b8d37c8@arizona-regional
 DESCRIPTION:Saturday Story Stop November 7\, 2026\, 10:30 AM - 11:00 AM @ 
  Community Room Saturday Story Stop 2026-11-07T10:30:00 Come to a fun-fille
  d morning of storytime for ALL AGES. Community Room Downtown Library Flags
  taff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4385&mo
- nth=11&year=2026&day=19&calType=0
+ nth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4385&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouncing Babies
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T173631Z
-UID:9df7a430f503083593cbc2be@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b3dfd1d53e6fafb17999afe1@arizona-regional
 DESCRIPTION:Bouncing Babies November 9\, 2026\, 9:30 AM - 10:00 AM Bouncin
  g Babies 2026-11-09T09:30:00 Enjoy songs\, stories\, fingerplays\, knee bo
  unces\, rhymes and more. Event Location Downtown Library Flagstaff AZ 8600
  1 Enjoy songs\, stories\, fingerplays\, knee bounces\, rhymes and more. Mo
  re Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4400&
- month=11&year=2026&day=19&calType=0
+ month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4400&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maker Monday
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T173631Z
-UID:ef4bb9264342c6b4802e7eab@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:217797d491eb74a26133401a@arizona-regional
 DESCRIPTION:Maker Monday November 9\, 2026\, 3:45 PM - 4:45 PM @ Community
   Room Maker Monday 2026-11-09T15:45:00 Get inspired\, explore free choice 
  art-making\, and craft until your imagination’s content in our open pop-
@@ -927,16 +894,16 @@ DESCRIPTION:Maker Monday November 9\, 2026\, 3:45 PM - 4:45 PM @ Community
  01 Get inspired\, explore free choice art-making\, and craft until your im
  agination’s content in our open pop-up maker’s lab! Ages 3+ More Detai
  ls\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4519&month=11
- &year=2026&day=19&calType=0
+ &year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4519&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beautification & Public Art Commission Meeting
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T173631Z
-UID:ceabd4cb1efdb7770218d2c4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:5672643d749dff1ce77f10eb@arizona-regional
 DESCRIPTION:Beautification & Public Art Commission Meeting November 9\, 20
  26\, 4:00 PM @ This is a hybrid meeting. The meeting will be held in the S
  taff Conference Room on the 2nd floor of City Hall\, or on Teams. The Team
@@ -945,31 +912,31 @@ DESCRIPTION:Beautification & Public Art Commission Meeting November 9\, 20
  c-Art-Commission prior to the meeting. Beautification & Public Art Commiss
  ion Meeting 2026-11-09T16:00:00 The Beautification and Public Art Commi\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2616&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2616&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261019T173631Z
-UID:4c65922bfa65a717353d4f25@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a6ff3cf6502c504c9f93a94e@arizona-regional
 DESCRIPTION:Toddler Tales November 10\, 2026\, 9:30 AM - 10:00 AM Toddler 
  Tales 2026-11-10T09:30:00 Your toddler will delight in this special time f
  or stories\, songs\, games and more. Event Location Downtown Library Flags
  taff AZ 86001 Your toddler will delight in this special time for stories\,
   songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4420&month=11&year=2026&day=19&calType=0
+ gov/Calendar.aspx?EID=4420&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4420&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Maintenance Volunteer Day - Southside Community Garden
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261019T173631Z
-UID:e67b67857157a1d10560f954@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b589ffec3c954fafdeb2347a@arizona-regional
 DESCRIPTION:Garden Maintenance Volunteer Day - Southside Community Garden 
  November 10\, 2026\, 4:00 PM - 6:00 PM Garden Maintenance Volunteer Day - 
  Southside Community Garden 2026-11-10T16:00:00 Garden volunteer days are a
@@ -978,47 +945,47 @@ DESCRIPTION:Garden Maintenance Volunteer Day - Southside Community Garden
   further years. Each volunteer day includes a variety of activities that s
  upport the overall health of the gardens. These may range from essential\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4461&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4461&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173631Z
-UID:92e2f4ea012ffa11096d4303@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:ef1a15b72202a71adf3f8b61@arizona-regional
 DESCRIPTION:Toddler Tales November 11\, 2026\, 9:30 AM - 10:00 AM Toddler 
  Tales 2026-11-11T09:30:00 Your toddler will delight in this special time f
  or stories\, songs\, games and more. Event Location Downtown Library Flags
  taff AZ 86001 Your toddler will delight in this special time for stories\,
   songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4431&month=11&year=2026&day=19&calType=0
+ gov/Calendar.aspx?EID=4431&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4431&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Express
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173631Z
-UID:58fe090177bf559b740afd59@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fa16e0aeef1d041a4044228a@arizona-regional
 DESCRIPTION:Preschool Express November 11\, 2026\, 10:15 AM - 10:45 AM @ C
  ommunity Room Preschool Express 2026-11-11T10:15:00 Surprises galore are i
  n store when we get together for stories\, songs\, and games Community Roo
  m Downtown Library Flagstaff AZ 86001 Surprises galore are in store when w
  e get together for stories\, songs\, and games More Details\n\nSource: htt
- ps://www.flagstaff.az.gov/Calendar.aspx?EID=4509&month=11&year=2026&day=19
+ ps://www.flagstaff.az.gov/Calendar.aspx?EID=4509&month=11&year=2026&day=20
  &calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4509&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173631Z
-UID:b72003eae093ce47b613ab6f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:774bc554930ab4dbdb886274@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting November 11\, 2026\, 4:
  00 PM @ This is a hybrid meeting. The meeting will be held in Council Cham
  bers at City Hall. The Teams link is available in the meeting agenda\, whi
@@ -1027,16 +994,16 @@ DESCRIPTION:Planning and Zoning Commission Meeting November 11\, 2026\, 4:
  0:00 The Planning and Zoning Commission consists of seven citizen members\
  , and serves as an advisory board to the Council on matters relating to \n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3241&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3241&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cookbook Creations
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173631Z
-UID:97a92e98d92174837db5a473@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:dea1b624ce149581f99b837d@arizona-regional
 DESCRIPTION:Cookbook Creations November 12\, 2026\, 3:45 PM - 4:45 PM @ Co
  mmunity Room Cookbook Creations 2026-11-12T15:45:00 Don’t get roasted by
   your friends! Get ahead by learning basic culinary skills and recipes wit
@@ -1045,16 +1012,16 @@ DESCRIPTION:Cookbook Creations November 12\, 2026\, 3:45 PM - 4:45 PM @ Co
   AZ 86001 Don’t get roasted by your friends! Get ahead by learning basic
   culinary skills and recipes with the help of the library’s cookbook col
  lect\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4482&month=
- 11&year=2026&day=19&calType=0
+ 11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4482&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thursday Night Book Club
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173631Z
-UID:8ea8ec5beeb1f2c962d537ca@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:582ad46a4d91da654d9c89a0@arizona-regional
 DESCRIPTION:Thursday Night Book Club November 12\, 2026\, 6:00 PM - 7:00 P
  M Thursday Night Book Club 2026-11-12T18:00:00 Join the Library's longest 
  running book club on the 2nd Thursday of every month to discuss a new book
@@ -1063,16 +1030,16 @@ DESCRIPTION:Thursday Night Book Club November 12\, 2026\, 6:00 PM - 7:00 P
  staff AZ 86001 Join the Library's longest running book club on the 2nd Thu
  rsday of every month to discuss a new book! This month\, we are reading \n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4543&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4543&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Airport Commission Meeting
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173631Z
-UID:20d66044547c9a4c482741b7@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:5acb8000be065de3ec33db5a@arizona-regional
 DESCRIPTION:Airport Commission Meeting November 12\, 2026\, 1:00 PM @ This
   is a hybrid meeting. The meeting will be held at the Airport Terminal Con
  ference Room. The Teams link is available in the meeting agenda\, which wi
@@ -1081,31 +1048,31 @@ DESCRIPTION:Airport Commission Meeting November 12\, 2026\, 1:00 PM @ This
  on consists of seven citizens\, and is responsible for reviewing and repor
  ting to the Council on the development of the Airpark and on matters aff\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3449&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3449&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261019T173631Z
-UID:a269b16c16d1eaeb7869b92e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:3706a18e545b20b0f3861d89@arizona-regional
 DESCRIPTION:The Knitting Hour November 13\, 2026\, 1:00 PM - 3:00 PM @ Nor
  thwest Fireplace The Knitting Hour 2026-11-13T13:00:00 Want to learn to kn
  it? Need help with a knitting project? Northwest Fireplace Downtown Librar
  y Flagstaff AZ 86001 Want to learn to knit? Need help with a knitting proj
  ect? More Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EI
- D=4328&month=11&year=2026&day=19&calType=0
+ D=4328&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4328&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Something Superstitious
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261019T173631Z
-UID:f95612a90986955b9de88e4d@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d0e23272ace7db396242fad7@arizona-regional
 DESCRIPTION:Something Superstitious November 13\, 2026\, 1:30 PM - 2:30 PM
   Something Superstitious 2026-11-13T13:30:00 Test your luck\, this freaky 
  Friday the 13th! Learn about superstitions and try to escape with your luc
@@ -1114,46 +1081,46 @@ DESCRIPTION:Something Superstitious November 13\, 2026\, 1:30 PM - 2:30 PM
  r luck\, this freaky Friday the 13th! Learn about superstitions and try to
   escape with your luck intact. Worry not\, you’ll craft some good luck c
  harm\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4536&month=
- 11&year=2026&day=19&calType=0
+ 11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4536&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173631Z
-UID:641e9b29133f13a1061aa99f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:da6b9ed5d501129b24e076e3@arizona-regional
 DESCRIPTION:Saturday Story Stop November 14\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-11-14T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4386&m
- onth=11&year=2026&day=19&calType=0
+ onth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4386&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouncing Babies
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261019T173631Z
-UID:41de17513832aa4fbc1f740a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0579176804ec9ee9b6cf7983@arizona-regional
 DESCRIPTION:Bouncing Babies November 16\, 2026\, 9:30 AM - 10:00 AM Bounci
  ng Babies 2026-11-16T09:30:00 Enjoy songs\, stories\, fingerplays\, knee b
  ounces\, rhymes and more. Event Location Downtown Library Flagstaff AZ 860
  01 Enjoy songs\, stories\, fingerplays\, knee bounces\, rhymes and more. M
  ore Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4401
- &month=11&year=2026&day=19&calType=0
+ &month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4401&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arizona Rangelands: Rangeland Wildlife
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261019T173631Z
-UID:db75840834cb4d0cb129e7e6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:39318c54a01c7bbd9c865d75@arizona-regional
 DESCRIPTION:Arizona Rangelands: Rangeland Wildlife November 16\, 2026\, 6:
  00 PM - 7:30 PM Arizona Rangelands: Rangeland Wildlife 2026-11-16T18:00:00
   Rangelands provide habitat for a wide variety of wildlife species\, a few
@@ -1162,16 +1129,16 @@ DESCRIPTION:Arizona Rangelands: Rangeland Wildlife November 16\, 2026\, 6:
  aptations both here in Arizona and around the world! Event Location Downto
  wn Library Flagstaff AZ 86001 Rangelands provide habitat for a wide var\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4537&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4537&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parks and Recreation Commission Meeting
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261019T173631Z
-UID:1591c5909afa8b4cfd1919aa@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1caa139904dce4784df351b9@arizona-regional
 DESCRIPTION:Parks and Recreation Commission Meeting November 16\, 2026\, 4
  :00 PM @ This is a hybrid meeting. The meeting will be held in the Aquaple
  x Community Room. The Teams link is available in the meeting agenda\, whic
@@ -1180,31 +1147,31 @@ DESCRIPTION:Parks and Recreation Commission Meeting November 16\, 2026\, 4
  6-11-16T16:00:00 The Flagstaff Parks and Recreation Commission consists of
   seven citizens\, and makes recommendations to the Council regarding Cit\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2981&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2981&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261019T173631Z
-UID:a5699a7d56306bc7dbd790dc@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2d8c93e217e0d4d5106c0737@arizona-regional
 DESCRIPTION:Toddler Tales November 17\, 2026\, 9:30 AM - 10:00 AM Toddler 
  Tales 2026-11-17T09:30:00 Your toddler will delight in this special time f
  or stories\, songs\, games and more. Event Location Downtown Library Flags
  taff AZ 86001 Your toddler will delight in this special time for stories\,
   songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4421&month=11&year=2026&day=19&calType=0
+ gov/Calendar.aspx?EID=4421&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4421&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garden
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261019T173631Z
-UID:ebb5ba93f0f5cb56d514d728@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:281cad7e3f5e7e781700405a@arizona-regional
 DESCRIPTION:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garde
  n November 17\, 2026\, 4:00 PM - 6:00 PM Garden Maintenance Volunteer Day 
  - Hal Jensen Rec Center Garden 2026-11-17T16:00:00 Garden volunteer days a
@@ -1213,47 +1180,47 @@ DESCRIPTION:Garden Maintenance Volunteer Day - Hal Jensen Rec Center Garde
  e in further years. Each volunteer day includes a variety of activities th
  at support the overall health of the gardens. These may range from essen\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4464&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4464&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Tales
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:b890a520e3722f88e83c2fb8@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:be99f371f410d556f0a1bacd@arizona-regional
 DESCRIPTION:Toddler Tales November 18\, 2026\, 9:30 AM - 10:00 AM Toddler 
  Tales 2026-11-18T09:30:00 Your toddler will delight in this special time f
  or stories\, songs\, games and more. Event Location Downtown Library Flags
  taff AZ 86001 Your toddler will delight in this special time for stories\,
   songs\, games and more. More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4432&month=11&year=2026&day=19&calType=0
+ gov/Calendar.aspx?EID=4432&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4432&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Express
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:e05f49bb42274c110477bde0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fd4657cc928b6c306b1ceb00@arizona-regional
 DESCRIPTION:Preschool Express November 18\, 2026\, 10:15 AM - 10:45 AM @ C
  ommunity Room Preschool Express 2026-11-18T10:15:00 Surprises galore are i
  n store when we get together for stories\, songs\, and games Community Roo
  m Downtown Library Flagstaff AZ 86001 Surprises galore are in store when w
  e get together for stories\, songs\, and games More Details\n\nSource: htt
- ps://www.flagstaff.az.gov/Calendar.aspx?EID=4510&month=11&year=2026&day=19
+ ps://www.flagstaff.az.gov/Calendar.aspx?EID=4510&month=11&year=2026&day=20
  &calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4510&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senior Book Club
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:d6522755ff1fb3700a9ed4a0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2509739070d08bcaba265dad@arizona-regional
 DESCRIPTION:Senior Book Club November 18\, 2026\, 2:00 PM Senior Book Club
   2026-11-18T14:00:00 The Senior Book Club meets on the 3rd Wednesday of ev
  ery month at the Joe C. Montoya Senior and Community Center. This month we
@@ -1262,47 +1229,47 @@ DESCRIPTION:Senior Book Club November 18\, 2026\, 2:00 PM Senior Book Club
   on the 3rd Wednesday of every month at the Joe C. Montoya Senior and Comm
  unity Center. This month we will be discussing My Antonia by Willa Cat\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=4436&month=11&year=
- 2026&day=19&calType=0
+ 2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4436&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lego Builders
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:4506576edceb35ede0b1d07e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:8304a3113443938ba1ae1656@arizona-regional
 DESCRIPTION:Lego Builders November 18\, 2026\, 3:45 PM - 4:45 PM @ Communi
  ty Room Lego Builders 2026-11-18T15:45:00 Bring your creativity and join u
  s for building fun with hundreds and hundreds of blocks! Ages 5-12. Commun
  ity Room Downtown Library Flagstaff AZ 86001 Bring your creativity and joi
  n us for building fun with hundreds and hundreds of blocks! Ages 5-12. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4514&m
- onth=11&year=2026&day=19&calType=0
+ onth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4514&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:ea695c3b943c8347fdda53ea@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e470507c29f3b41bc929da35@arizona-regional
 DESCRIPTION:Wily Writers November 18\, 2026\, 5:30 PM - 7:00 PM @ Communit
  y Room Wily Writers 2026-11-18T17:30:00 Join our weekly writing group to p
  ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
  6001 Join our weekly writing group to practice your writing habit! More De
  tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4447&month
- =11&year=2026&day=19&calType=0
+ =11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4447&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heritage Preservation Commission Meeting
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261019T173631Z
-UID:606f336f5e9fe8c4714c187d@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fa2de81e6f71e6df3667142b@arizona-regional
 DESCRIPTION:Heritage Preservation Commission Meeting November 18\, 2026\, 
  4:00 PM @ This is a hybrid meeting. The meeting will be held in Council Ch
  ambers in City Hall. The Teams link is available in the meeting agenda\, w
@@ -1311,16 +1278,16 @@ DESCRIPTION:Heritage Preservation Commission Meeting November 18\, 2026\,
   2026-11-18T16:00:00 The Heritage Preservation Commission consists of seve
  n citizens: At least two (2) members must be professionals in the areas\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3991&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3991&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiny Twiggy Books
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173631Z
-UID:05088c70d577acf662cf219a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1d3dbeacbeb7c6a01be2af99@arizona-regional
 DESCRIPTION:Tiny Twiggy Books November 19\, 2026\, 3:45 PM - 5:15 PM @ Com
  munity Room Tiny Twiggy Books 2026-11-19T15:45:00 You're bound for a good 
  time creating your own autumnal mini journal with a stick for a spine at t
@@ -1328,16 +1295,16 @@ DESCRIPTION:Tiny Twiggy Books November 19\, 2026\, 3:45 PM - 5:15 PM @ Com
  ff AZ 86001 You're bound for a good time creating your own autumnal mini j
  ournal with a stick for a spine at this bookmaking workshop! Ages 8-18 Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4538&m
- onth=11&year=2026&day=19&calType=0
+ onth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4538&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flagstaff Housing Authority Meeting
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173631Z
-UID:bc9451c2523ec59d35cbda3e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:6f0ab21934601aabb825420c@arizona-regional
 DESCRIPTION:Flagstaff Housing Authority Meeting November 19\, 2026\, 9:00 
  AM @ This meeting is virtual only and can be joined at this Teams link (pa
  sscode zrXFhy). The meeting agenda will be uploaded to flagstaff.az.gov/27
@@ -1346,16 +1313,16 @@ DESCRIPTION:Flagstaff Housing Authority Meeting November 19\, 2026\, 9:00
  s of the Mayor and six citizens and oversees the functions of the Housing 
  Authority. One seat is set aside for a participant in the Section 8 or\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=2721&month=11&year=
- 2026&day=19&calType=0
+ 2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2721&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water Commission Meeting
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173631Z
-UID:23ded1486ae36fbe4da18adc@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:89bad1925f51cf0ae2bf2175@arizona-regional
 DESCRIPTION:Water Commission Meeting November 19\, 2026\, 4:00 PM @ This i
  s a hybrid meeting. The meeting will be held in Council Chambers at City H
  all. The Teams link is available in the meeting agenda\, which will be upl
@@ -1364,16 +1331,16 @@ DESCRIPTION:Water Commission Meeting November 19\, 2026\, 4:00 PM @ This i
  seven citizens and a representative from the Planning and Zoning Commissio
  n. It reviews extensions of the water and sewer collection systems\, tre\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3085&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3085&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bicycle Advisory Committee Meeting
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173631Z
-UID:4a0627dd428e3b1b0c3a85dc@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:0d77ce6b24b248f7bb6cf98c@arizona-regional
 DESCRIPTION:Bicycle Advisory Committee Meeting November 19\, 2026\, 4:30 P
  M @ This is a hybrid meeting. The meeting will be held in the Council Conf
  erence Room at the 1st floor of City Hall. The Teams link is available in 
@@ -1382,16 +1349,16 @@ DESCRIPTION:Bicycle Advisory Committee Meeting November 19\, 2026\, 4:30 P
  ting 2026-11-19T16:30:00 Flagstaff's Bicycle Advisory Committee (BAC) is a
   group of seven citizens who are appointed by and report to the City's \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4253&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4253&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sustainability Commission Meeting
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173631Z
-UID:9025384f15221de1ac8c9cf5@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c20cb35bc301e0908326b52c@arizona-regional
 DESCRIPTION:Sustainability Commission Meeting November 19\, 2026\, 4:30 PM
   - 7:30 PM @ This is a hybrid meeting. The meeting will be held in the Sta
  ff Conference Room on the 2nd floor of City Hall\, or on Teams. The Teams 
@@ -1400,16 +1367,16 @@ DESCRIPTION:Sustainability Commission Meeting November 19\, 2026\, 4:30 PM
  inability Commission consists of seven Council-appointed volunteer Flagsta
  ff community members. The commission serves in an advisory and working \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2564&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2564&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Diversity Awareness
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261019T173631Z
-UID:cc8c87606933b383310a0124@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:9568e90fcbb93fd0bdb04f1e@arizona-regional
 DESCRIPTION:Commission on Diversity Awareness November 20\, 2026\, 1:30 PM
   @ Hybrid meeting\, Teams link is available on the meeting agenda. The mee
  ting agenda will be uploaded to https://public.destinyhosted.com Commissio
@@ -1417,31 +1384,31 @@ DESCRIPTION:Commission on Diversity Awareness November 20\, 2026\, 1:30 PM
  s available on the meeting agenda. The meeting agenda will be uploaded to 
  https://public.destinyhosted.com Flagstaff AZ 86001 More Details\n\nSource
  : https://www.flagstaff.az.gov/Calendar.aspx?EID=4042&month=11&year=2026&d
- ay=19&calType=0
+ ay=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4042&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173631Z
-UID:e6b94bd009a46d63948f0168@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e5cc278bd9aa77e5125f2ff0@arizona-regional
 DESCRIPTION:Saturday Story Stop November 21\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-11-21T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4387&m
- onth=11&year=2026&day=19&calType=0
+ onth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4387&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Spaces Commission
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261019T173631Z
-UID:874b645c8b7cf1055631afda@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:5074c27ac0f6154692114abc@arizona-regional
 DESCRIPTION:Open Spaces Commission November 23\, 2026\, 4:00 PM @ This is 
  a hybrid meeting. The meeting will be held in Aquaplex Community Room. The
   Teams link is available in the meeting agenda\, which will be uploaded to
@@ -1450,16 +1417,16 @@ DESCRIPTION:Open Spaces Commission November 23\, 2026\, 4:00 PM @ This is
  ssion was established in 2003 to serve as an advisory body on the acquisit
  ion\, management\, use\, restoration\, enhancement\, protection\, and cons
  erv\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2929&month=1
- 1&year=2026&day=19&calType=0
+ 1&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2929&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Inclusion and Adaptive Living Meeting
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261019T173631Z
-UID:c7709deaf6f77c98820945df@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:fbcdd55dac8d0dd1daee2fa5@arizona-regional
 DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting November 2
  5\, 2026\, 11:00 AM @ Hybrid Meeting\, the Teams meeting link is available
   on the posted agenda flagstaff.az.gov/2784/Commission-on-Disability-Aware
@@ -1468,16 +1435,16 @@ DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting November 2
  ens\, and serves the disabled community in Flagstaff. The commission's goa
  ls are to expand educational opportunities\, improve access to housing\, b
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2669&month=11&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2669&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261019T173631Z
-UID:0c70c51ee714b2449c5a9ca0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:247bbd35634393a535c3a6e6@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting November 25\, 2026\, 4:
  00 PM @ This is a hybrid meeting. The meeting will be held in Council Cham
  bers at City Hall. The Teams link is available in the meeting agenda\, whi
@@ -1486,32 +1453,32 @@ DESCRIPTION:Planning and Zoning Commission Meeting November 25\, 2026\, 4:
  0:00 The Planning and Zoning Commission consists of seven citizen members\
  , and serves as an advisory board to the Council on matters relating to \n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3293&month=11&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3293&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Banned Book Club
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261019T173631Z
-UID:4acf1a141d524c1060634be6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:f77a8cfd73e2426e25523fb7@arizona-regional
 DESCRIPTION:Banned Book Club November 26\, 2026\, 6:00 PM - 7:00 PM @ Comm
  unity Room Banned Book Club 2026-11-26T18:00:00 Celebrate the freedom to r
  ead with the Banned Book Club. November's book is to be determined! Commun
  ity Room Downtown Library Flagstaff AZ 86001 Celebrate the freedom to read
   with the Banned Book Club. November's book is to be determined! More Deta
  ils\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4544&month=1
- 1&year=2026&day=19&calType=0
+ 1&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4544&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Library Board Meeting
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261019T173631Z
-UID:1fe03d0ba73f29da09b7c134@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b1523d368a9981a3e208817d@arizona-regional
 DESCRIPTION:Library Board Meeting November 26\, 2026\, 1:00 PM - 2:30 PM @
   This is a hybrid meeting. The meeting will be held in the Downtown Librar
  y conference room. The Teams link is available in the meeting agenda\, whi
@@ -1520,16 +1487,16 @@ DESCRIPTION:Library Board Meeting November 26\, 2026\, 1:00 PM - 2:30 PM @
  no County Public Library Board consists of two County residents\, four Cit
  y residents\, and one each non-voting member of the City Council and Boar\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3617&month=11&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3617&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tourism Commission Meeting
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261019T173631Z
-UID:8336603d75de438818bb1f5f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4a34797ce3b564d22d11444e@arizona-regional
 DESCRIPTION:Tourism Commission Meeting November 26\, 2026\, 1:30 PM @ This
   is a hybrid meeting. The meeting will be held in the Staff Conference Roo
  m on the 2nd floor of City Hall. The Teams link is available in the meetin
@@ -1538,16 +1505,16 @@ DESCRIPTION:Tourism Commission Meeting November 26\, 2026\, 1:30 PM @ This
  he Tourism Commission consists of seven citizens. The mission of the Touri
  sm Commission is to develop\, promote\, and maintain Flagstaff as a year-\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3033&month=11&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3033&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pedestrian Advisory Committee Meeting
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261019T173631Z
-UID:bb760623ef7c19138b7da57a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:ea146d054c5fdb3372a9708b@arizona-regional
 DESCRIPTION:Pedestrian Advisory Committee Meeting November 26\, 2026\, 4:3
  0 PM @ This is a hybrid meeting. The meeting will be held in the Council C
  onference Room at the 1st floor of City Hall. The Teams link is available 
@@ -1556,59 +1523,59 @@ DESCRIPTION:Pedestrian Advisory Committee Meeting November 26\, 2026\, 4:3
  ittee Meeting 2026-11-26T16:30:00 Flagstaff's Pedestrian Advisory Committe
  e (PAC) is a group of seven citizens who are appointed by and report to\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4149&month=11&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4149&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261019T173631Z
-UID:1d2e70c8ba21fa28bc12048a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a60807751d1f111ff58dc768@arizona-regional
 DESCRIPTION:The Knitting Hour November 27\, 2026\, 1:00 PM - 3:00 PM @ Nor
  thwest Corner The Knitting Hour 2026-11-27T13:00:00 Northwest Corner Downt
  own Library Flagstaff AZ 86001 More Details\n\nSource: https://www.flagsta
- ff.az.gov/Calendar.aspx?EID=4352&month=11&year=2026&day=19&calType=0
+ ff.az.gov/Calendar.aspx?EID=4352&month=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4352&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261019T173631Z
-UID:99be76490c52199ccd1ce016@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:bcc22094ec81516cdfeb5a79@arizona-regional
 DESCRIPTION:Saturday Story Stop November 28\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-11-28T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4388&m
- onth=11&year=2026&day=19&calType=0
+ onth=11&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4388&month=11&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261019T173631Z
-UID:e58d728e289027a71a1a2f2a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e249e8c4ef9365e652f9801d@arizona-regional
 DESCRIPTION:Wily Writers December 2\, 2026\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2026-12-02T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4449&month=
- 12&year=2026&day=19&calType=0
+ 12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4449&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transportation Commission
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261019T173631Z
-UID:df1e90957c35b4669beb1ec2@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:dfad51520316b13cff18f43c@arizona-regional
 DESCRIPTION:Transportation Commission December 2\, 2026\, 4:00 PM @ This i
  s a hybrid meeting. The meeting will be held in Council Chambers in City H
  all. The Teams link is available in the meeting agenda\, which will be upl
@@ -1617,16 +1584,16 @@ DESCRIPTION:Transportation Commission December 2\, 2026\, 4:00 PM @ This i
  ission (TC) consists of seven voting members (a representative from the Fl
  agstaff Unified School District\, NAIPTA and five citizens) and two non-\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3383&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3383&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry Book Club
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261019T173631Z
-UID:247bfeadb927d207a0b6ed94@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:f075fc6977536f5a001db194@arizona-regional
 DESCRIPTION:Poetry Book Club December 3\, 2026\, 5:30 PM - 7:00 PM @ Confe
  rence Room Poetry Book Club 2026-12-03T17:30:00 Join us for Poetry Book Cl
  ub! This month's book is to be determined We will meet in the Conference R
@@ -1635,16 +1602,16 @@ DESCRIPTION:Poetry Book Club December 3\, 2026\, 5:30 PM - 7:00 PM @ Confe
  ses (optional). Conference Room Downtown Library Flagstaff AZ 86001 Join u
  s for Poetry Book Club! This month's book is to be determined We will m\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4545&month=12&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4545&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indigenous Commission Meeting
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261019T173631Z
-UID:9966c2c8c8adf432182627d2@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:dac848c2df9044fc07ce43c6@arizona-regional
 DESCRIPTION:Indigenous Commission Meeting December 3\, 2026\, 11:00 AM - 1
  2:30 PM @ This meeting is virtual only. The Teams link is available on the
   meeting agenda. The meeting agenda will be uploaded to https://public.des
@@ -1653,16 +1620,16 @@ DESCRIPTION:Indigenous Commission Meeting December 3\, 2026\, 11:00 AM - 1
  as an advisory board to City Council\, makes recommendations with respect 
  to certain policies\, needs\, issues\, and methods in promoting the Strate
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3780&month=12&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3780&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Housing Commission
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261019T173631Z
-UID:44d31ef9f166636a320ecca7@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:de4fa8ec14123e364793c00d@arizona-regional
 DESCRIPTION:Housing Commission December 3\, 2026\, 1:00 PM - 3:00 PM @ Thi
  s is a virtual meeting. The Teams link is available on the meeting agenda.
   The meeting agenda will be uploaded to https://public.destinyhosted.com/a
@@ -1670,47 +1637,47 @@ DESCRIPTION:Housing Commission December 3\, 2026\, 1:00 PM - 3:00 PM @ Thi
  ard to City Council\, makes recommendations with respect to housing polici
  es\, needs\, and programs in Flagstaff\, and furnishes the Council with in
  formation through the Housing Director. More Details\n\nSource: https://ww
- w.flagstaff.az.gov/Calendar.aspx?EID=2825&month=12&year=2026&day=19&calTyp
+ w.flagstaff.az.gov/Calendar.aspx?EID=2825&month=12&year=2026&day=20&calTyp
  e=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2825&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261019T173631Z
-UID:c696b8addf3999e4fd3180c4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:81c22440c9f1f1bc05a9b320@arizona-regional
 DESCRIPTION:Saturday Story Stop December 5\, 2026\, 10:30 AM - 11:00 AM @ 
  Community Room Saturday Story Stop 2026-12-05T10:30:00 Come to a fun-fille
  d morning of storytime for ALL AGES. Community Room Downtown Library Flags
  taff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. More
   Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4389&mo
- nth=12&year=2026&day=19&calType=0
+ nth=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4389&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261019T173631Z
-UID:5822f2937aaba4227f49e1f9@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c687931df42d5ed84095f323@arizona-regional
 DESCRIPTION:Wily Writers December 9\, 2026\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2026-12-09T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4450&month=
- 12&year=2026&day=19&calType=0
+ 12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4450&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261019T173631Z
-UID:b090ca9e463c1fb629b9e4ef@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:68af31c738d1ae8ec4a03c34@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting December 9\, 2026\, 4:0
  0 PM @ This is a hybrid meeting. The meeting will be held in Council Chamb
  ers at City Hall. The Teams link is available in the meeting agenda\, whic
@@ -1719,16 +1686,16 @@ DESCRIPTION:Planning and Zoning Commission Meeting December 9\, 2026\, 4:0
  :00 The Planning and Zoning Commission consists of seven citizen members\,
   and serves as an advisory board to the Council on matters relating to t\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3242&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3242&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thursday Night Book Club
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261019T173631Z
-UID:4f1637707d644478df60c9a4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:9c96ad0066fc5f6d5697c3d7@arizona-regional
 DESCRIPTION:Thursday Night Book Club December 10\, 2026\, 6:00 PM - 7:00 P
  M @ Community Room Thursday Night Book Club 2026-12-10T18:00:00 Join the L
  ibrary's longest running book club on the 2nd Thursday of every month to d
@@ -1736,16 +1703,16 @@ DESCRIPTION:Thursday Night Book Club December 10\, 2026\, 6:00 PM - 7:00 P
  ntown Library Flagstaff AZ 86001 Join the Library's longest running book c
  lub on the 2nd Thursday of every month to discuss a new book! This months 
  book is to be announced! More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4317&month=12&year=2026&day=19&calType=0
+ gov/Calendar.aspx?EID=4317&month=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4317&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Airport Commission Meeting
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261019T173631Z
-UID:26d10ba294e47f34086e52de@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:710ea726ba2bb5c8177319cd@arizona-regional
 DESCRIPTION:Airport Commission Meeting December 10\, 2026\, 1:00 PM @ This
   is a hybrid meeting. The meeting will be held at the Airport Terminal Con
  ference Room. The Teams link is available in the meeting agenda\, which wi
@@ -1754,46 +1721,46 @@ DESCRIPTION:Airport Commission Meeting December 10\, 2026\, 1:00 PM @ This
  on consists of seven citizens\, and is responsible for reviewing and repor
  ting to the Council on the development of the Airpark and on matters aff\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3450&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3450&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261019T173631Z
-UID:38f19e015651f649a9a6bfe9@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:6c8285edab3c5659084326fc@arizona-regional
 DESCRIPTION:The Knitting Hour December 11\, 2026\, 1:00 PM - 3:00 PM @ Nor
  thwest Fireplace The Knitting Hour 2026-12-11T13:00:00 Want to learn to kn
  it? Need help with a knitting project? Northwest Fireplace Downtown Librar
  y Flagstaff AZ 86001 Want to learn to knit? Need help with a knitting proj
  ect? More Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EI
- D=4329&month=12&year=2026&day=19&calType=0
+ D=4329&month=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4329&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T173631Z
-UID:553cfe51f1ba70896160bef1@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:41d49100fe9150ec7d6fab50@arizona-regional
 DESCRIPTION:Saturday Story Stop December 12\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-12-12T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4390&m
- onth=12&year=2026&day=19&calType=0
+ onth=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4390&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beautification & Public Art Commission Meeting
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261019T173631Z
-UID:07b9aa16b7fc0196c2d2c697@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:afbc258aa4a6bc95331aba11@arizona-regional
 DESCRIPTION:Beautification & Public Art Commission Meeting December 14\, 2
  026\, 4:00 PM @ This is a hybrid meeting. The meeting will be held in the 
  Staff Conference Room on the 2nd floor of City Hall\, or on Teams. The Tea
@@ -1802,16 +1769,16 @@ DESCRIPTION:Beautification & Public Art Commission Meeting December 14\, 2
  ic-Art-Commission prior to the meeting. Beautification & Public Art Commis
  sion Meeting 2026-12-14T16:00:00 The Beautification and Public Art Comm\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2617&month=12&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2617&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senior Book Club
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261019T173631Z
-UID:76f6b29ada41dcaf14eae111@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e0a948b486400a4341725009@arizona-regional
 DESCRIPTION:Senior Book Club December 16\, 2026\, 2:00 PM Senior Book Club
   2026-12-16T14:00:00 The Senior Book Club meets on the 3rd Wednesday of ev
  ery month at the Joe C. Montoya Senior and Community Center. This Months B
@@ -1819,31 +1786,31 @@ DESCRIPTION:Senior Book Club December 16\, 2026\, 2:00 PM Senior Book Club
  enter Flagstaff AZ 86001 The Senior Book Club meets on the 3rd Wednesday o
  f every month at the Joe C. Montoya Senior and Community Center. This Mont
  hs Book it to be determined. More Details\n\nSource: https://www.flagstaff
- .az.gov/Calendar.aspx?EID=4437&month=12&year=2026&day=19&calType=0
+ .az.gov/Calendar.aspx?EID=4437&month=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4437&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261019T173631Z
-UID:de73b8387041cbe89ba9649c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:056af669fd43a17350972976@arizona-regional
 DESCRIPTION:Wily Writers December 16\, 2026\, 5:30 PM - 7:00 PM @ Communit
  y Room Wily Writers 2026-12-16T17:30:00 Join our weekly writing group to p
  ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
  6001 Join our weekly writing group to practice your writing habit! More De
  tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4451&month
- =12&year=2026&day=19&calType=0
+ =12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4451&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Southwest Reads: The Monkey Wrench Gang
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261019T173631Z
-UID:b470d7a86e8b2947c2061476@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2057026496da439d16e16153@arizona-regional
 DESCRIPTION:Southwest Reads: The Monkey Wrench Gang December 16\, 2026\, 6
  :00 PM - 7:00 PM @ Northwest Corner Southwest Reads: The Monkey Wrench Gan
  g 2026-12-16T18:00:00 Discuss the stories of the Southwest with the Southw
@@ -1852,16 +1819,16 @@ DESCRIPTION:Southwest Reads: The Monkey Wrench Gang December 16\, 2026\, 6
   is The Monkey Wrench Gang by Edward Abbey. Northwest Corner Downtown Libr
  ary Flagstaff AZ 86001 Discuss the stories of the Southwest with the S\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=4539&month=12&year=
- 2026&day=19&calType=0
+ 2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4539&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heritage Preservation Commission Meeting
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261019T173631Z
-UID:6ac90d5fd1531925010be1de@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:af532aad991f10724b4c3cdc@arizona-regional
 DESCRIPTION:Heritage Preservation Commission Meeting December 16\, 2026\, 
  4:00 PM @ This is a hybrid meeting. The meeting will be held in Council Ch
  ambers in City Hall. The Teams link is available in the meeting agenda\, w
@@ -1870,16 +1837,16 @@ DESCRIPTION:Heritage Preservation Commission Meeting December 16\, 2026\,
   2026-12-16T16:00:00 The Heritage Preservation Commission consists of seve
  n citizens: At least two (2) members must be professionals in the areas\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3992&month=12&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3992&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flagstaff Housing Authority Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261019T173631Z
-UID:36eba787d91dbf427fe5780c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:11f37958725f9bf18492e71a@arizona-regional
 DESCRIPTION:Flagstaff Housing Authority Meeting December 17\, 2026\, 9:00 
  AM @ This meeting is virtual only and can be joined at this Teams link (pa
  sscode zrXFhy). The meeting agenda will be uploaded to flagstaff.az.gov/27
@@ -1888,16 +1855,16 @@ DESCRIPTION:Flagstaff Housing Authority Meeting December 17\, 2026\, 9:00
  s of the Mayor and six citizens and oversees the functions of the Housing 
  Authority. One seat is set aside for a participant in the Section 8 or\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=2722&month=12&year=
- 2026&day=19&calType=0
+ 2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2722&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water Commission Meeting
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261019T173631Z
-UID:96392d61f17da71987f8f167@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:b886e43d4e9a520a09fe1c2b@arizona-regional
 DESCRIPTION:Water Commission Meeting December 17\, 2026\, 4:00 PM @ This i
  s a hybrid meeting. The meeting will be held in Council Chambers at City H
  all. The Teams link is available in the meeting agenda\, which will be upl
@@ -1906,16 +1873,16 @@ DESCRIPTION:Water Commission Meeting December 17\, 2026\, 4:00 PM @ This i
  seven citizens and a representative from the Planning and Zoning Commissio
  n. It reviews extensions of the water and sewer collection systems\, tre\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3086&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3086&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Diversity Awareness
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261019T173631Z
-UID:85370d5ab8a11ce7e49a38d3@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4556347965539246ffca451c@arizona-regional
 DESCRIPTION:Commission on Diversity Awareness December 18\, 2026\, 1:30 PM
   @ Hybrid meeting\, Teams link is available on the meeting agenda. The mee
  ting agenda will be uploaded to https://public.destinyhosted.com Commissio
@@ -1923,31 +1890,31 @@ DESCRIPTION:Commission on Diversity Awareness December 18\, 2026\, 1:30 PM
  s available on the meeting agenda. The meeting agenda will be uploaded to 
  https://public.destinyhosted.com Flagstaff AZ 86001 More Details\n\nSource
  : https://www.flagstaff.az.gov/Calendar.aspx?EID=4043&month=12&year=2026&d
- ay=19&calType=0
+ ay=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4043&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261019T173631Z
-UID:294c831e27b3d2b752d755ad@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2bd633c3c2eb8d789b7abc52@arizona-regional
 DESCRIPTION:Saturday Story Stop December 19\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-12-19T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4391&m
- onth=12&year=2026&day=19&calType=0
+ onth=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4391&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parks and Recreation Commission Meeting
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261019T173631Z
-UID:16a229028fbddef51b5f29cb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c73350ff8636511484c61643@arizona-regional
 DESCRIPTION:Parks and Recreation Commission Meeting December 21\, 2026\, 4
  :00 PM @ This is a hybrid meeting. The meeting will be held in the Aquaple
  x Community Room. The Teams link is available in the meeting agenda\, whic
@@ -1956,31 +1923,31 @@ DESCRIPTION:Parks and Recreation Commission Meeting December 21\, 2026\, 4
  6-12-21T16:00:00 The Flagstaff Parks and Recreation Commission consists of
   seven citizens\, and makes recommendations to the Council regarding Cit\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2982&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2982&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261019T173631Z
-UID:8989fabc9bc15d6af76fed9b@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:003e7c41283fc762f03a7c05@arizona-regional
 DESCRIPTION:Wily Writers December 23\, 2026\, 5:30 PM - 7:00 PM @ Communit
  y Room Wily Writers 2026-12-23T17:30:00 Join our weekly writing group to p
  ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
  6001 Join our weekly writing group to practice your writing habit! More De
  tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4452&month
- =12&year=2026&day=19&calType=0
+ =12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4452&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Inclusion and Adaptive Living Meeting
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261019T173631Z
-UID:89a159c6c2e9aa70f0d10eb5@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:71d0917317e81693b439825e@arizona-regional
 DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting December 2
  3\, 2026\, 11:00 AM @ Hybrid Meeting\, the Teams meeting link is available
   on the posted agenda flagstaff.az.gov/2784/Commission-on-Disability-Aware
@@ -1989,16 +1956,16 @@ DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting December 2
  ens\, and serves the disabled community in Flagstaff. The commission's goa
  ls are to expand educational opportunities\, improve access to housing\, b
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2670&month=12&y
- ear=2026&day=19&calType=0
+ ear=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2670&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-DTSTAMP:20261019T173631Z
-UID:520b50237c2d0b3af9b8cc74@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d5ee6efb3d15205930fb8f82@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting December 23\, 2026\, 4:
  00 PM @ This is a hybrid meeting. The meeting will be held in Council Cham
  bers at City Hall. The Teams link is available in the meeting agenda\, whi
@@ -2007,16 +1974,16 @@ DESCRIPTION:Planning and Zoning Commission Meeting December 23\, 2026\, 4:
  0:00 The Planning and Zoning Commission consists of seven citizen members\
  , and serves as an advisory board to the Council on matters relating to \n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3294&month=12&yea
- r=2026&day=19&calType=0
+ r=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3294&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Library Board Meeting
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261019T173631Z
-UID:62d40a0a4efc0f55c4b6ee15@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:278cc59f960bfa3068c35817@arizona-regional
 DESCRIPTION:Library Board Meeting December 24\, 2026\, 1:00 PM - 2:30 PM @
   This is a hybrid meeting. The meeting will be held in the Downtown Librar
  y conference room. The Teams link is available in the meeting agenda\, whi
@@ -2025,16 +1992,16 @@ DESCRIPTION:Library Board Meeting December 24\, 2026\, 1:00 PM - 2:30 PM @
  no County Public Library Board consists of two County residents\, four Cit
  y residents\, and one each non-voting member of the City Council and Boar\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3618&month=12&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3618&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tourism Commission Meeting
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261019T173631Z
-UID:20eac696714331f122d48e97@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:cf36fe8e0c00183b7fab190e@arizona-regional
 DESCRIPTION:Tourism Commission Meeting December 24\, 2026\, 1:30 PM @ This
   is a hybrid meeting. The meeting will be held in the Staff Conference Roo
  m on the 2nd floor of City Hall. The Teams link is available in the meetin
@@ -2043,16 +2010,16 @@ DESCRIPTION:Tourism Commission Meeting December 24\, 2026\, 1:30 PM @ This
  he Tourism Commission consists of seven citizens. The mission of the Touri
  sm Commission is to develop\, promote\, and maintain Flagstaff as a year-\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3034&month=12&ye
- ar=2026&day=19&calType=0
+ ar=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3034&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sustainability Commission Meeting
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20261019T173631Z
-UID:04eb7f1549cc0eea6de7d686@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:15d3f1ae2667a0291dbfe7d3@arizona-regional
 DESCRIPTION:Sustainability Commission Meeting December 24\, 2026\, 4:30 PM
   @ This is a hybrid meeting. The meeting will be held in the Staff Confere
  nce Room on the 2nd floor of City Hall\, or on Teams. The Teams link can b
@@ -2061,44 +2028,44 @@ DESCRIPTION:Sustainability Commission Meeting December 24\, 2026\, 4:30 PM
  Commission consists of seven Council-appointed volunteer Flagstaff communi
  ty members. The commission serves in an advisory and working capacity t\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2565&month=12&year
- =2026&day=19&calType=0
+ =2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2565&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261019T173631Z
-UID:2f7296f94fbbec5bdf436a1f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a659dbd6af6d3c0a503e7520@arizona-regional
 DESCRIPTION:The Knitting Hour December 25\, 2026\, 1:00 PM - 3:00 PM @ Nor
  thwest Corner The Knitting Hour 2026-12-25T13:00:00 Northwest Corner Downt
  own Library Flagstaff AZ 86001 More Details\n\nSource: https://www.flagsta
- ff.az.gov/Calendar.aspx?EID=4353&month=12&year=2026&day=19&calType=0
+ ff.az.gov/Calendar.aspx?EID=4353&month=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4353&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Story Stop
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261019T173631Z
-UID:6143650059eb93cb713e2eac@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:61dbd7b0e636cd1d8bc77b4f@arizona-regional
 DESCRIPTION:Saturday Story Stop December 26\, 2026\, 10:30 AM - 11:00 AM @
   Community Room Saturday Story Stop 2026-12-26T10:30:00 Come to a fun-fill
  ed morning of storytime for ALL AGES. Community Room Downtown Library Flag
  staff AZ 86001 Come to a fun-filled morning of storytime for ALL AGES. Mor
  e Details\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4540&m
- onth=12&year=2026&day=19&calType=0
+ onth=12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4540&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Spaces Commission
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20261019T173631Z
-UID:a9622372a353b6382db4d56a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:3849a019bae2ab714b3649b0@arizona-regional
 DESCRIPTION:Open Spaces Commission December 28\, 2026\, 4:00 PM @ This is 
  a hybrid meeting. The meeting will be held in Aquaplex Community Room. The
   Teams link is available in the meeting agenda\, which will be uploaded to
@@ -2107,46 +2074,46 @@ DESCRIPTION:Open Spaces Commission December 28\, 2026\, 4:00 PM @ This is
  ssion was established in 2003 to serve as an advisory body on the acquisit
  ion\, management\, use\, restoration\, enhancement\, protection\, and cons
  erv\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2930&month=1
- 2&year=2026&day=19&calType=0
+ 2&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2930&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261019T173631Z
-UID:c998f768f33f7a816806f2c6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d2d9d1c6a421d904f182f791@arizona-regional
 DESCRIPTION:Wily Writers December 30\, 2026\, 5:30 PM - 7:00 PM @ Communit
  y Room Wily Writers 2026-12-30T17:30:00 Join our weekly writing group to p
  ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
  6001 Join our weekly writing group to practice your writing habit! More De
  tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4541&month
- =12&year=2026&day=19&calType=0
+ =12&year=2026&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4541&month=12&year=2026
- &day=19&calType=0
+ &day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-DTSTAMP:20261019T173631Z
-UID:f18d69654cda4e911146569f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4061aed8d5da0eaf684fb3e5@arizona-regional
 DESCRIPTION:Wily Writers January 6\, 2027\, 5:30 PM - 7:00 PM @ Community 
  Room Wily Writers 2027-01-06T17:30:00 Join our weekly writing group to pra
  ctice your writing habit! Community Room Downtown Library Flagstaff AZ 860
  01 Join our weekly writing group to practice your writing habit! More Deta
  ils\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4546&month=1
- &year=2027&day=19&calType=0
+ &year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4546&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indigenous Commission Meeting
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261019T173631Z
-UID:18e6c3f10600d10f22e5ca1f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:7a0258abb4493645c7cad711@arizona-regional
 DESCRIPTION:Indigenous Commission Meeting January 7\, 2027\, 11:00 AM - 12
  :30 PM @ This meeting is virtual only. The Teams link is available on the 
  meeting agenda. The meeting agenda will be uploaded to https://public.dest
@@ -2155,16 +2122,16 @@ DESCRIPTION:Indigenous Commission Meeting January 7\, 2027\, 11:00 AM - 12
  s an advisory board to City Council\, makes recommendations with respect t
  o certain policies\, needs\, issues\, and methods in promoting the Strateg
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3781&month=1&ye
- ar=2027&day=19&calType=0
+ ar=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3781&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beautification & Public Art Commission Meeting
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-DTSTAMP:20261019T173631Z
-UID:d4bc1b13f3ba59a1d1b9728c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1656254c0b5ce3bff30f9a61@arizona-regional
 DESCRIPTION:Beautification & Public Art Commission Meeting January 11\, 20
  27\, 4:00 PM @ This is a hybrid meeting. The meeting will be held in the S
  taff Conference Room on the 2nd floor of City Hall\, or on Teams. The Team
@@ -2173,31 +2140,31 @@ DESCRIPTION:Beautification & Public Art Commission Meeting January 11\, 20
  c-Art-Commission prior to the meeting. Beautification & Public Art Commiss
  ion Meeting 2027-01-11T16:00:00 The Beautification and Public Art Commi\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2618&month=1&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2618&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20261019T173631Z
-UID:238570c93e74421c1da71275@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:af9adf43b07cb0d6d319825f@arizona-regional
 DESCRIPTION:Wily Writers January 13\, 2027\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2027-01-13T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4547&month=
- 1&year=2027&day=19&calType=0
+ 1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4547&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-DTSTAMP:20261019T173631Z
-UID:61cbabef7f00723bfce5735c@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:37bf7608ebb1514924c60c38@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting January 13\, 2027\, 4:0
  0 PM @ This is a hybrid meeting. The meeting will be held in Council Chamb
  ers at City Hall. The Teams link is available in the meeting agenda\, whic
@@ -2206,32 +2173,32 @@ DESCRIPTION:Planning and Zoning Commission Meeting January 13\, 2027\, 4:0
  :00 The Planning and Zoning Commission consists of seven citizen members\,
   and serves as an advisory board to the Council on matters relating to t\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3243&month=1&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3243&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thursday Night Book Club
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261019T173631Z
-UID:006f813240bc0ccfd229a5d6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:74110fb7ed45889dacc73570@arizona-regional
 DESCRIPTION:Thursday Night Book Club January 14\, 2027\, 6:00 PM - 7:00 PM
   @ Community Room Thursday Night Book Club 2027-01-14T18:00:00 Join the Li
  brary's longest running book club on the 2nd Thursday of every month to di
  scuss a new book! Community Room Downtown Library Flagstaff AZ 86001 Join 
  the Library's longest running book club on the 2nd Thursday of every month
   to discuss a new book! More Details\n\nSource: https://www.flagstaff.az.g
- ov/Calendar.aspx?EID=4318&month=1&year=2027&day=19&calType=0
+ ov/Calendar.aspx?EID=4318&month=1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4318&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Airport Commission Meeting
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-DTSTAMP:20261019T173631Z
-UID:a0de55cdd91277388998cf08@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2cdfec53cb1b5ff82c50cb25@arizona-regional
 DESCRIPTION:Airport Commission Meeting January 14\, 2027\, 1:00 PM @ This 
  is a hybrid meeting. The meeting will be held at the Airport Terminal Conf
  erence Room. The Teams link is available in the meeting agenda\, which wil
@@ -2240,16 +2207,16 @@ DESCRIPTION:Airport Commission Meeting January 14\, 2027\, 1:00 PM @ This
  n consists of seven citizens\, and is responsible for reviewing and report
  ing to the Council on the development of the Airpark and on matters affe\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3451&month=1&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3451&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Diversity Awareness
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T173631Z
-UID:96d987101b40bbb2bcfd78bb@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e4f64f24d7d16421ec302505@arizona-regional
 DESCRIPTION:Commission on Diversity Awareness January 15\, 2027\, 1:30 PM 
  @ Hybrid meeting\, Teams link is available on the meeting agenda. The meet
  ing agenda will be uploaded to https://public.destinyhosted.com Commission
@@ -2257,16 +2224,16 @@ DESCRIPTION:Commission on Diversity Awareness January 15\, 2027\, 1:30 PM
   available on the meeting agenda. The meeting agenda will be uploaded to h
  ttps://public.destinyhosted.com Flagstaff AZ 86001 More Details\n\nSource:
   https://www.flagstaff.az.gov/Calendar.aspx?EID=4044&month=1&year=2027&day
- =19&calType=0
+ =20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4044&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parks and Recreation Commission Meeting
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20261019T173631Z
-UID:98c6b7999bae9910b758f447@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:9ed97818fadfe61c7f385b15@arizona-regional
 DESCRIPTION:Parks and Recreation Commission Meeting January 18\, 2027\, 4:
  00 PM @ This is a hybrid meeting. The meeting will be held in the Aquaplex
   Community Room. The Teams link is available in the meeting agenda\, which
@@ -2275,16 +2242,16 @@ DESCRIPTION:Parks and Recreation Commission Meeting January 18\, 2027\, 4:
  -01-18T16:00:00 The Flagstaff Parks and Recreation Commission consists of 
  seven citizens\, and makes recommendations to the Council regarding City\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2983&month=1&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2983&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senior Book Club
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DTSTAMP:20261019T173631Z
-UID:3f8be61598c478544554517d@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:7223aef66e5bd949b2cd0ed5@arizona-regional
 DESCRIPTION:Senior Book Club January 20\, 2027\, 2:00 PM - 3:00 PM Senior 
  Book Club 2027-01-20T14:00:00 The Senior Book Club meets on the 3rd Wednes
  day of every month at the Joe C. Montoya Senior and Community Center. This
@@ -2292,31 +2259,31 @@ DESCRIPTION:Senior Book Club January 20\, 2027\, 2:00 PM - 3:00 PM Senior
   Senior Center Flagstaff AZ 86001 The Senior Book Club meets on the 3rd We
  dnesday of every month at the Joe C. Montoya Senior and Community Center. 
  This Months Book it to be determined. More Details\n\nSource: https://www.
- flagstaff.az.gov/Calendar.aspx?EID=4621&month=1&year=2027&day=19&calType=0
+ flagstaff.az.gov/Calendar.aspx?EID=4621&month=1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4621&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DTSTAMP:20261019T173631Z
-UID:fff16bc644121ec8482e7100@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:e915d9c88cdff0952b9fe7e4@arizona-regional
 DESCRIPTION:Wily Writers January 20\, 2027\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2027-01-20T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4548&month=
- 1&year=2027&day=19&calType=0
+ 1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4548&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heritage Preservation Commission Meeting
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DTSTAMP:20261019T173631Z
-UID:c9a95c7bf70afd9e87e984a6@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:2a989fb8b93a542fcda1db6e@arizona-regional
 DESCRIPTION:Heritage Preservation Commission Meeting January 20\, 2027\, 4
  :00 PM @ This is a hybrid meeting. The meeting will be held in Council Cha
  mbers in City Hall. The Teams link is available in the meeting agenda\, wh
@@ -2325,16 +2292,16 @@ DESCRIPTION:Heritage Preservation Commission Meeting January 20\, 2027\, 4
  2027-01-20T16:00:00 The Heritage Preservation Commission consists of seven
   citizens: At least two (2) members must be professionals in the areas \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3993&month=1&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3993&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flagstaff Housing Authority Meeting
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20261019T173631Z
-UID:90e3fc099612a8c5cc37e425@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1a8bc2da158a37bfa29c978c@arizona-regional
 DESCRIPTION:Flagstaff Housing Authority Meeting January 21\, 2027\, 9:00 A
  M @ This meeting is virtual only and can be joined at this Teams link (pas
  scode zrXFhy). The meeting agenda will be uploaded to flagstaff.az.gov/278
@@ -2343,16 +2310,16 @@ DESCRIPTION:Flagstaff Housing Authority Meeting January 21\, 2027\, 9:00 A
   of the Mayor and six citizens and oversees the functions of the Housing A
  uthority. One seat is set aside for a participant in the Section 8 or \n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=2723&month=1&year=2
- 027&day=19&calType=0
+ 027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2723&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Water Commission Meeting
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20261019T173631Z
-UID:9fd0c533e86e0ab79d246995@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:df045cfd1d9abb228276c021@arizona-regional
 DESCRIPTION:Water Commission Meeting January 21\, 2027\, 4:00 PM @ This is
   a hybrid meeting. The meeting will be held in Council Chambers at City Ha
  ll. The Teams link is available in the meeting agenda\, which will be uplo
@@ -2361,16 +2328,16 @@ DESCRIPTION:Water Commission Meeting January 21\, 2027\, 4:00 PM @ This is
  even citizens and a representative from the Planning and Zoning Commission
  . It reviews extensions of the water and sewer collection systems\, trea\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3087&month=1&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3087&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bicycle Advisory Committee Meeting
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20261019T173631Z
-UID:306380f90de778fb9fa41408@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:58cd1de7cc01790b2d643443@arizona-regional
 DESCRIPTION:Bicycle Advisory Committee Meeting January 21\, 2027\, 4:30 PM
   @ This is a hybrid meeting. The meeting will be held in the Council Confe
  rence Room at the 1st floor of City Hall. The Teams link is available in t
@@ -2379,29 +2346,29 @@ DESCRIPTION:Bicycle Advisory Committee Meeting January 21\, 2027\, 4:30 PM
  ing 2027-01-21T16:30:00 Flagstaff's Bicycle Advisory Committee (BAC) is a 
  group of seven citizens who are appointed by and report to the City's T\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4254&month=1&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4254&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Knitting Hour
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20261019T173631Z
-UID:71afb48c052cd5678b5eaa24@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:01a95f87275998c3fa0c47ac@arizona-regional
 DESCRIPTION:The Knitting Hour January 22\, 2027\, 1:00 PM - 3:00 PM @ Nort
  hwest Corner The Knitting Hour 2027-01-22T13:00:00 Northwest Corner Downto
  wn Library Flagstaff AZ 86001 More Details\n\nSource: https://www.flagstaf
- f.az.gov/Calendar.aspx?EID=4354&month=1&year=2027&day=19&calType=0
+ f.az.gov/Calendar.aspx?EID=4354&month=1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4354&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Spaces Commission
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
-DTSTAMP:20261019T173631Z
-UID:33fa1d702276ba45bfecc186@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a0151353553bfdfd6f5bbf9a@arizona-regional
 DESCRIPTION:Open Spaces Commission January 25\, 2027\, 4:00 PM @ This is a
   hybrid meeting. The meeting will be held in Aquaplex Community Room. The 
  Teams link is available in the meeting agenda\, which will be uploaded to 
@@ -2410,31 +2377,31 @@ DESCRIPTION:Open Spaces Commission January 25\, 2027\, 4:00 PM @ This is a
  sion was established in 2003 to serve as an advisory body on the acquisiti
  on\, management\, use\, restoration\, enhancement\, protection\, and conse
  rva\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2931&month=1
- &year=2027&day=19&calType=0
+ &year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2931&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261019T173631Z
-UID:6946a2f4ca650980e547bcb8@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:4b84102bc132f31d661f4740@arizona-regional
 DESCRIPTION:Wily Writers January 27\, 2027\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2027-01-27T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4549&month=
- 1&year=2027&day=19&calType=0
+ 1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4549&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commission on Inclusion and Adaptive Living Meeting
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261019T173631Z
-UID:4252e614c2fb3332a0ff4384@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:297c92d0e673810b92b6bf32@arizona-regional
 DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting January 27
  \, 2027\, 11:00 AM @ Hybrid Meeting\, the Teams meeting link is available 
  on the posted agenda flagstaff.az.gov/2784/Commission-on-Disability-Awaren
@@ -2443,16 +2410,16 @@ DESCRIPTION:Commission on Inclusion and Adaptive Living Meeting January 27
  ns\, and serves the disabled community in Flagstaff. The commission's goal
  s are to expand educational opportunities\, improve access to housing\, bu
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2671&month=1&ye
- ar=2027&day=19&calType=0
+ ar=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2671&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261019T173631Z
-UID:eccd9d4635cfd297aa2f4ac0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:f3de8313f51017f21f0e2fa8@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting January 27\, 2027\, 4:0
  0 PM @ This is a hybrid meeting. The meeting will be held in Council Chamb
  ers at City Hall. The Teams link is available in the meeting agenda\, whic
@@ -2461,32 +2428,32 @@ DESCRIPTION:Planning and Zoning Commission Meeting January 27\, 2027\, 4:0
  :00 The Planning and Zoning Commission consists of seven citizen members\,
   and serves as an advisory board to the Council on matters relating to t\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3295&month=1&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3295&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Banned Book Club
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:b2c42aa7f2d2f3233416bc3f@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:61a8147e9cbbef374c9134f8@arizona-regional
 DESCRIPTION:Banned Book Club January 28\, 2027\, 6:00 PM - 7:00 PM @ Commu
  nity Room Banned Book Club 2027-01-28T18:00:00 Celebrate the freedom to re
  ad with the Banned Book Club. This month's book is to be determined! Commu
  nity Room Downtown Library Flagstaff AZ 86001 Celebrate the freedom to rea
  d with the Banned Book Club. This month's book is to be determined! More D
  etails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4598&mont
- h=1&year=2027&day=19&calType=0
+ h=1&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4598&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Housing Commission
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:597a139202487b7e9fcef145@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c88a64f8ea23d522b5b36d4c@arizona-regional
 DESCRIPTION:Housing Commission January 28\, 2027\, 1:00 PM - 3:00 PM @ Thi
  s is a virtual meeting. The Teams link is available on the meeting agenda.
   The meeting agenda will be uploaded to https://public.destinyhosted.com/a
@@ -2494,17 +2461,17 @@ DESCRIPTION:Housing Commission January 28\, 2027\, 1:00 PM - 3:00 PM @ Thi
  ard to City Council\, makes recommendations with respect to housing polici
  es\, needs\, and programs in Flagstaff\, and furnishes the Council with in
  formation through the Housing Director. More Details\n\nSource: https://ww
- w.flagstaff.az.gov/Calendar.aspx?EID=2827&month=1&year=2027&day=19&calType
+ w.flagstaff.az.gov/Calendar.aspx?EID=2827&month=1&year=2027&day=20&calType
  =0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2827&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Library Board Meeting
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:871ad2db29758fcff0a74261@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:53db7e3c2078df133036c7db@arizona-regional
 DESCRIPTION:Library Board Meeting January 28\, 2027\, 1:00 PM - 2:30 PM @ 
  This is a hybrid meeting. The meeting will be held in the Downtown Library
   conference room. The Teams link is available in the meeting agenda\, whic
@@ -2513,16 +2480,16 @@ DESCRIPTION:Library Board Meeting January 28\, 2027\, 1:00 PM - 2:30 PM @
  o County Public Library Board consists of two County residents\, four City
   residents\, and one each non-voting member of the City Council and Board\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3619&month=1&yea
- r=2027&day=19&calType=0
+ r=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3619&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tourism Commission Meeting
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:32e66a67b9ee20b5b66cf2fe@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:cac62a28fff4e4d7a5719920@arizona-regional
 DESCRIPTION:Tourism Commission Meeting January 28\, 2027\, 1:30 PM @ This 
  is a hybrid meeting. The meeting will be held in the Staff Conference Room
   on the 2nd floor of City Hall. The Teams link is available in the meeting
@@ -2531,16 +2498,16 @@ DESCRIPTION:Tourism Commission Meeting January 28\, 2027\, 1:30 PM @ This
  e Tourism Commission consists of seven citizens. The mission of the Touris
  m Commission is to develop\, promote\, and maintain Flagstaff as a year-r\
  n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3035&month=1&yea
- r=2027&day=19&calType=0
+ r=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3035&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pedestrian Advisory Committee Meeting
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:1d6dd205d704903780626a5a@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:1ff7153b85c40a9a28edc18f@arizona-regional
 DESCRIPTION:Pedestrian Advisory Committee Meeting January 28\, 2027\, 4:30
   PM @ This is a hybrid meeting. The meeting will be held in the Council Co
  nference Room at the 1st floor of City Hall. The Teams link is available i
@@ -2549,16 +2516,16 @@ DESCRIPTION:Pedestrian Advisory Committee Meeting January 28\, 2027\, 4:30
  ttee Meeting 2027-01-28T16:30:00 Flagstaff's Pedestrian Advisory Committee
   (PAC) is a group of seven citizens who are appointed by and report to \n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4150&month=1&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4150&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sustainability Commission Meeting
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261019T173631Z
-UID:a3a2e86ea77a3271ec3787a0@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:dd185f0f99238987bdd0d40a@arizona-regional
 DESCRIPTION:Sustainability Commission Meeting January 28\, 2027\, 4:30 PM 
  @ This is a hybrid meeting. The meeting will be held in the Staff Conferen
  ce Room on the 2nd floor of City Hall\, or on Teams. The Teams link can be
@@ -2567,31 +2534,31 @@ DESCRIPTION:Sustainability Commission Meeting January 28\, 2027\, 4:30 PM
  ommission consists of seven Council-appointed volunteer Flagstaff communit
  y members. The commission serves in an advisory and working capacity to\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2566&month=1&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2566&month=1&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261019T173631Z
-UID:82628734fb80e309cff9723b@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:bbe2ccfca6bb38ebc01e373b@arizona-regional
 DESCRIPTION:Wily Writers February 3\, 2027\, 5:30 PM - 7:00 PM @ Community
   Room Wily Writers 2027-02-03T17:30:00 Join our weekly writing group to pr
  actice your writing habit! Community Room Downtown Library Flagstaff AZ 86
  001 Join our weekly writing group to practice your writing habit! More Det
  ails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4550&month=
- 2&year=2027&day=19&calType=0
+ 2&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4550&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transportation Commission
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
-DTSTAMP:20261019T173631Z
-UID:f972a5dfa965f4290787af98@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:710e31a6cd4080fdea56d6df@arizona-regional
 DESCRIPTION:Transportation Commission February 3\, 2027\, 4:00 PM @ This i
  s a hybrid meeting. The meeting will be held in Council Chambers in City H
  all. The Teams link is available in the meeting agenda\, which will be upl
@@ -2600,16 +2567,16 @@ DESCRIPTION:Transportation Commission February 3\, 2027\, 4:00 PM @ This i
  ission (TC) consists of seven voting members (a representative from the Fl
  agstaff Unified School District\, NAIPTA and five citizens) and two non-\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3384&month=2&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3384&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry Book Club
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-DTSTAMP:20261019T173631Z
-UID:7ffce074f2b653dd12203ee4@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:82c4c29bbcd499d9f1cfbf59@arizona-regional
 DESCRIPTION:Poetry Book Club February 4\, 2027\, 5:30 PM - 7:00 PM @ Confe
  rence Room Poetry Book Club 2027-02-04T17:30:00 Join us for Poetry Book Cl
  ub! This month's book is to be determined We will meet in the Conference R
@@ -2618,16 +2585,16 @@ DESCRIPTION:Poetry Book Club February 4\, 2027\, 5:30 PM - 7:00 PM @ Confe
  Room Downtown Library Flagstaff AZ 86001 Join us for Poetry Book Club! Thi
  s month's book is to be determined We will meet in the Conference Room\n\n
  Source: https://www.flagstaff.az.gov/Calendar.aspx?EID=4604&month=2&year=2
- 027&day=19&calType=0
+ 027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4604&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indigenous Commission Meeting
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-DTSTAMP:20261019T173631Z
-UID:eb2a9ac75276b7d68cf17a77@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:49e202e1ce348a685ae3b214@arizona-regional
 DESCRIPTION:Indigenous Commission Meeting February 4\, 2027\, 11:00 AM - 1
  2:30 PM @ This meeting is virtual only. The Teams link is available on the
   meeting agenda. The meeting agenda will be uploaded to https://public.des
@@ -2636,16 +2603,16 @@ DESCRIPTION:Indigenous Commission Meeting February 4\, 2027\, 11:00 AM - 1
  as an advisory board to City Council\, makes recommendations with respect 
  to certain policies\, needs\, issues\, and methods in promoting the Strate
  \n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3782&month=2&ye
- ar=2027&day=19&calType=0
+ ar=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3782&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beautification & Public Art Commission Meeting
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
-DTSTAMP:20261019T173631Z
-UID:eebfda545e1ace4873b5a73e@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:6f060554aacec49596887b6f@arizona-regional
 DESCRIPTION:Beautification & Public Art Commission Meeting February 8\, 20
  27\, 4:00 PM @ This is a hybrid meeting. The meeting will be held in the S
  taff Conference Room on the 2nd floor of City Hall\, or on Teams. The Team
@@ -2654,31 +2621,31 @@ DESCRIPTION:Beautification & Public Art Commission Meeting February 8\, 20
  c-Art-Commission prior to the meeting. Beautification & Public Art Commiss
  ion Meeting 2027-02-08T16:00:00 The Beautification and Public Art Commi\n\
  nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2619&month=2&year=
- 2027&day=19&calType=0
+ 2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2619&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wily Writers
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-DTSTAMP:20261019T173631Z
-UID:90664e00437e3fa9c3261ea8@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:c989561a9889280afebb4790@arizona-regional
 DESCRIPTION:Wily Writers February 10\, 2027\, 5:30 PM - 7:00 PM @ Communit
  y Room Wily Writers 2027-02-10T17:30:00 Join our weekly writing group to p
  ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
  6001 Join our weekly writing group to practice your writing habit! More De
  tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4551&month
- =2&year=2027&day=19&calType=0
+ =2&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4551&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planning and Zoning Commission Meeting
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-DTSTAMP:20261019T173631Z
-UID:6d526ffab62f62b2326d4a12@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:d4d9813e2963dcba22dbd710@arizona-regional
 DESCRIPTION:Planning and Zoning Commission Meeting February 10\, 2027\, 4:
  00 PM @ This is a hybrid meeting. The meeting will be held in Council Cham
  bers at City Hall. The Teams link is available in the meeting agenda\, whi
@@ -2687,32 +2654,32 @@ DESCRIPTION:Planning and Zoning Commission Meeting February 10\, 2027\, 4:
  0:00 The Planning and Zoning Commission consists of seven citizen members\
  , and serves as an advisory board to the Council on matters relating to \n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3244&month=2&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3244&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thursday Night Book Club
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261019T173631Z
-UID:cce6d935bcf478d75a6baf22@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:afdbf2b9db4e58cf57436aac@arizona-regional
 DESCRIPTION:Thursday Night Book Club February 11\, 2027\, 6:00 PM - 7:00 P
  M @ Community Room Thursday Night Book Club 2027-02-11T18:00:00 Join the L
  ibrary's longest running book club on the 2nd Thursday of every month to d
  iscuss a new book! Community Room Downtown Library Flagstaff AZ 86001 Join
   the Library's longest running book club on the 2nd Thursday of every mont
  h to discuss a new book! More Details\n\nSource: https://www.flagstaff.az.
- gov/Calendar.aspx?EID=4319&month=2&year=2027&day=19&calType=0
+ gov/Calendar.aspx?EID=4319&month=2&year=2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4319&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Airport Commission Meeting
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261019T173631Z
-UID:c5a9e9b9787ce98cbb7a26d5@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:acba1717a2cc88c651730173@arizona-regional
 DESCRIPTION:Airport Commission Meeting February 11\, 2027\, 1:00 PM @ This
   is a hybrid meeting. The meeting will be held at the Airport Terminal Con
  ference Room. The Teams link is available in the meeting agenda\, which wi
@@ -2721,16 +2688,16 @@ DESCRIPTION:Airport Commission Meeting February 11\, 2027\, 1:00 PM @ This
  on consists of seven citizens\, and is responsible for reviewing and repor
  ting to the Council on the development of the Airpark and on matters aff\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3452&month=2&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3452&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parks and Recreation Commission Meeting
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261019T173631Z
-UID:7d9ba22118aa87fa7dcfc5fa@arizona-regional
+DTSTAMP:20261020T154536Z
+UID:a1c243929826f17737cc1989@arizona-regional
 DESCRIPTION:Parks and Recreation Commission Meeting February 15\, 2027\, 4
  :00 PM @ This is a hybrid meeting. The meeting will be held in the Aquaple
  x Community Room. The Teams link is available in the meeting agenda\, whic
@@ -2739,8 +2706,58 @@ DESCRIPTION:Parks and Recreation Commission Meeting February 15\, 2027\, 4
  7-02-15T16:00:00 The Flagstaff Parks and Recreation Commission consists of
   seven citizens\, and makes recommendations to the Council regarding Cit\n
  \nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=2984&month=2&year
- =2027&day=19&calType=0
+ =2027&day=20&calType=0
 URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=2984&month=2&year=2027&
- day=19&calType=0
+ day=20&calType=0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senior Book Club
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+DTSTAMP:20261020T154536Z
+UID:a1d308e6c7edd0f125378528@arizona-regional
+DESCRIPTION:Senior Book Club February 17\, 2027\, 2:00 PM Senior Book Club
+  2027-02-17T14:00:00 The Senior Book Club meets on the 3rd Wednesday of ev
+ ery month at the Joe C. Montoya Senior and Community Center. This Months B
+ ook it to be determined. Event Location Joe C Montoya Community & Senior C
+ enter Flagstaff AZ 86001 The Senior Book Club meets on the 3rd Wednesday o
+ f every month at the Joe C. Montoya Senior and Community Center. This Mont
+ hs Book it to be determined. More Details\n\nSource: https://www.flagstaff
+ .az.gov/Calendar.aspx?EID=4610&month=2&year=2027&day=20&calType=0
+URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4610&month=2&year=2027&
+ day=20&calType=0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wily Writers
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+DTSTAMP:20261020T154536Z
+UID:ee891c94bc9f47a7d06f5892@arizona-regional
+DESCRIPTION:Wily Writers February 17\, 2027\, 5:30 PM - 7:00 PM @ Communit
+ y Room Wily Writers 2027-02-17T17:30:00 Join our weekly writing group to p
+ ractice your writing habit! Community Room Downtown Library Flagstaff AZ 8
+ 6001 Join our weekly writing group to practice your writing habit! More De
+ tails\n\nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=4552&month
+ =2&year=2027&day=20&calType=0
+URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=4552&month=2&year=2027&
+ day=20&calType=0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heritage Preservation Commission Meeting
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+DTSTAMP:20261020T154536Z
+UID:97dce8ffbe7d3da27e50c23a@arizona-regional
+DESCRIPTION:Heritage Preservation Commission Meeting February 17\, 2027\, 
+ 4:00 PM @ This is a hybrid meeting. The meeting will be held in Council Ch
+ ambers in City Hall. The Teams link is available in the meeting agenda\, w
+ hich will be uploaded to https://public.destinyhosted.com/agenda_publish.c
+ fm?id=35247 prior to the meeting. Heritage Preservation Commission Meeting
+  2027-02-17T16:00:00 The Heritage Preservation Commission consists of seve
+ n citizens: At least two (2) members must be professionals in the areas\n\
+ nSource: https://www.flagstaff.az.gov/Calendar.aspx?EID=3994&month=2&year=
+ 2027&day=20&calType=0
+URL:https://www.flagstaff.az.gov/Calendar.aspx?EID=3994&month=2&year=2027&
+ day=20&calType=0
 END:VEVENT
 END:VCALENDAR

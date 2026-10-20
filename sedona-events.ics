@@ -3,11 +3,26 @@ VERSION:2.0
 PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Sedona
 BEGIN:VEVENT
+SUMMARY:22nd Annual Sedona Plein Air Festival
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154525Z
+UID:9d837798ac1cbd6e978a5f55@arizona-regional
+DESCRIPTION:Get details about 22nd Annual Sedona Plein Air Festival and ex
+ plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
+ sic and more with the official Sedona Chamber of Commerce Event Calendar.\
+ n\nSource: https://visitsedona.com/events-calendar/22nd-annual-sedona-plei
+ n-air-festival1
+LOCATION:15 Art Barn Road Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/22nd-annual-sedona-plein-air-f
+ estival1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:‘Bernstein’s Wall’ Film Premiere
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:ccd93925473c49111313ec65@arizona-regional
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154525Z
+UID:554b88bbfd9bcd5f6f3d8a08@arizona-regional
 DESCRIPTION:Get details about ‘Bernstein’s Wall’ Film Premiere and e
  xplore Sedona attractions\, restaurants\, places to stay\, events\, live m
  usic and more with the official Sedona Chamber of Commerce Event Calendar.
@@ -17,65 +32,23 @@ LOCATION:2030 W. State Route 89A Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/bernsteins-wall-film-premiere
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D.A. Ranch Paint Out — 2026 Sedona Plein Air Festival
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:ba9b8560a9abed8de9f72959@arizona-regional
-DESCRIPTION:Get details about D.A. Ranch Paint Out — 2026 Sedona Plein A
- ir Festival and explore Sedona attractions\, restaurants\, places to stay\
- , events\, live music and more with the official Sedona Chamber of Commerc
- e Event Calendar.\n\nSource: https://visitsedona.com/events-calendar/d.a.-
- ranch-paint-out-2026-sedona-plein-air-festival
-URL:https://visitsedona.com/events-calendar/d.a.-ranch-paint-out-2026-sedo
- na-plein-air-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday at the Museum - Handwoven Potholder Pro Workshop
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:faa2e593cff543f96b5d31bf@arizona-regional
-DESCRIPTION:Get details about Monday at the Museum - Handwoven Potholder P
- ro Workshop and explore Sedona attractions\, restaurants\, places to stay\
- , events\, live music and more with the official Sedona Chamber of Commerc
- e Event Calendar.\n\nSource: https://visitsedona.com/events-calendar/monda
- y-at-the-museum-handwoven-potholder-pro-workshop
-LOCATION:735 Jordan Rd Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/monday-at-the-museum-handwoven
- -potholder-pro-workshop
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scientific Vortex Information
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:e889c180dc6df41e2197f76a@arizona-regional
-DESCRIPTION:MIT Honors Grad\, Pete Sanders on how to tap the\n\nSource: ht
- tps://visitsedona.com/events-calendar/scientific-vortex-information94
-LOCATION:160 Portal Lane Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/scientific-vortex-information9
- 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Healing
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:ec61492e85fe93980d5e142e@arizona-regional
-DESCRIPTION:Experience transformative sound healing at Down Dog Sedona. Re
- lax\, restore\, and rebalance with crystal bowls\, guided meditation\, and
-  immersive vibrational therapy in Sedona.\n\nSource: https://visitsedona.c
- om/events-calendar/sound-healing-1
-LOCATION:1785 W. SR 89A\, Ste 1-B Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/sound-healing-1
+SUMMARY:Sedona Plein Air Festival
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154525Z
+UID:4f79ed54358cd5d6c3354bf9@arizona-regional
+DESCRIPTION:Get details about Sedona Plein Air Festival and explore Sedona
+  attractions\, restaurants\, places to stay\, events\, live music and more
+  with the official Sedona Chamber of Commerce Event Calendar.\n\nSource: h
+ ttps://visitsedona.com/events-calendar/sedona-plein-air-festival
+URL:https://visitsedona.com/events-calendar/sedona-plein-air-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:‘The History of Concrete’ Film Premiere
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173625Z
-UID:d482aae086bf9d6e50060ed9@arizona-regional
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154525Z
+UID:31e856786bab810ff0d7403d@arizona-regional
 DESCRIPTION:Get details about ‘The History of Concrete’ Film Premiere 
  and explore Sedona attractions\, restaurants\, places to stay\, events\, l
  ive music and more with the official Sedona Chamber of Commerce Event Cale
@@ -86,10 +59,25 @@ URL:https://visitsedona.com/events-calendar/the-history-of-concrete-film-p
  remiere
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:‘You Had to Be There’ Film Premiere
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154525Z
+UID:5c873fb9d0a79de9bc0f0571@arizona-regional
+DESCRIPTION:Get details about ‘You Had to Be There’ Film Premiere and 
+ explore Sedona attractions\, restaurants\, places to stay\, events\, live 
+ music and more with the official Sedona Chamber of Commerce Event Calendar
+ .\n\nSource: https://visitsedona.com/events-calendar/you-had-to-be-there-f
+ ilm-premiere
+LOCATION:2030 W. State Route 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/you-had-to-be-there-film-premi
+ ere
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ancestral Healing Experience
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:2968b8b6c2dadb51aed7eae6@arizona-regional
 DESCRIPTION:Get details about Ancestral Healing Experience and explore Sed
  ona attractions\, restaurants\, places to stay\, events\, live music and m
@@ -102,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:‘Macbeth’ Met Live Opera
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:ebbc16fc0007957d232bc6c8@arizona-regional
 DESCRIPTION:Get details about ‘Macbeth’ Met Live Opera and explore Sed
  ona attractions\, restaurants\, places to stay\, events\, live music and m
@@ -115,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Private Residence Paint Out — 2026 Sedona Plein Air Festival
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d594a758c380ade042799742@arizona-regional
 DESCRIPTION:Get details about Private Residence Paint Out — 2026 Sedona 
  Plein Air Festival and explore Sedona attractions\, restaurants\, places t
@@ -129,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Pumpkins in the Vines
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:f97bf071626b88dcb829a3e8@arizona-regional
 DESCRIPTION:Get details about Pumpkins in the Vines and explore Sedona att
  ractions\, restaurants\, places to stay\, events\, live music and more wit
@@ -141,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Vortex Healing Retreat
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:2516ccb0a434839090670287@arizona-regional
 DESCRIPTION:Get details about Sedona Vortex Healing Retreat and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -151,10 +139,23 @@ LOCATION:3500 E. Bill Gray Rd. Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/sedona-vortex-healing-retreat
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sound Healing
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261020T154525Z
+UID:a4ac2460189e429f520dcb67@arizona-regional
+DESCRIPTION:Experience transformative sound healing at Down Dog Sedona. Re
+ lax\, restore\, and rebalance with crystal bowls\, guided meditation\, and
+  immersive vibrational therapy in Sedona.\n\nSource: https://visitsedona.c
+ om/events-calendar/sound-healing-1
+LOCATION:1785 W. SR 89A\, Ste 1-B Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/sound-healing-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Blazin’ M Experience
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:47fde64350a9f4c4b1896832@arizona-regional
 DESCRIPTION:Chuckwagon dinner\, live Western show\, axe throwing & more at
   Blazin' M Ranch in Cottonwood\, just minutes from Sedona. A family-friend
@@ -167,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Wine Wednesday
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:6370bffa3214f24d57a1e7fc@arizona-regional
 DESCRIPTION:Wine Wednesday\n\nSource: https://visitsedona.com/events-calen
  dar/wine-wednesday
@@ -177,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Coming Home: The Music of James Taylor
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:a80999f1520abec70a0735a7@arizona-regional
 DESCRIPTION:Get details about Coming Home: The Music of James Taylor and e
  xplore Sedona attractions\, restaurants\, places to stay\, events\, live m
@@ -192,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:‘Fallen Angels’ Worldwide Premiere Event
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:38f517494a10c8a0c02a56cc@arizona-regional
 DESCRIPTION:Get details about ‘Fallen Angels’ Worldwide Premiere Event
   and explore Sedona attractions\, restaurants\, places to stay\, events\, 
@@ -207,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Fiddler on the Rock Concerts
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:bfc5c8d0d505a0eecdcad500@arizona-regional
 DESCRIPTION:Fiddler on the Rock\, fiddler\, Tyler Carson\n\nSource: https:
  //visitsedona.com/events-calendar/fiddler-on-the-rock-concerts-2
@@ -219,7 +220,7 @@ SUMMARY:Fierce Feminine Rising Sedona Fierce Feminine Rising SedonaWomen
  ’s Retreat w/ Anahata Ananda & Kait
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9e28d1eb8014925d88f45e2b@arizona-regional
 DESCRIPTION:Get details about Fierce Feminine Rising Sedona Fierce Feminin
  e Rising SedonaWomen’s Retreat w/ Anahata Ananda & Kait and explore Sedo
@@ -235,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Self-Empowerment QiGong Retreat
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:e54ae179b2729e5c567d360b@arizona-regional
 DESCRIPTION:Get details about Self-Empowerment QiGong Retreat and explore 
  Sedona attractions\, restaurants\, places to stay\, events\, live music an
@@ -250,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Bath / Tai Chi / Qigong / Yoga
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:60f369f6185ef1b21a6c33da@arizona-regional
 DESCRIPTION:Get details about Sound Bath / Tai Chi / Qigong / Yoga and exp
  lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
@@ -264,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:UQUALLA in CEREMONY ​
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:003bc1ffdc997d31ace8dbb7@arizona-regional
 DESCRIPTION:Get details about UQUALLA in CEREMONY ​ and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -277,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:22nd Annual Sedona Plein Air Festival — Awards Night
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:8c2f9663f15b0a557916c0f9@arizona-regional
 DESCRIPTION:Get details about 22nd Annual Sedona Plein Air Festival — Aw
  ards Night and explore Sedona attractions\, restaurants\, places to stay\,
@@ -293,7 +294,7 @@ SUMMARY:3-Day Visioning Retreat at Village Yoga Sedona ✨ Design The Life
   of Your Dreams
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:1dcd0f93d1ed587bc3da7286@arizona-regional
 DESCRIPTION:Get details about 3-Day Visioning Retreat at Village Yoga Sedo
  na ✨ Design The Life of Your Dreams and explore Sedona attractions\, res
@@ -309,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:Aerial Sound Healing in Sedona
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9442847a504aaaed157f2731@arizona-regional
 DESCRIPTION:Get details about Aerial Sound Healing in Sedona and explore S
  edona attractions\, restaurants\, places to stay\, events\, live music and
@@ -319,10 +320,23 @@ LOCATION:1785 W. State Route 89A\, Suite 1B Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/aerial-sound-healing-in-sedona
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cosmic Gong Bath Experience with ISSA
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261020T154525Z
+UID:5a7728eb3397c3173ec75783@arizona-regional
+DESCRIPTION:Experience Cosmic Gongs in Sedona through immersive sound heal
+ ing\, deep relaxation\, meditation\, and powerful vibrational frequencies 
+ in a sacred setting.\n\nSource: https://visitsedona.com/events-calendar/co
+ smic-gong-bath-with-issa-wilson
+URL:https://visitsedona.com/events-calendar/cosmic-gong-bath-with-issa-wil
+ son
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dance Under the Stars - Hillside Sedona
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:1b0ce35536c1007e63e22b91@arizona-regional
 DESCRIPTION:Get details about Dance Under the Stars - Hillside Sedona and 
  explore Sedona attractions\, restaurants\, places to stay\, events\, live 
@@ -335,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Meditation & Sound Bath
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:b0968f6552caa22ff4ff2294@arizona-regional
 DESCRIPTION:Get details about Full Moon Meditation & Sound Bath and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -350,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Live Theatre: ‘No Matter What You Tell Me’
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:ef8b914ca0acade8afed8f6a@arizona-regional
 DESCRIPTION:Get details about Live Theatre: ‘No Matter What You Tell Me
  ’ and explore Sedona attractions\, restaurants\, places to stay\, events
@@ -365,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Meditate in the Sedona Vortex Energy
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9f24843743da2607e8b401b0@arizona-regional
 DESCRIPTION:Get details about Meditate in the Sedona Vortex Energy and exp
  lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
@@ -380,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Oak Creek Arts and Crafts Show
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:af66b54b69203d67497eb8dc@arizona-regional
 DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
   Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
@@ -397,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Sky Rock Sedona - Live Music
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:fb6aafba9fe5147d47579842@arizona-regional
 DESCRIPTION:Get details about Sky Rock Sedona - Live Music and explore Sed
  ona attractions\, restaurants\, places to stay\, events\, live music and m
@@ -410,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:‘Take Me Home’ Film Premiere
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:e26414c0124c2a4678d1ae12@arizona-regional
 DESCRIPTION:Get details about ‘Take Me Home’ Film Premiere and explore
   Sedona attractions\, restaurants\, places to stay\, events\, live music a
@@ -423,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:‘The Gymnasts of Fisherman Colony’ Film Premiere
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d4b106672d4af32f0da39d00@arizona-regional
 DESCRIPTION:Get details about ‘The Gymnasts of Fisherman Colony’ Film 
  Premiere and explore Sedona attractions\, restaurants\, places to stay\, e
@@ -438,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:‘The Trial of Alec Baldwin’ Film Premiere
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:fc5d44dce78e93504a0dd497@arizona-regional
 DESCRIPTION:Get details about ‘The Trial of Alec Baldwin’ Film Premier
  e and explore Sedona attractions\, restaurants\, places to stay\, events\,
@@ -453,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Blazin’ M Harvest Market
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:608c1e67629a68619ac6d043@arizona-regional
 DESCRIPTION:Get details about Blazin’ M Harvest Market and explore Sedon
  a attractions\, restaurants\, places to stay\, events\, live music and mor
@@ -466,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Colorful & Contemporary GREG HEIL ARTIST DEMO
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:dfdcdfdfbc8acaaff57e2e74@arizona-regional
 DESCRIPTION:Get details about Colorful & Contemporary GREG HEIL ARTIST DEM
  O and explore Sedona attractions\, restaurants\, places to stay\, events\,
@@ -481,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Community Paint Out — 2026 Sedona Plein Air Festival
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:df1ae30b64ecd0f16d85c372@arizona-regional
 DESCRIPTION:Get details about Community Paint Out — 2026 Sedona Plein Ai
  r Festival and explore Sedona attractions\, restaurants\, places to stay\,
@@ -496,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Dance Under The Stars - Sedona Center
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:ba408163f6a3dca8722a2cc9@arizona-regional
 DESCRIPTION:Get details about Dance Under The Stars - Sedona Center and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -509,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Guided Red Rock Hike
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:512d701e1cf9dd9a0a7e9f9d@arizona-regional
 DESCRIPTION:Get details about Guided Red Rock Hike and explore Sedona attr
  actions\, restaurants\, places to stay\, events\, live music and more with
@@ -521,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:On the Fly: The Essentials of Fly Fishing
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:37c1f27c8d9f4f5fbbcd858c@arizona-regional
 DESCRIPTION:Get details about On the Fly: The Essentials of Fly Fishing an
  d explore Sedona attractions\, restaurants\, places to stay\, events\, liv
@@ -536,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Paint Your Pet! (on canvas)
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:6374cabfed4bbb0938d0b3a3@arizona-regional
 DESCRIPTION:Get details about Paint Your Pet! (on canvas) and explore Sedo
  na attractions\, restaurants\, places to stay\, events\, live music and mo
@@ -551,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:Scientific Vortex Information
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:98ee29c87f43e770a31699ca@arizona-regional
 DESCRIPTION:Get details about Scientific Vortex Information and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -565,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Heritage Museum Arts and Crafts Fair
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:bc2c5c8176de2e25336c2749@arizona-regional
 DESCRIPTION:Get details about Sedona Heritage Museum Arts and Crafts Fair 
  and explore Sedona attractions\, restaurants\, places to stay\, events\, l
@@ -581,7 +595,7 @@ SUMMARY:Singing Our Hearts Wide Open - Sacred Kirtan at Village Yoga Sedon
  a
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:97f86555e65d8bb2f52f2d3c@arizona-regional
 DESCRIPTION:Get details about Singing Our Hearts Wide Open - Sacred Kirtan
   at Village Yoga Sedona and explore Sedona attractions\, restaurants\, pla
@@ -596,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing Journey with Kennedy OneSelf
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:de577a45344912e640792755@arizona-regional
 DESCRIPTION:Get details about Sound Healing Journey with Kennedy OneSelf a
  nd explore Sedona attractions\, restaurants\, places to stay\, events\, li
@@ -611,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga at the Southwest Wine Center
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d2a43cd07e907d3b1e7c78c7@arizona-regional
 DESCRIPTION:Get details about Yoga at the Southwest Wine Center and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -626,7 +640,7 @@ SUMMARY:Beyond the Veil: Halloween Costume Experience with Moonbabe Perfor
  mers
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:b1d5334cf5331117b4492b9a@arizona-regional
 DESCRIPTION:Get details about Beyond the Veil: Halloween Costume Experienc
  e with Moonbabe Performers and explore Sedona attractions\, restaurants\, 
@@ -642,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:Michael Peach Presents: Haunted History
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:0598a04226b18ae76dfbfb09@arizona-regional
 DESCRIPTION:Get details about Michael Peach Presents: Haunted History and 
  explore Sedona attractions\, restaurants\, places to stay\, events\, live 
@@ -657,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:Pierre Bensusan Concert
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:396e382921aac75030204c1e@arizona-regional
 DESCRIPTION:Get details about Pierre Bensusan Concert and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -670,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Red Rock Reserve Autumn Private Estate Salon: Eagle Dancer Resort
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:cf2af7921d70b87d416ff72f@arizona-regional
 DESCRIPTION:Get details about Red Rock Reserve Autumn Private Estate Salon
  : Eagle Dancer Resort and explore Sedona attractions\, restaurants\, place
@@ -684,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Wellness Retreat
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:b8b56e53141e628a62d55703@arizona-regional
 DESCRIPTION:Get details about Sedona Wellness Retreat and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -697,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:In the Living Room Music Series: Shaeri Richards
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:c2ac92d69842b2e95f1b55cb@arizona-regional
 DESCRIPTION:Get details about In the Living Room Music Series: Shaeri Rich
  ards and explore Sedona attractions\, restaurants\, places to stay\, event
@@ -712,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:Monday at the Museum - Verde Valley Fiber Artisans
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:c962d40c19d194b4629f6852@arizona-regional
 DESCRIPTION:Get details about Monday at the Museum - Verde Valley Fiber Ar
  tisans and explore Sedona attractions\, restaurants\, places to stay\, eve
@@ -727,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Revitalizing Detox Retreat
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:a7c21e734e4c6afe166fd4eb@arizona-regional
 DESCRIPTION:Get details about Revitalizing Detox Retreat and explore Sedon
  a attractions\, restaurants\, places to stay\, events\, live music and mor
@@ -737,10 +751,22 @@ LOCATION:3500 E Bill Gray Rd Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/revitalizing-detox-retreat
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scientific Vortex Information
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261020T154525Z
+UID:6bf03bc9d6ce897beac2fd4e@arizona-regional
+DESCRIPTION:MIT Honors Grad\, Pete Sanders on how to tap the\n\nSource: ht
+ tps://visitsedona.com/events-calendar/scientific-vortex-information94
+LOCATION:160 Portal Lane Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/scientific-vortex-information9
+ 4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:‘Séance’ Film Premiere
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d66610a491ef79eabffd58c9@arizona-regional
 DESCRIPTION:Get details about ‘Séance’ Film Premiere and explore Sedo
  na attractions\, restaurants\, places to stay\, events\, live music and mo
@@ -753,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:Sirsy Concert
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:18e552fe12f1fb3c7631bebf@arizona-regional
 DESCRIPTION:Get details about Sirsy Concert and explore Sedona attractions
  \, restaurants\, places to stay\, events\, live music and more with the of
@@ -766,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:Glamour After Dark - A Halloween Celebration
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:25ce52634123154340aa2f02@arizona-regional
 DESCRIPTION:Get details about Glamour After Dark - A Halloween Celebration
   and explore Sedona attractions\, restaurants\, places to stay\, events\, 
@@ -781,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:Marigold Mural Project
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:1ff94098c01b607f6aca4456@arizona-regional
 DESCRIPTION:Paint a tribute to a loved one on Tlaquepaque's 26-foot rememb
  rance wall\, Oct. 29–31 in Sedona. Artist Lovejoy guides\; brushes and p
@@ -794,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:Midnight Rider on a Graveyard Run
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:952f66031259338051942708@arizona-regional
 DESCRIPTION:Get details about Midnight Rider on a Graveyard Run and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -809,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:Broome & Orchards Halloween Party
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9bbc66a08d24448ae9fa7e1f@arizona-regional
 DESCRIPTION:Get details about Broome & Orchards Halloween Party and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -824,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:CIRCO BIZARRO: A Halloween Circus Experience
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d686a8f6bfd335ac7794e9f9@arizona-regional
 DESCRIPTION:Get details about CIRCO BIZARRO: A Halloween Circus Experience
   and explore Sedona attractions\, restaurants\, places to stay\, events\, 
@@ -839,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:Desert Disco - Halloween Bash
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9ea83f1e8400853e9d647ecd@arizona-regional
 DESCRIPTION:Get details about Desert Disco - Halloween Bash and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -852,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Night Michael Jackson Tribute
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9fda2cfdb0332d569c93ef2b@arizona-regional
 DESCRIPTION:Get details about Halloween Night Michael Jackson Tribute and 
  explore Sedona attractions\, restaurants\, places to stay\, events\, live 
@@ -866,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Sacred Pause: Labyrinth Walk & Meditation
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:bb1e33f803c7179fe8cf4de1@arizona-regional
 DESCRIPTION:Get details about Halloween Sacred Pause: Labyrinth Walk & Med
  itation and explore Sedona attractions\, restaurants\, places to stay\, ev
@@ -881,7 +907,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing Ceremony with Devani Paige
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:f8a6f40705d3353811bff09e@arizona-regional
 DESCRIPTION:Get details about Sound Healing Ceremony with Devani Paige and
   explore Sedona attractions\, restaurants\, places to stay\, events\, live
@@ -896,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:Uptown Trick or Treat. A Spooktacular Sedona Tradition
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:69d01035417a6406df43d58b@arizona-regional
 DESCRIPTION:Get details about Uptown Trick or Treat. A Spooktacular Sedona
   Tradition and explore Sedona attractions\, restaurants\, places to stay\,
@@ -911,7 +937,7 @@ SUMMARY:Anastarr Sacred Skin Golden Elite Organic Facial Experience with C
  reators\, Anastarr and Bunnie
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:b0e705578ba474b6448b71d3@arizona-regional
 DESCRIPTION:Get details about Anastarr Sacred Skin Golden Elite Organic Fa
  cial Experience with Creators\, Anastarr and Bunnie and explore Sedona att
@@ -927,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:Dia de los Muertos Celebration at Tlaquepaque
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:9d67c25a1d57434aacd8eb7e@arizona-regional
 DESCRIPTION:Celebrate Día de los Muertos at Tlaquepaque in Sedona on Nov.
   1\, 2026. See ofrendas\, cultural installations\, live music\, and tradit
@@ -941,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:Relax & Recharge Retreat
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:862a9e34eea0d2c69232b5d8@arizona-regional
 DESCRIPTION:Get details about Relax & Recharge Retreat and explore Sedona 
  attractions\, restaurants\, places to stay\, events\, live music and more 
@@ -954,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:Gong Meditation
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:4364ed9b814cbbbe92a9ae73@arizona-regional
 DESCRIPTION:Get details about Gong Meditation and explore Sedona attractio
  ns\, restaurants\, places to stay\, events\, live music and more with the 
@@ -968,7 +994,7 @@ SUMMARY:Sound Bath Practitioners Training & Certification Immersion ~ Fall
   2026 w/ Bella Rivera
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:fb1a532239c3201fb7269962@arizona-regional
 DESCRIPTION:Get details about Sound Bath Practitioners Training & Certific
  ation Immersion ~ Fall 2026 w/ Bella Rivera and explore Sedona attractions
@@ -984,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing Journey with Isabella Rivera
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:7376f773ff4d49ca24cdb9e3@arizona-regional
 DESCRIPTION:Get details about Sound Healing Journey with Isabella Rivera a
  nd explore Sedona attractions\, restaurants\, places to stay\, events\, li
@@ -1000,7 +1026,7 @@ SUMMARY:Waking the Soul — A 4-Day Healing & Awakening Retreat at Village
   Yoga Sedona
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:f1b4a4b01fe6ab93e9626c9e@arizona-regional
 DESCRIPTION:Get details about Waking the Soul — A 4-Day Healing & Awaken
  ing Retreat at Village Yoga Sedona and explore Sedona attractions\, restau
@@ -1016,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:1st Friday in the Galleries
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:b6f7c644bbb1a35b2fa2431a@arizona-regional
 DESCRIPTION:Sedona First Friday gallery walk\, things to do in Sedona firs
  t Friday\, Sedona art walk Tlaquepaque\, Sedona monthly gallery event\, Se
@@ -1030,7 +1056,7 @@ BEGIN:VEVENT
 SUMMARY:Dance Under the Stars at Tlaquepaque First Friday
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:85fbd6ce38365673903d998f@arizona-regional
 DESCRIPTION:Get details about Dance Under the Stars at Tlaquepaque First F
  riday and explore Sedona attractions\, restaurants\, places to stay\, even
@@ -1045,7 +1071,7 @@ BEGIN:VEVENT
 SUMMARY:NEW ARTIST\, NEW WORK\, NEW EVENTS + SMALL WORKS SHOW
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:529a132b4ed307d9b9f6f7d3@arizona-regional
 DESCRIPTION:Get details about NEW ARTIST\, NEW WORK\, NEW EVENTS + SMALL W
  ORKS SHOW and explore Sedona attractions\, restaurants\, places to stay\, 
@@ -1060,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Mountain Bike Festival
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:3db142842a031d0a33f74e71@arizona-regional
 DESCRIPTION:Experience the Sedona Mountain Bike Festival\, a premier Arizo
  na cycling event featuring bike demos\, skills clinics\, guided rides\, ve
@@ -1074,7 +1100,7 @@ BEGIN:VEVENT
 SUMMARY:Charming Animal Artist SARAH WEBBER PAINTING DEMO
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:68db9d257fe12c07457bc747@arizona-regional
 DESCRIPTION:Get details about Charming Animal Artist SARAH WEBBER PAINTING
   DEMO and explore Sedona attractions\, restaurants\, places to stay\, even
@@ -1089,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:Star Party at Red Rock State Park
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:453f3769e9aa395954b8eb09@arizona-regional
 DESCRIPTION:Get details about Star Party at Red Rock State Park and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -1104,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing Journey with Isabella Rivera and Friends
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:dc0fd25f0b1db92397d9a15e@arizona-regional
 DESCRIPTION:Get details about Sound Healing Journey with Isabella Rivera a
  nd Friends and explore Sedona attractions\, restaurants\, places to stay\,
@@ -1119,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:New Moon Under the Sedona Sky
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:c17089d33df21a3185edbbbb@arizona-regional
 DESCRIPTION:Get details about New Moon Under the Sedona Sky and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -1133,7 +1159,7 @@ SUMMARY:Kaisora Breathwork Ceremony In Sedona Explore special Kaisora offe
  rings in Seattle and beyond—from
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:f83dd1886e8582c3331ab690@arizona-regional
 DESCRIPTION:Get details about Kaisora Breathwork Ceremony In Sedona Explor
  e special Kaisora offerings in Seattle and beyond—from and explore Sedon
@@ -1149,7 +1175,7 @@ BEGIN:VEVENT
 SUMMARY:KAISORA Breathwork Ceremony WITH TAI HUBBERT
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:29f29df4dbb3dc823428cb67@arizona-regional
 DESCRIPTION:Get details about KAISORA Breathwork Ceremony WITH TAI HUBBERT
   and explore Sedona attractions\, restaurants\, places to stay\, events\, 
@@ -1164,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Veterans Day Tribute
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:5a9390d4ffcc31e3d0befdfe@arizona-regional
 DESCRIPTION:Get details about Veterans Day Tribute and explore Sedona attr
  actions\, restaurants\, places to stay\, events\, live music and more with
@@ -1177,7 +1203,7 @@ BEGIN:VEVENT
 SUMMARY:Finding True Self
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:3900a6cb47d2af77e6488dba@arizona-regional
 DESCRIPTION:Get details about Finding True Self and explore Sedona attract
  ions\, restaurants\, places to stay\, events\, live music and more with th
@@ -1190,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing Ceremony with Devani Paige
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:351e071478c8cbab24a44d8a@arizona-regional
 DESCRIPTION:Get details about Sound Healing Ceremony with Devani Paige and
   explore Sedona attractions\, restaurants\, places to stay\, events\, live
@@ -1205,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:Nervous System Reset Sound Journey with Cheryl Bailey
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:999bd3d6ed8cfdc2c862dc55@arizona-regional
 DESCRIPTION:Get details about Nervous System Reset Sound Journey with Cher
  yl Bailey and explore Sedona attractions\, restaurants\, places to stay\, 
@@ -1220,7 +1246,7 @@ BEGIN:VEVENT
 SUMMARY:3rd Annual Get Loud Community Celebration!
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:529001f1675558bff2a5dfcf@arizona-regional
 DESCRIPTION:Get details about 3rd Annual Get Loud Community Celebration! a
  nd explore Sedona attractions\, restaurants\, places to stay\, events\, li
@@ -1236,7 +1262,7 @@ SUMMARY:Building a Resilient Body in a Toxic World with David Avocado Wolf
  e
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:3a204bd9295ddce9378d60cf@arizona-regional
 DESCRIPTION:Get details about Building a Resilient Body in a Toxic World w
  ith David Avocado Wolfe and explore Sedona attractions\, restaurants\, pla
@@ -1251,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:Oak Creek Arts and Crafts Show
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d697e21193cd5d8e07627949@arizona-regional
 DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
   Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
@@ -1267,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Vortex Land Journey with Anahata Ananda
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:03f6345befa87e44b02ff9c0@arizona-regional
 DESCRIPTION:Get details about Sedona Vortex Land Journey with Anahata Anan
  da and explore Sedona attractions\, restaurants\, places to stay\, events\
@@ -1282,7 +1308,7 @@ BEGIN:VEVENT
 SUMMARY:Shamangelic Breathwork Ceremony with Anahata Ananda
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:97371be262e702dfcaf0da6a@arizona-regional
 DESCRIPTION:Get details about Shamangelic Breathwork Ceremony with Anahata
   Ananda and explore Sedona attractions\, restaurants\, places to stay\, ev
@@ -1298,7 +1324,7 @@ SUMMARY:The Sedona SpiritFlow Weekend Retreat: 2-Day Vortex & Energy Align
  ment Retreat
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:e47e3535c163c2dcc55e4e46@arizona-regional
 DESCRIPTION:Get details about The Sedona SpiritFlow Weekend Retreat: 2-Day
   Vortex & Energy Alignment Retreat and explore Sedona attractions\, restau
@@ -1314,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:Verde Valley Pottery Festival
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:5bc04184e9466b459a8bce94@arizona-regional
 DESCRIPTION:Get details about Verde Valley Pottery Festival and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -1326,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:1:1 Personalized Health Consultation with David Wolfe
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:0446c048b74d7621bbdefe8b@arizona-regional
 DESCRIPTION:Get details about 1:1 Personalized Health Consultation with Da
  vid Wolfe and explore Sedona attractions\, restaurants\, places to stay\, 
@@ -1341,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Symphony “Simple Gifts”—An American Music Celebration
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:724100e18f911fc76d1c36b2@arizona-regional
 DESCRIPTION:Get details about Sedona Symphony “Simple Gifts”—An Amer
  ican Music Celebration and explore Sedona attractions\, restaurants\, plac
@@ -1356,7 +1382,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Vortex Land Journey with Anahata Ananda
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:4c071af96dee67df75be0932@arizona-regional
 DESCRIPTION:Get details about Sedona Vortex Land Journey with Anahata Anan
  da and explore Sedona attractions\, restaurants\, places to stay\, events\
@@ -1371,7 +1397,7 @@ BEGIN:VEVENT
 SUMMARY:Simple Gifts with Rachel Lee Priday\, Violin
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:3915822a26b2220d6e3d6118@arizona-regional
 DESCRIPTION:Get details about Simple Gifts with Rachel Lee Priday\, Violin
   and explore Sedona attractions\, restaurants\, places to stay\, events\, 
@@ -1386,7 +1412,7 @@ BEGIN:VEVENT
 SUMMARY:Chakra Healing Retreat
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:e97ea36c0013c1cbdc62c9e2@arizona-regional
 DESCRIPTION:Get details about Chakra Healing Retreat and explore Sedona at
  tractions\, restaurants\, places to stay\, events\, live music and more wi
@@ -1399,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Meditation Weekend
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:163f2ae3c8af7f9774cd836a@arizona-regional
 DESCRIPTION:Get details about Sedona Meditation Weekend and explore Sedona
   attractions\, restaurants\, places to stay\, events\, live music and more
@@ -1412,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Tao Yoga Retreat
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:3d216523fc90dce004138e02@arizona-regional
 DESCRIPTION:Get details about Sedona Tao Yoga Retreat and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -1425,7 +1451,7 @@ BEGIN:VEVENT
 SUMMARY:Verde Valley Caregivers Coalition Winter Magic Gala
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:d38c4a93ef8052e4a3639c04@arizona-regional
 DESCRIPTION:Get details about Verde Valley Caregivers Coalition Winter Mag
  ic Gala and explore Sedona attractions\, restaurants\, places to stay\, ev
@@ -1440,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:Yavapai Yuletide
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:85406bfea2e2b9d2aff0bbab@arizona-regional
 DESCRIPTION:Get details about Yavapai Yuletide and explore Sedona attracti
  ons\, restaurants\, places to stay\, events\, live music and more with the
@@ -1452,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Free to be me Drum Circle
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:cf7e884676ac951d8604e532@arizona-regional
 DESCRIPTION:Get details about Free to be me Drum Circle and explore Sedona
   attractions\, restaurants\, places to stay\, events\, live music and more
@@ -1465,7 +1491,7 @@ SUMMARY:Inner & Outer Fire Sacred Immersion Workshop with Shree Guru Bhane
  shwaranand
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:0b21e25609f845fe624f9a1a@arizona-regional
 DESCRIPTION:Get details about Inner & Outer Fire Sacred Immersion Workshop
   with Shree Guru Bhaneshwaranand and explore Sedona attractions\, restaura
@@ -1481,7 +1507,7 @@ BEGIN:VEVENT
 SUMMARY:RESONANCE: Sound Journey & Concert with Brandon Decker
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173625Z
+DTSTAMP:20261020T154525Z
 UID:bcef564b7a0a98ffab0acc6a@arizona-regional
 DESCRIPTION:Get details about RESONANCE: Sound Journey & Concert with Bran
  don Decker and explore Sedona attractions\, restaurants\, places to stay\,

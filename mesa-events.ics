@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261019T173627Z
-UID:738cfce5beb82842f6c71cae@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:2b1181f3cb15308786dc56f4@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empty Bowls
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261019T173627Z
-UID:46662ecb4d58c9408cbf7b71@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:0528edf6947d3550830e5622@arizona-regional
 DESCRIPTION:MCC Red Mountain Campus-Saguaro Building 7110 E. McKellips Rd 
  Mesa\, Arizona 85207\n\nSource: https://www.visitmesa.com/events/empty-bow
  ls-2/
@@ -28,10 +28,10 @@ URL:https://www.visitmesa.com/events/empty-bowls-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol City Clay 6wk Sessions (Fall)
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261019T173627Z
-UID:c2eda9f28b6a896017a344fe@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:ad4752cf53c8fe900508ac5b@arizona-regional
 DESCRIPTION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204\n\nSource: h
  ttps://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 LOCATION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pumpkin & Chili Party
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173627Z
-UID:e7f61cefc52da7ea18820eb5@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:3f4b8a783305a4f711d102e9@arizona-regional
 DESCRIPTION:Schnepf Farms 24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142\
  n\nSource: https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 LOCATION:24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142
@@ -50,10 +50,10 @@ URL:https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Festival at Vertuccio Farms
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261019T173627Z
-UID:5f1d82efa17724279fafacf6@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:2f2a4dd39c3724c6f7f352be@arizona-regional
 DESCRIPTION:Vertuccio Farms 4011 S. Power Rd.\, Mesa\, AZ 85212\n\nSource:
   https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 LOCATION:4011 S. Power Rd.\, Mesa\, AZ 85212
@@ -61,43 +61,20 @@ URL:https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annie
-DTSTART;VALUE=DATE:20261019
+DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261019T173627Z
-UID:ab6b39ac4c1b89ddcb9c0776@arizona-regional
+DTSTAMP:20261020T154527Z
+UID:797b76656990c92e66ab7cc0@arizona-regional
 DESCRIPTION:Hale Centre Theatre 50 W Page Ave Gilbert\, AZ 85233\n\nSource
  : https://www.visitmesa.com/events/annie-musical/
 LOCATION:50 W Page Ave Gilbert\, AZ 85233
 URL:https://www.visitmesa.com/events/annie-musical/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karaōke
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173627Z
-UID:7ffb41bb05ea84c92987452a@arizona-regional
-DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
- ce: https://www.visitmesa.com/events/karaoke/
-LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
-URL:https://www.visitmesa.com/events/karaoke/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reformer 101 — Beginner
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261019T173627Z
-UID:0977da41e86914abcb1f9f62@arizona-regional
-DESCRIPTION:Desert Bloom Pilates & Boutique 1350 S Gilbert Road\, Unit C1 
- Mesa\, Arizona 85294\n\nSource: https://www.visitmesa.com/events/reformer-
- 101-beginner/
-LOCATION:1350 S Gilbert Road\, Unit C1 Mesa\, Arizona 85294
-URL:https://www.visitmesa.com/events/reformer-101-beginner/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trivia Tuesday
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173627Z
+DTSTAMP:20261020T154527Z
 UID:376ddc41cd4bd99d7e9af8a2@arizona-regional
 DESCRIPTION:Beer Barn 3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296 \, Ariz
  ona\n\nSource: https://www.visitmesa.com/events/trivia-tuesday/
@@ -105,10 +82,33 @@ LOCATION:3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296
 URL:https://www.visitmesa.com/events/trivia-tuesday/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Karaōke
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154527Z
+UID:5d867b5bde14a059219555cc@arizona-regional
+DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
+ ce: https://www.visitmesa.com/events/karaoke/
+LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
+URL:https://www.visitmesa.com/events/karaoke/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reformer 101 — Beginner
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20261020T154527Z
+UID:ccd1a54f5c683ee9eb60f535@arizona-regional
+DESCRIPTION:Desert Bloom Pilates & Boutique 1350 S Gilbert Road\, Unit C1 
+ Mesa\, Arizona 85294\n\nSource: https://www.visitmesa.com/events/reformer-
+ 101-beginner/
+LOCATION:1350 S Gilbert Road\, Unit C1 Mesa\, Arizona 85294
+URL:https://www.visitmesa.com/events/reformer-101-beginner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afternoon High Tea
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173627Z
+DTSTAMP:20261020T154527Z
 UID:94156bb6fa775f198fffa09b@arizona-regional
 DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
  04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
@@ -117,15 +117,14 @@ LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Macramé Plant Workshop
+SUMMARY:Soup Season Cooking Class
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261019T173627Z
-UID:071d8f498d5cc0a838615dde@arizona-regional
-DESCRIPTION:Desert Bloom Pilates & Boutiques 1350 S Gilbert Road\, Unit C1
-  Mesa\, Arizona 85294\n\nSource: https://www.visitmesa.com/events/macrame-
- plant-workshop/
-LOCATION:1350 S Gilbert Road\, Unit C1 Mesa\, Arizona 85294
-URL:https://www.visitmesa.com/events/macrame-plant-workshop/
+DTSTAMP:20261020T154527Z
+UID:cde30186554f39a080707896@arizona-regional
+DESCRIPTION:Chef Leo's Food Lab 4419 E Main St. #113 Mesa\, AZ 85205\n\nSo
+ urce: https://www.visitmesa.com/events/soup-season-cooking-class/
+LOCATION:4419 E Main St. #113 Mesa\, AZ 85205
+URL:https://www.visitmesa.com/events/soup-season-cooking-class/
 END:VEVENT
 END:VCALENDAR
