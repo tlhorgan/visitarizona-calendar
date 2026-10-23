@@ -5,83 +5,62 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:2026 Fall NASCAR Cup Series
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261022T155545Z
-UID:80b2ee739adaa02e86db07ab@visitarizona-calendar
-DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
- y Auto Parts Series and ARCA Menards Series and the NASCAR Cup Series! Tak
- e your Phoenix Raceway weekend to the next level with the Desert Diamond C
- asino Infield Experience\, offering behind-the-scenes access\, up-close vi
- ews of drivers and crews\, a chance to celebrate in Mobil 1 Victory Lane\,
-  and sign the start/finish line on Sunday!\n\nEvent website: https://www.p
- hoenixraceway.com/events/fall-cup-series/\n\nVisit Arizona listing: https:
- //www.visitarizona.com/events/2026-fall-nascar-cup-series
-LAST-MODIFIED:20261022T155545Z
-LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
-URL:https://www.visitarizona.com/events/2026-fall-nascar-cup-series
+SUMMARY:Annual Man Against Horse Race
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261023T154655Z
+UID:a61d232598bd000ba95d6d0a@visitarizona-calendar
+DESCRIPTION:A bar bet turned into a legendary endurance race. In 1983\, Ma
+ n Against Horse began by a bar bet on Whiskey Row in Prescott Arizona betw
+ een Gheral Brownlow and Cowboy Steve Rafters. Gheral bet Steve he could ou
+ trun his horse in the race. Elevation begins at 5\,000 feet and can climb 
+ to an elevation of 7600 ft.\n\nEvent website: https://managainsthorse.com/
+ \n\nVisit Arizona listing: https://www.visitarizona.com/events/annual-man-
+ against-horse-race
+LAST-MODIFIED:20261023T154655Z
+URL:https://www.visitarizona.com/events/annual-man-against-horse-race
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Blue Water Resort & Casino-Bit Pros Fire Services Parker Endu
- ro
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261022T155545Z
-UID:a105d77e826e2c08478e373c@visitarizona-calendar
-DESCRIPTION:This world famous event is the oldest and last endurance power
- boat race of its kind in the world.Racers from North America converge for 
- the ultimate test of man & machine vs. mother nature as the 4 hour enduran
- ce race pits all types of powerboats against each. Flatbottoms\, V Bottoms
- \, jet boat\, I/O's and the family ski boat all compete in the marathon ev
- ent.Nascar-style pit stops allow for fueling and driver changes during the
-  race.\n\nEvent website: https://rpmracingent.com/\n\nVisit Arizona listin
- g: https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-p
- ros-fire-services-parker-enduro
-LAST-MODIFIED:20261022T155545Z
-URL:https://www.visitarizona.com/events/2025-blue-water-resort-casino-bit-
- pros-fire-services-parker-enduro
+SUMMARY:Chino Grinder
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261023T154655Z
+UID:9e4cb8516bb56f3dcf568fc7@visitarizona-calendar
+DESCRIPTION:Celebrated as Arizona's oldest and most iconic gravel grinder\
+ , The Chino Grinder has earned its reputation as The Toughest Gravel Race 
+ in The West! Traversing 75–95% unpaved terrain\, it’s the ultimate tes
+ t for cyclists eager to push their limits—whether you’re tackling your
+  first century or chasing a new personal record.\n\nEvent website: http://
+ www.shendocatracing.com/chino-grinder/\n\nVisit Arizona listing: https://w
+ ww.visitarizona.com/events/chino-grinder-45bb4
+LAST-MODIFIED:20261023T154655Z
+LOCATION:Chino Valley Community Center\, North Road 1 East\, Chino Valley\
+ , AZ\, USA
+URL:https://www.visitarizona.com/events/chino-grinder-45bb4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:23rd Annual Celebraciones de la Gente
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261022T155545Z
-UID:6a85b9421b783043b0e1d2d0@visitarizona-calendar
-DESCRIPTION:Experience the traditions of Mexican\, Mexican American\, and 
- LatinX communities filled with color\, culture\, and celebration! Honors t
- he spirit of Día de los Muertos with heartfelt remembrances and joyful fe
- stivities. Enjoy cultural dances and music\, explore the brightly adorned 
- ofrendas. Try traditional foods. Mariachi Agave and Ballet Folklorico de C
- olores perform. Children can decorate sugar skulls and there will be face 
- painting.\n\nEvent website: https://www.flagstaffarizona.org/events/festiv
- als/celebraciones-de-la-gente/\n\nVisit Arizona listing: https://www.visit
- arizona.com/events/23rd-annual-celebraciones-de-la-gente
-LAST-MODIFIED:20261022T155545Z
-LOCATION:Museum of Northern Arizona\, North Fort Valley Road\, Flagstaff\,
+SUMMARY:Marana Fall Festival
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261023T154655Z
+UID:de1a852b40b091cc25e52271@visitarizona-calendar
+DESCRIPTION:Carnival rides\, live music and dance performances\, a Spooky 
+ Garden Walk with pumpkin carving\, a gypsy fortune teller\, a sunflower fi
+ eld & photo set\, a beer garden\, whiskey tasting from Whiskey Del Bac and
+  the Mutton Bustin’ competition.\n\nEvent website: https://www.maranaaz.
+ gov/Departments/Parks-Recreation/Signature-Community-Events/Fall-Festival\
+ n\nVisit Arizona listing: https://www.visitarizona.com/events/marana-fall-
+ festival
+LAST-MODIFIED:20261023T154655Z
+LOCATION:Marana Heritage River Park\, North Heritage Park Drive\, Marana\,
   AZ\, USA
-URL:https://www.visitarizona.com/events/23rd-annual-celebraciones-de-la-ge
- nte
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canal Convergence 2026
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261022T155545Z
-UID:5088944638d4f6af97393cb4@visitarizona-calendar
-DESCRIPTION:An annual outdoor\, immersive event featuring large-scale artw
- orks\, educational workshops\, family-friendly activities\, live music and
-  dance performances and more!\n\nEvent website: https://scottsdalearts.org
- /explore-scottsdale-arts/canal-convergence/\n\nVisit Arizona listing: http
- s://www.visitarizona.com/events/canal-convergence-2026
-LAST-MODIFIED:20261022T155545Z
-URL:https://www.visitarizona.com/events/canal-convergence-2026
+URL:https://www.visitarizona.com/events/marana-fall-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17th Annual Pecan Classic 10K and 5K Run/Walk
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261022T155545Z
+DTSTAMP:20261023T154655Z
 UID:5cf4865ea23bfaa1ab6a3ea8@visitarizona-calendar
 DESCRIPTION:The race route travels a scenic course on dirt roads through t
  he pecan orchards\, giving runners the a unique and amazing Fall running e
@@ -91,97 +70,72 @@ DESCRIPTION:The race route travels a scenic course on dirt roads through t
  ita/PecanClassic10Kand5KRunWalk)\n\nEvent website: https://www.greenvalley
  pecan.com/5k-runs/\n\nVisit Arizona listing: https://www.visitarizona.com/
  events/17th-annual-pecan-classic-10k-and-5k-run-walk
-LAST-MODIFIED:20261022T155545Z
+LAST-MODIFIED:20261023T154655Z
 URL:https://www.visitarizona.com/events/17th-annual-pecan-classic-10k-and-
  5k-run-walk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:30th Annual Hidden in the Hills Artists Studio Tour
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261022T155545Z
-UID:3ab20d6258742ebe218e3ffa@visitarizona-calendar
-DESCRIPTION:The Sonoran Arts League\, provides an opportunity to visit the
-  workspaces of dedicated artists in the Sonoran Foothills\, to learn about
-  the artist’s methodology and process\, and purchase art directly from t
- he artists in a friendly\, engaging atmosphere that showcases quality art.
-  Fridays – Sundays.\n\nEvent website: https://sonoranartsleague.org/hidd
- en-in-the-hills/\n\nVisit Arizona listing: https://www.visitarizona.com/ev
- ents/30th-annual-hidden-in-the-hills-artists-studio-tour
-LAST-MODIFIED:20261022T155545Z
-URL:https://www.visitarizona.com/events/30th-annual-hidden-in-the-hills-ar
- tists-studio-tour
+SUMMARY:2nd Sundays on Mill – Multicultural
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261023T154655Z
+UID:ff37682d8753f94f04e04b76@visitarizona-calendar
+DESCRIPTION:Free\, family-friendly event\, presented by Lifetime Home Remo
+ deling\, transforms historic Mill Avenue into a vibrant outdoor marketplac
+ e. A celebration of global traditions through music\, dance and art. From 
+ roaming lion dancers and mariachi to African drumming and Bollywood perfor
+ mances\, the street will come alive with cultural energy. Local food vendo
+ rs\, live art and interactive activities add to the festive atmosphere\, c
+ reating a true showcase of Tempe’s diverse community.\n\nEvent website: 
+ https://www.downtowntempe.com/events/2nd-sundays-on-mill\n\nVisit Arizona 
+ listing: https://www.visitarizona.com/events/2nd-sundays-on-mill---multicu
+ ltural
+LAST-MODIFIED:20261023T154655Z
+URL:https://www.visitarizona.com/events/2nd-sundays-on-mill---multicultura
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:42nd Annual Thanksgiving Day Parade
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261022T155545Z
+DTSTAMP:20261023T154655Z
 UID:8cf7e632ff3adfceb2d5313e@visitarizona-calendar
 DESCRIPTION:A hometown favorite drawing spectators from across the state w
  ho wish to ring in Thanksgiving Day with a classic parade.\n\nEvent websit
  e: https://fhchamber.com/thanksgiving-day-parade/\n\nVisit Arizona listing
  : https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parade
-LAST-MODIFIED:20261022T155545Z
+LAST-MODIFIED:20261023T154655Z
 URL:https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parad
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:38th Annual Acker Night
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-DTSTAMP:20261022T155545Z
-UID:cfac4ac61cea87c093554d93@visitarizona-calendar
-DESCRIPTION:Acker Night is an evening when participating downtown business
- es partner with local and national musical talent to bring you a fulfillin
- g evening of music\, food\, and fun during the Christmas season all while 
- donating to a worthy cause. More than 100 performers in more than 100 shop
- s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
-  https://www.visitarizona.com/events/38th-annual-acker-night
-LAST-MODIFIED:20261022T155545Z
-URL:https://www.visitarizona.com/events/38th-annual-acker-night
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:21st Annual Vail Jingle Trail
+SUMMARY:Christmas Parade and Craft Fair
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261022T155545Z
-UID:c4c8669eb2e069795e1cf1b2@visitarizona-calendar
-DESCRIPTION:Enjoy a holiday themed race with course decorations\, cheering
-  and motivation from Mica Mountain Cross Country\, themed shirts\, and awa
- rds.\n\nEvent website: https://runsignup.com/Race/AZ/Tucson/VailJingleTrai
- l\n\nVisit Arizona listing: https://www.visitarizona.com/events/21st-annua
- l-vail-jingle-trail
-LAST-MODIFIED:20261022T155545Z
-LOCATION:Mica Mountain High School
-URL:https://www.visitarizona.com/events/21st-annual-vail-jingle-trail
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dawn to Dusk
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261022T155545Z
-UID:f089163fdf76458441b69799@visitarizona-calendar
-DESCRIPTION:An endurance mountain bike event. Join Zia Rides at McDowell M
- ountain Regional Park to enjoy perfect December weather\, fun and fast tra
- ils\, and a great venue at the Four Peaks Staging area where you can enjoy
-  live music\, food trucks\, vendors\, and a lively beer garden. Sign up ea
- rly\, as this event always sells out!\n\nEvent website: https://ziarides.c
- om/dawn-to-dusk-arizona\n\nVisit Arizona listing: https://www.visitarizona
- .com/events/dawn-to-dusk
-LAST-MODIFIED:20261022T155545Z
-URL:https://www.visitarizona.com/events/dawn-to-dusk
+DTSTAMP:20261023T154655Z
+UID:dd75f29d8167828d71710677@visitarizona-calendar
+DESCRIPTION:A dazzling display of lights\, laughter\, and community joy. I
+ t transforms our quaint town into a winter wonderland. There's something m
+ agical for everyone to enjoy at this enchanting celebration of the holiday
+  season.\n\nEvent website: https://visitwillcox.az.gov/christmas-parade-cr
+ aft-fair?__hstc=241043100.a09836b35f4a03ddb018ca2d5e8af0eb.1792770386325.1
+ 792770386325.1792770386325.1&__hssc=241043100.1.1792770386325&__hsfp=62b76
+ 9271057c3520ecfdc3d6915094a\n\nVisit Arizona listing: https://www.visitari
+ zona.com/events/christmas-parade-and-craft-fair
+LAST-MODIFIED:20261023T154655Z
+LOCATION:Railroad Park\, N Railroad Ave\, Willcox\, AZ\, USA
+URL:https://www.visitarizona.com/events/christmas-parade-and-craft-fair
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261022T155545Z
+DTSTAMP:20261023T154655Z
 UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
 DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
  ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
  ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
-LAST-MODIFIED:20261022T155545Z
+LAST-MODIFIED:20261023T154655Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
  -sands-of-eternity
@@ -190,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:22nd Annual Sedona Plein Air Festival
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261022T155545Z
+DTSTAMP:20261023T154655Z
 UID:49d7cc0a815e2fc44134c9a6@visitarizona-calendar
 DESCRIPTION:An immersive celebration of art set against the awe-inspiring 
  red rock landscapes of Sedona. As one of the oldest continuously running p
@@ -201,7 +155,7 @@ DESCRIPTION:An immersive celebration of art set against the awe-inspiring
  , engaging workshops\, and free community events.\n\nEvent website: https:
  //sedonaartscenter.org/events\n\nVisit Arizona listing: https://www.visita
  rizona.com/events/22nd-annual-sedona-plein-air-festival
-LAST-MODIFIED:20261022T155545Z
+LAST-MODIFIED:20261023T154655Z
 URL:https://www.visitarizona.com/events/22nd-annual-sedona-plein-air-festi
  val
 END:VEVENT

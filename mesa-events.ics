@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261022T155755Z
-UID:2d4412230dfb5194c02fe47e@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:e8385818bcadcc5bc4e5b37e@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empty Bowls
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261022T155755Z
-UID:0e5992fbd05e1ec0ddaeea8d@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:bf41cccdef9ab187359b992f@arizona-regional
 DESCRIPTION:MCC Red Mountain Campus-Saguaro Building 7110 E. McKellips Rd 
  Mesa\, Arizona 85207\n\nSource: https://www.visitmesa.com/events/empty-bow
  ls-2/
@@ -28,10 +28,10 @@ URL:https://www.visitmesa.com/events/empty-bowls-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol City Clay 6wk Sessions (Fall)
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261022T155755Z
-UID:0154dba0669bbab9de7ff522@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:652c4f59f8e631e8944cd70b@arizona-regional
 DESCRIPTION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204\n\nSource: h
  ttps://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 LOCATION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pumpkin & Chili Party
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T155755Z
-UID:255306d8808d8df9f9f41dbb@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:2944f19f510ad90f48bb8908@arizona-regional
 DESCRIPTION:Schnepf Farms 24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142\
  n\nSource: https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 LOCATION:24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142
@@ -50,10 +50,10 @@ URL:https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Festival at Vertuccio Farms
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T155755Z
-UID:05b3555eeb401903a4242d9e@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:49537938edfe39fac61c7671@arizona-regional
 DESCRIPTION:Vertuccio Farms 4011 S. Power Rd.\, Mesa\, AZ 85212\n\nSource:
   https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 LOCATION:4011 S. Power Rd.\, Mesa\, AZ 85212
@@ -61,10 +61,10 @@ URL:https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strange Garden
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T155755Z
-UID:6eca44c2c862ca43cf78a702@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:0e4e5ca8d687999975971dfb@arizona-regional
 DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
  008\n\nSource: https://www.visitmesa.com/events/strange-garden/
 LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
@@ -72,10 +72,10 @@ URL:https://www.visitmesa.com/events/strange-garden/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:50th Anniversary Plant Sale at DBG
-DTSTART;VALUE=DATE:20261022
+DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261022T155755Z
-UID:28b15f6738e2bc5f315d0073@arizona-regional
+DTSTAMP:20261023T154955Z
+UID:c033a38adfcf2c345f63e82d@arizona-regional
 DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
  008\n\nSource: https://www.visitmesa.com/events/50th-anniversary-plant-sal
  e-at-dbg/
@@ -83,34 +83,22 @@ LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
 URL:https://www.visitmesa.com/events/50th-anniversary-plant-sale-at-dbg/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karaōke
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T155755Z
-UID:bb9817e103d796a0acfb0cf2@arizona-regional
+SUMMARY:KaraÅke
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261023T154955Z
+UID:96b576eca10c2659bec9e7cb@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
 URL:https://www.visitmesa.com/events/karaoke/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reformer 101 — Beginner
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T155755Z
-UID:c89523378bce244521354320@arizona-regional
-DESCRIPTION:Desert Bloom Pilates & Boutique 1350 S Gilbert Road\, Unit C1 
- Mesa\, Arizona 85294\n\nSource: https://www.visitmesa.com/events/reformer-
- 101-beginner/
-LOCATION:1350 S Gilbert Road\, Unit C1 Mesa\, Arizona 85294
-URL:https://www.visitmesa.com/events/reformer-101-beginner/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T155755Z
-UID:f5dbbfb69c95e54aad28de0e@arizona-regional
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261023T154955Z
+UID:9e9298a131b71632bfd8dee9@arizona-regional
 DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
  04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
  ernoon-high-tea/
@@ -118,15 +106,25 @@ LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hot Baked Kolache Thursdays
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261022T155755Z
-UID:5e0f6c10619e95e40eeb45c0@arizona-regional
-DESCRIPTION:The Kitchen's Market 2655 West Guadalupe Road Ste. 13 Mesa\, A
- Z 85202\n\nSource: https://www.visitmesa.com/events/hot-baked-kolache-thur
- sdays/
-LOCATION:2655 West Guadalupe Road Ste. 13 Mesa\, AZ 85202
-URL:https://www.visitmesa.com/events/hot-baked-kolache-thursdays/
+SUMMARY:Live Music Cruises
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261023T154955Z
+UID:585f4a8a0d978b2a015238c0@arizona-regional
+DESCRIPTION:Saguaro Lake Marina 14011 N Bush Hwy\, Mesa\, AZ 85215\n\nSour
+ ce: https://www.visitmesa.com/events/live-music-cruises/
+LOCATION:14011 N Bush Hwy\, Mesa\, AZ 85215
+URL:https://www.visitmesa.com/events/live-music-cruises/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KaraÅke Night with DJ Robot 5000
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261023T154955Z
+UID:346141196d8d0dd41000bcd6@arizona-regional
+DESCRIPTION:Level 1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201\n\nSour
+ ce: https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
+LOCATION:1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201
+URL:https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
 END:VEVENT
 END:VCALENDAR
