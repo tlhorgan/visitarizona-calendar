@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Fall NASCAR Cup Series
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:80b2ee739adaa02e86db07ab@visitarizona-calendar
 DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
  y Auto Parts Series and ARCA Menards Series and the NASCAR Cup Series! Tak
@@ -18,7 +18,7 @@ DESCRIPTION:Don’t miss the NASCAR Craftsman Truck Series\, the O’Reill
   and sign the start/finish line on Sunday!\n\nEvent website: https://www.p
  hoenixraceway.com/events/fall-cup-series/\n\nVisit Arizona listing: https:
  //www.visitarizona.com/events/2026-fall-nascar-cup-series
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
 URL:https://www.visitarizona.com/events/2026-fall-nascar-cup-series
 END:VEVENT
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:12th Annual Copperstate Overland
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:bcbd851c6c8b094d7ed1994c@visitarizona-calendar
 DESCRIPTION:A fully supported on-road/off-road driving adventure open to v
  intage off-road vehicles. Modeled after the renowned Copperstate 1000 vint
@@ -37,14 +37,14 @@ DESCRIPTION:A fully supported on-road/off-road driving adventure open to v
  nEvent website: https://mensartscouncil.com/copperstate-overland/\n\nVisit
   Arizona listing: https://www.visitarizona.com/events/12th-annual-copperst
  ate-overland
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/12th-annual-copperstate-overland
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20th Annual Tucson Classic Car Show
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:a98b1830f7c9600fea18f5db@visitarizona-calendar
 DESCRIPTION:A fun family day with over 400 classic cars\, food\, vendors a
  nd music. A $10 entry ticket includes a raffle ticket for a 2025 C-8 1LT C
@@ -53,104 +53,97 @@ DESCRIPTION:A fun family day with over 400 classic cars\, food\, vendors a
  n\nEvent website: https://tucsonclassicscarshow.com/\n\nVisit Arizona list
  ing: https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sh
  ow
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sho
  w
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2nd Sundays on Mill – Multicultural
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261024T143618Z
-UID:ff37682d8753f94f04e04b76@visitarizona-calendar
-DESCRIPTION:Free\, family-friendly event\, presented by Lifetime Home Remo
- deling\, transforms historic Mill Avenue into a vibrant outdoor marketplac
- e. A celebration of global traditions through music\, dance and art. From 
- roaming lion dancers and mariachi to African drumming and Bollywood perfor
- mances\, the street will come alive with cultural energy. Local food vendo
- rs\, live art and interactive activities add to the festive atmosphere\, c
- reating a true showcase of Tempe’s diverse community.\n\nEvent website: 
- https://www.downtowntempe.com/events/2nd-sundays-on-mill\n\nVisit Arizona 
- listing: https://www.visitarizona.com/events/2nd-sundays-on-mill---multicu
- ltural
-LAST-MODIFIED:20261024T143618Z
-URL:https://www.visitarizona.com/events/2nd-sundays-on-mill---multicultura
- l
+SUMMARY:Canal Convergence 2026
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261025T150012Z
+UID:5088944638d4f6af97393cb4@visitarizona-calendar
+DESCRIPTION:An annual outdoor\, immersive event featuring large-scale artw
+ orks\, educational workshops\, family-friendly activities\, live music and
+  dance performances and more!\n\nEvent website: https://scottsdalearts.org
+ /explore-scottsdale-arts/canal-convergence/\n\nVisit Arizona listing: http
+ s://www.visitarizona.com/events/canal-convergence-2026
+LAST-MODIFIED:20261025T150012Z
+URL:https://www.visitarizona.com/events/canal-convergence-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pinner’s Conference
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261024T143618Z
-UID:c656cf93813e26a72cb87be5@visitarizona-calendar
-DESCRIPTION:More than 120 creative\, educational expert-led classes and a 
- shopping featuring over 300 vendor booths. Connect with and gain insights 
- from the most influential and inspiring women online. Experts in DIY\, cra
- fts\, cooking\, self-growth\, photography\, event planning\, scrapbooking\
- , holidays\, beauty\, fashion and many other topics. Features some of the 
- hottest trending creative experiences and items.\n\nEvent website: https:/
- /az.pinnersconference.com/\n\nVisit Arizona listing: https://www.visitariz
- ona.com/events/pinner-s-conference-f5155
-LAST-MODIFIED:20261024T143618Z
-LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
-URL:https://www.visitarizona.com/events/pinner-s-conference-f5155
+SUMMARY:11th Annual Pizza Festival
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261025T150012Z
+UID:6fcb91773523d6a96476e088@visitarizona-calendar
+DESCRIPTION:Celebrates local pizza makers and features all types of pizza\
+ , Italian foods and desserts. Enjoy local beer\, wine\, live music stage\,
+  a vendor market\, a kids zone and more.\n\nEvent website: https://www.pho
+ enix.pizza/\n\nVisit Arizona listing: https://www.visitarizona.com/events/
+ 11th-annual-pizza-festival
+LAST-MODIFIED:20261025T150012Z
+LOCATION:Margaret T. Hance Park\, West Culver Street\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/11th-annual-pizza-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Gilbert Days Rodeo
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261025T150012Z
+UID:d73e27c446bb240690fe79f5@visitarizona-calendar
+DESCRIPTION:Steer riding open to kids ages 8-11. Also the Lil’ Dudes Rod
+ eo for ages 4-7.\n\nEvent website: https://www.gilbertdaysrodeo.org/\n\nVi
+ sit Arizona listing: https://www.visitarizona.com/events/2026-gilbert-days
+ -rodeo
+LAST-MODIFIED:20261025T150012Z
+LOCATION:Horseshoe Park & Equestrian Centre
+URL:https://www.visitarizona.com/events/2026-gilbert-days-rodeo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:43rd Annual Fall Artisans Market
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:b9805e54d27fc2917bbfb3b2@visitarizona-calendar
 DESCRIPTION:Features more than 100 unique and local artists and artisans w
  ith crafts\, original artwork\, pottery\, glass\, jewelry\, textiles\, and
   gift items in an outdoor street fair setting.\n\nEvent website: https://w
  ww.tucsonmuseumofart.org/artisans-market\n\nVisit Arizona listing: https:/
  /www.visitarizona.com/events/43rd-annual-fall-artisans-market
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/43rd-annual-fall-artisans-market
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:42nd Annual Thanksgiving Day Parade
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261024T143618Z
-UID:8cf7e632ff3adfceb2d5313e@visitarizona-calendar
-DESCRIPTION:A hometown favorite drawing spectators from across the state w
- ho wish to ring in Thanksgiving Day with a classic parade.\n\nEvent websit
- e: https://fhchamber.com/thanksgiving-day-parade/\n\nVisit Arizona listing
- : https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parade
-LAST-MODIFIED:20261024T143618Z
-URL:https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parad
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sparkling Surprise
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261228
-DTSTAMP:20261024T143618Z
-UID:9f6d070ef7fe8485c8696438@visitarizona-calendar
-DESCRIPTION:Holiday light display surrounds the lake at Surprise Community
-  Park\, creating the ultimate holiday stroll. Wander through whimsical hol
- iday lands\, including: Magical Forest\, Polar Land\, Under the Sea\, Toyl
- and\, Lake of Surprises\, Candy Land\, New: Liberty Lane and New: Farm Lan
- d\n\nEvent website: https://surpriseaz.gov/1285/Sparkling-Surprise\n\nVisi
- t Arizona listing: https://www.visitarizona.com/events/sparkling-surprise
-LAST-MODIFIED:20261024T143618Z
-LOCATION:Surprise Community Park\, North Bullard Avenue\, Surprise\, AZ\, 
- USA
-URL:https://www.visitarizona.com/events/sparkling-surprise
+SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261025T150012Z
+UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
+DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
+ genous artists\, both professional and youth-led mariachi groups\, and the
+  colorful cultural dances of local ballet folklorico troupes. Also larger-
+ than-life giant puppets\, art demonstrations\, the ancestral wisdom of cur
+ anderas\, and a community altar.\n\nEvent website: https://culturalcoaliti
+ on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
+ ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
+LAST-MODIFIED:20261025T150012Z
+LOCATION:Arizona Center
+URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:32nd Annual Downtown Parade of Lights & Festival
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:3901c66f40a4427f1c18dd99@visitarizona-calendar
 DESCRIPTION:Make sure to visit and support downtown businesses before and 
  after the parade!\n\nEvent website: https://downtownparadeoflights.com/\n\
  nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-do
  wntown-parade-of-lights-festival
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 LOCATION:Armory Park\, Tucson\, AZ\, USA
 URL:https://www.visitarizona.com/events/32nd-annual-downtown-parade-of-lig
  hts-festival
@@ -159,13 +152,13 @@ BEGIN:VEVENT
 SUMMARY:33rd Annual Chocolate Walk
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:4978b82143ad7d6a6ef56384@visitarizona-calendar
 DESCRIPTION:Purchase your ticket\, receive map & collect chocolates. (choc
  olate walk limited to 300).\n\nEvent website: https://www.oldtown.org/choc
  olate.html\n\nVisit Arizona listing: https://www.visitarizona.com/events/3
  3rd-annual-chocolate-walk
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 LOCATION:Old Town Cottonwood\, North Main Street\, Cottonwood\, AZ\, USA
 URL:https://www.visitarizona.com/events/33rd-annual-chocolate-walk
 END:VEVENT
@@ -173,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:32nd Annual Christmas Parade of Lights
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:4155c484c1cb488591868844@visitarizona-calendar
 DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
  t and take photos with Santa by the train on Frontier Street. Maverik gas 
@@ -182,7 +175,7 @@ DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
  Event website: https://www.wickenburgchamber.com/annual-events#1764294707\
  n\nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-
  christmas-parade-of-lights
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/32nd-annual-christmas-parade-of-li
  ghts
 END:VEVENT
@@ -190,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:38th Annual Acker Night
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:cfac4ac61cea87c093554d93@visitarizona-calendar
 DESCRIPTION:Acker Night is an evening when participating downtown business
  es partner with local and national musical talent to bring you a fulfillin
@@ -198,59 +191,29 @@ DESCRIPTION:Acker Night is an evening when participating downtown business
  donating to a worthy cause. More than 100 performers in more than 100 shop
  s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
   https://www.visitarizona.com/events/38th-annual-acker-night
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/38th-annual-acker-night
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:21st Annual Vail Jingle Trail
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:c4c8669eb2e069795e1cf1b2@visitarizona-calendar
 DESCRIPTION:Enjoy a holiday themed race with course decorations\, cheering
   and motivation from Mica Mountain Cross Country\, themed shirts\, and awa
  rds.\n\nEvent website: https://runsignup.com/Race/AZ/Tucson/VailJingleTrai
  l\n\nVisit Arizona listing: https://www.visitarizona.com/events/21st-annua
  l-vail-jingle-trail
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 LOCATION:Mica Mountain High School
 URL:https://www.visitarizona.com/events/21st-annual-vail-jingle-trail
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dawn to Dusk
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261024T143618Z
-UID:f089163fdf76458441b69799@visitarizona-calendar
-DESCRIPTION:An endurance mountain bike event. Join Zia Rides at McDowell M
- ountain Regional Park to enjoy perfect December weather\, fun and fast tra
- ils\, and a great venue at the Four Peaks Staging area where you can enjoy
-  live music\, food trucks\, vendors\, and a lively beer garden. Sign up ea
- rly\, as this event always sells out!\n\nEvent website: https://ziarides.c
- om/dawn-to-dusk-arizona\n\nVisit Arizona listing: https://www.visitarizona
- .com/events/dawn-to-dusk
-LAST-MODIFIED:20261024T143618Z
-URL:https://www.visitarizona.com/events/dawn-to-dusk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261024T143618Z
-UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
-DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
- ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
- ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
-LAST-MODIFIED:20261024T143618Z
-LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
-URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
- -sands-of-eternity
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22nd Annual Sedona Plein Air Festival
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271025
-DTSTAMP:20261024T143618Z
+DTSTAMP:20261025T150012Z
 UID:49d7cc0a815e2fc44134c9a6@visitarizona-calendar
 DESCRIPTION:An immersive celebration of art set against the awe-inspiring 
  red rock landscapes of Sedona. As one of the oldest continuously running p
@@ -261,7 +224,7 @@ DESCRIPTION:An immersive celebration of art set against the awe-inspiring
  , engaging workshops\, and free community events.\n\nEvent website: https:
  //sedonaartscenter.org/events\n\nVisit Arizona listing: https://www.visita
  rizona.com/events/22nd-annual-sedona-plein-air-festival
-LAST-MODIFIED:20261024T143618Z
+LAST-MODIFIED:20261025T150012Z
 URL:https://www.visitarizona.com/events/22nd-annual-sedona-plein-air-festi
  val
 END:VEVENT
