@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261025T150300Z
-UID:3c35730c2a275932bd1d0760@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:2fefde68411534c1870af399@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empty Bowls
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261025T150300Z
-UID:437e706a4f85830fef377860@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:8fff1b133112bda51a0c0fe1@arizona-regional
 DESCRIPTION:MCC Red Mountain Campus-Saguaro Building 7110 E. McKellips Rd 
  Mesa\, Arizona 85207\n\nSource: https://www.visitmesa.com/events/empty-bow
  ls-2/
@@ -28,10 +28,10 @@ URL:https://www.visitmesa.com/events/empty-bowls-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sol City Clay 6wk Sessions (Fall)
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261025T150300Z
-UID:caa5b39432de98ea10219ebf@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:8a621d4ba647961cd35e8485@arizona-regional
 DESCRIPTION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204\n\nSource: h
  ttps://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 LOCATION:943 S Gilbert Rd\, Suite 102 Mesa\, Arizona 85204
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/sol-city-clay-6wk-sessions-fall/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pumpkin & Chili Party
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T150300Z
-UID:9ed402954b9d561e37564d40@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:08e80c5b746adfb6d7eb3d34@arizona-regional
 DESCRIPTION:Schnepf Farms 24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142\
  n\nSource: https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 LOCATION:24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142
@@ -50,10 +50,10 @@ URL:https://www.visitmesa.com/events/pumpkin-chili-party-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Festival at Vertuccio Farms
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T150300Z
-UID:a1f93f73c1285d816d1aa223@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:61ac32d9f3c43596da4ce089@arizona-regional
 DESCRIPTION:Vertuccio Farms 4011 S. Power Rd.\, Mesa\, AZ 85212\n\nSource:
   https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 LOCATION:4011 S. Power Rd.\, Mesa\, AZ 85212
@@ -61,57 +61,57 @@ URL:https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strange Garden
-DTSTART;VALUE=DATE:20261025
+DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T150300Z
-UID:d35d65ee78dba2617a744f67@arizona-regional
+DTSTAMP:20261026T172638Z
+UID:3cad81a5447344409a079439@arizona-regional
 DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
  008\n\nSource: https://www.visitmesa.com/events/strange-garden/
 LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
 URL:https://www.visitmesa.com/events/strange-garden/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:50th Anniversary Plant Sale at DBG
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20261025T150300Z
-UID:9812dfc682808f7e0e2545dd@arizona-regional
-DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
- 008\n\nSource: https://www.visitmesa.com/events/50th-anniversary-plant-sal
- e-at-dbg/
-LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
-URL:https://www.visitmesa.com/events/50th-anniversary-plant-sale-at-dbg/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KaraÅke
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261025T150300Z
-UID:a3fffd111efc1c0ff7ff155c@arizona-regional
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T172638Z
+UID:5bb182a4c3b7d68ccf026cd2@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
 URL:https://www.visitmesa.com/events/karaoke/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga With Jordan
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T150300Z
-UID:6fb397c665d81a15e39dcd5b@arizona-regional
-DESCRIPTION:The Windmill Winery KOI Pond 1140 W Butte Ave Florence\, Arizo
- na 85118\n\nSource: https://www.visitmesa.com/events/yoga-with-jordan/
-URL:https://www.visitmesa.com/events/yoga-with-jordan/
+SUMMARY:Spirits & Seances
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T172638Z
+UID:1e1cdeff6a7ed1c245c9dbf2@arizona-regional
+DESCRIPTION:Nando's Mexican Cafe 6715 E McDowell Rd Mesa\, Arizona 85215\n
+ \nSource: https://www.visitmesa.com/events/spirits-seances/
+LOCATION:6715 E McDowell Rd Mesa\, Arizona 85215
+URL:https://www.visitmesa.com/events/spirits-seances/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eastmark Farmers Market
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T150300Z
-UID:dc87b8490baefb89b403366a@arizona-regional
-DESCRIPTION:Eastmark Great Park 5100 S. Eastmark Pkwy Mesa\, AZ 85212\n\nS
- ource: https://www.visitmesa.com/events/eastmark-farmers-market/
-LOCATION:5100 S. Eastmark Pkwy Mesa\, AZ 85212
-URL:https://www.visitmesa.com/events/eastmark-farmers-market/
+SUMMARY:Trivia Tuesday
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261026T172638Z
+UID:b9e71f5748407ae695a4ccbe@arizona-regional
+DESCRIPTION:Beer Barn 3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296 \, Ariz
+ ona\n\nSource: https://www.visitmesa.com/events/trivia-tuesday/
+LOCATION:3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296
+URL:https://www.visitmesa.com/events/trivia-tuesday/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candle Painting
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261026T172638Z
+UID:95bc3c4dbd0f1d716d42d4d0@arizona-regional
+DESCRIPTION:Desert Bloom Boutiques 1350 S Gilbert Rd Ste C1 Mesa\, Arizona
+  85204\n\nSource: https://www.visitmesa.com/events/candle-painting/
+LOCATION:1350 S Gilbert Rd Ste C1 Mesa\, Arizona 85204
+URL:https://www.visitmesa.com/events/candle-painting/
 END:VEVENT
 END:VCALENDAR
