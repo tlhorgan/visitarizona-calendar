@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261030T170902Z
-UID:773f639e9495523afe461b11@arizona-regional
+DTSTAMP:20261031T161041Z
+UID:7b5f2798e7a5ee51f2f62330@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empty Bowls
-DTSTART;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261030T170902Z
-UID:19e84f72ff97cff886c78b22@arizona-regional
+DTSTAMP:20261031T161041Z
+UID:96e1873667abe398333a1306@arizona-regional
 DESCRIPTION:MCC Red Mountain Campus-Saguaro Building 7110 E. McKellips Rd 
  Mesa\, Arizona 85207\n\nSource: https://www.visitmesa.com/events/empty-bow
  ls-2/
@@ -27,96 +27,59 @@ LOCATION:7110 E. McKellips Rd Mesa\, Arizona 85207
 URL:https://www.visitmesa.com/events/empty-bowls-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pumpkin & Chili Party
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261030T170902Z
-UID:62726a9466e0b1e4bb219b5d@arizona-regional
-DESCRIPTION:Schnepf Farms 24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142\
- n\nSource: https://www.visitmesa.com/events/pumpkin-chili-party-2026/
-LOCATION:24810 S. Rittenhouse Rd. Queen Creek\, AZ 85142
-URL:https://www.visitmesa.com/events/pumpkin-chili-party-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Festival at Vertuccio Farms
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261030T170902Z
-UID:aca16825b37b1111412ce648@arizona-regional
-DESCRIPTION:Vertuccio Farms 4011 S. Power Rd.\, Mesa\, AZ 85212\n\nSource:
-  https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
-LOCATION:4011 S. Power Rd.\, Mesa\, AZ 85212
-URL:https://www.visitmesa.com/events/fall-festival-at-vertuccio-farms-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261030T170902Z
-UID:76f3818c65190dd2b7d3c6d5@arizona-regional
+DTSTAMP:20261031T161041Z
+UID:6926a49cb45b281fd9163ab2@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
 URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strange Garden
-DTSTART;VALUE=DATE:20261030
+SUMMARY:Theater for the Very Young Presents: RED
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261031T161041Z
+UID:2bf476241cf675d4c1f67732@arizona-regional
+DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
+ ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
+LOCATION:1 E Main St Mesa\, Arizona 85201
+URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
+ ed/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumpkins & Petting Zoo
+DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261030T170902Z
-UID:b4565574c320143522a5a535@arizona-regional
-DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
- 008\n\nSource: https://www.visitmesa.com/events/strange-garden/
-LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
-URL:https://www.visitmesa.com/events/strange-garden/
+DTSTAMP:20261031T161041Z
+UID:fa7620903d593b2e483263e2@arizona-regional
+DESCRIPTION:Chick-fil-A 905 N Dobson Rd\, Mesa\, AZ 85201\n\nSource: https
+ ://www.visitmesa.com/events/pumpkins-petting-zoo/
+LOCATION:905 N Dobson Rd\, Mesa\, AZ 85201
+URL:https://www.visitmesa.com/events/pumpkins-petting-zoo/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Halloween Movie Night\, Screen on the Green: Showing Hocus Pocus D
- ink & Dine Mesa | October 30th
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T170902Z
-UID:9f0bf9c4e5f242b37ae4af19@arizona-regional
-DESCRIPTION:Dink & Dine Pickle Park at Mesa Riverview 1017 N Dobson Rd MES
- A\, Arizona 85201\n\nSource: https://www.visitmesa.com/events/halloween-mo
- vie-night-screen-on-the-green-showing-hocus-pocus-dink-dine-mesa-october-3
- 0th/
-LOCATION:1017 N Dobson Rd MESA\, Arizona 85201
-URL:https://www.visitmesa.com/events/halloween-movie-night-screen-on-the-g
- reen-showing-hocus-pocus-dink-dine-mesa-october-30th/
+SUMMARY:Eastmark Farmers Market
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261031T161041Z
+UID:dc87b8490baefb89b403366a@arizona-regional
+DESCRIPTION:Eastmark Great Park 5100 S. Eastmark Pkwy Mesa\, AZ 85212\n\nS
+ ource: https://www.visitmesa.com/events/eastmark-farmers-market/
+LOCATION:5100 S. Eastmark Pkwy Mesa\, AZ 85212
+URL:https://www.visitmesa.com/events/eastmark-farmers-market/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KaraÅke
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T170902Z
-UID:5b8f732694459765cd6fe2c0@arizona-regional
+SUMMARY:Karaōke
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261031T161041Z
+UID:282d0c2c01cf912c14c606a3@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
 URL:https://www.visitmesa.com/events/karaoke/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20261030T170902Z
-UID:34cceb4c1821fa906d65010c@arizona-regional
-DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
- 04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
- ernoon-high-tea/
-LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
-URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KaraÅke Night with DJ Robot 5000
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261030T170902Z
-UID:c42d31e90486209f099d1196@arizona-regional
-DESCRIPTION:Level 1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201\n\nSour
- ce: https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
-LOCATION:1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201
-URL:https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
 END:VEVENT
 END:VCALENDAR
