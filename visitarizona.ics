@@ -5,27 +5,46 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:20th Annual Tucson Classic Car Show
+SUMMARY:12th Annual Copperstate Overland
 DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261031T160848Z
-UID:a98b1830f7c9600fea18f5db@visitarizona-calendar
-DESCRIPTION:A fun family day with over 400 classic cars\, food\, vendors a
- nd music. A $10 entry ticket includes a raffle ticket for a 2025 C-8 1LT C
- orvette Stingray Coupe or $40\,000\, or another valuable prize. Under 18 a
- re admitted free with a paid adult. You do not have to be present to win.\
- n\nEvent website: https://tucsonclassicscarshow.com/\n\nVisit Arizona list
- ing: https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sh
- ow
-LAST-MODIFIED:20261031T160848Z
-URL:https://www.visitarizona.com/events/20th-annual-tucson-classic-car-sho
- w
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261101T170903Z
+UID:bcbd851c6c8b094d7ed1994c@visitarizona-calendar
+DESCRIPTION:A fully supported on-road/off-road driving adventure open to v
+ intage off-road vehicles. Modeled after the renowned Copperstate 1000 vint
+ age car road rally\, it provides a fully catered\, first class\, off-road 
+ driving experience. Each year a new route will cover miles of beautiful de
+ sert terrain\, rugged landscapes\, and mountain roads in Arizona or southe
+ rn parts of surrounding states.[](https://www.southwestwinecenter.com/)\n\
+ nEvent website: https://mensartscouncil.com/copperstate-overland/\n\nVisit
+  Arizona listing: https://www.visitarizona.com/events/12th-annual-copperst
+ ate-overland
+LAST-MODIFIED:20261101T170903Z
+URL:https://www.visitarizona.com/events/12th-annual-copperstate-overland
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:17th Annual Sonoran Fine Art & Wine Festival
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261101T170903Z
+UID:43c2b92029b6671cdadf472c@visitarizona-calendar
+DESCRIPTION:Featuring local and regional artists showcasing their work ami
+ dst western-style architecture and panoramic mountain views. Explore an ec
+ lectic range of artistic creations\, with open-air shopping\, fine wine ta
+ stings\, patio dining\, and live musical entertainment\, enhancing your fe
+ stival experience.\n\nEvent website: https://www.vermillionpromotions.com/
+ event/sonoran-fine-art-wine-festival/\n\nVisit Arizona listing: https://ww
+ w.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-festival
+LAST-MODIFIED:20261101T170903Z
+LOCATION:Stagecoach Village\, East Cave Creek Road\, Cave Creek\, AZ\, USA
+URL:https://www.visitarizona.com/events/17th-annual-sonoran-fine-art-wine-
+ festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2nd Sundays on Mill – Multicultural
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261031T160848Z
+DTSTAMP:20261101T170903Z
 UID:ff37682d8753f94f04e04b76@visitarizona-calendar
 DESCRIPTION:Free\, family-friendly event\, presented by Lifetime Home Remo
  deling\, transforms historic Mill Avenue into a vibrant outdoor marketplac
@@ -37,22 +56,136 @@ DESCRIPTION:Free\, family-friendly event\, presented by Lifetime Home Remo
  https://www.downtowntempe.com/events/2nd-sundays-on-mill\n\nVisit Arizona 
  listing: https://www.visitarizona.com/events/2nd-sundays-on-mill---multicu
  ltural
-LAST-MODIFIED:20261031T160848Z
+LAST-MODIFIED:20261101T170903Z
 URL:https://www.visitarizona.com/events/2nd-sundays-on-mill---multicultura
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
-DTSTART;VALUE=DATE:20261230
+SUMMARY:30th Annual Hidden in the Hills Artists Studio Tour
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261101T170903Z
+UID:3ab20d6258742ebe218e3ffa@visitarizona-calendar
+DESCRIPTION:The Sonoran Arts League\, provides an opportunity to visit the
+  workspaces of dedicated artists in the Sonoran Foothills\, to learn about
+  the artist’s methodology and process\, and purchase art directly from t
+ he artists in a friendly\, engaging atmosphere that showcases quality art.
+  Fridays – Sundays.\n\nEvent website: https://sonoranartsleague.org/hidd
+ en-in-the-hills/\n\nVisit Arizona listing: https://www.visitarizona.com/ev
+ ents/30th-annual-hidden-in-the-hills-artists-studio-tour
+LAST-MODIFIED:20261101T170903Z
+URL:https://www.visitarizona.com/events/30th-annual-hidden-in-the-hills-ar
+ tists-studio-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261101T170903Z
+UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
+DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
+ genous artists\, both professional and youth-led mariachi groups\, and the
+  colorful cultural dances of local ballet folklorico troupes. Also larger-
+ than-life giant puppets\, art demonstrations\, the ancestral wisdom of cur
+ anderas\, and a community altar.\n\nEvent website: https://culturalcoaliti
+ on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
+ ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
+LAST-MODIFIED:20261101T170903Z
+LOCATION:Arizona Center
+URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24th Annual Patagonia Art Walk
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261101T170903Z
+UID:89e11a1486df85a1ee8bda30@visitarizona-calendar
+DESCRIPTION:Showcase this unique town’s artistic talents! Whether throug
+ h paint\, clay\, fiber\, wood\, jewelry\, found items…and even food\, ou
+ r small town with a big heart never ceases to amaze! Our local shops and b
+ usinesses work tirelessly to bring you goods and services while still main
+ taining a small community feel that seems to have fallen by the wayside in
+  other towns.\n\nEvent website: https://patagoniaartwalk.com/\n\nVisit Ari
+ zona listing: https://www.visitarizona.com/events/24th-annual-patagonia-ar
+ t-walk
+LAST-MODIFIED:20261101T170903Z
+URL:https://www.visitarizona.com/events/24th-annual-patagonia-art-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33rd Annual Glendale Glitters
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261101T170903Z
+UID:cda2bccac1679cf2e11fa26d@visitarizona-calendar
+DESCRIPTION:Exquisite arrangement of lights\, complimented by interactive 
+ features and holiday displays! Products from vendors\, holiday songs from 
+ carolers\, and a visit with Santa!The Light display remains up until Janua
+ ry 1st.\n\nEvent website: https://www.glendaleaz.gov/Play/Special-Events\n
+ \nVisit Arizona listing: https://www.visitarizona.com/events/33rd-annual-g
+ lendale-glitters
+LAST-MODIFIED:20261101T170903Z
+LOCATION:Murphy Park\, West Glendale Avenue\, Glendale\, AZ\, USA
+URL:https://www.visitarizona.com/events/33rd-annual-glendale-glitters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33rd Annual Chocolate Walk
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261101T170903Z
+UID:4978b82143ad7d6a6ef56384@visitarizona-calendar
+DESCRIPTION:Purchase your ticket\, receive map & collect chocolates. (choc
+ olate walk limited to 300).\n\nEvent website: https://www.oldtown.org/choc
+ olate.html\n\nVisit Arizona listing: https://www.visitarizona.com/events/3
+ 3rd-annual-chocolate-walk
+LAST-MODIFIED:20261101T170903Z
+LOCATION:Old Town Cottonwood\, North Main Street\, Cottonwood\, AZ\, USA
+URL:https://www.visitarizona.com/events/33rd-annual-chocolate-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40th Annual F.Q. Story Historic Home Tour & Holiday Street Market
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261101T170903Z
+UID:5996183fb95000512c91e979@visitarizona-calendar
+DESCRIPTION:Stroll through 10 beautiful homes and 6 gardens. Browse the vi
+ brant street market\, and enjoy live music\, local bites\, and our new bee
+ r & wine garden. Carolers\, luminaries\, and the iconic Cookie House.\n\nE
+ vent website: https://www.fqstoryhometour.org/\n\nVisit Arizona listing: h
+ ttps://www.visitarizona.com/events/40th-annual-f-q-story-historic-home-tou
+ r-holiday-street-market
+LAST-MODIFIED:20261101T170903Z
+URL:https://www.visitarizona.com/events/40th-annual-f-q-story-historic-hom
+ e-tour-holiday-street-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:38th Annual Acker Night
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261101T170903Z
+UID:cfac4ac61cea87c093554d93@visitarizona-calendar
+DESCRIPTION:Acker Night is an evening when participating downtown business
+ es partner with local and national musical talent to bring you a fulfillin
+ g evening of music\, food\, and fun during the Christmas season all while 
+ donating to a worthy cause. More than 100 performers in more than 100 shop
+ s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
+  https://www.visitarizona.com/events/38th-annual-acker-night
+LAST-MODIFIED:20261101T170903Z
+URL:https://www.visitarizona.com/events/38th-annual-acker-night
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual Whiskey Row Boot Drop
+DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261031T160848Z
-UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
-DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
- ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
- ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
-LAST-MODIFIED:20261031T160848Z
-LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
-URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
- -sands-of-eternity
+DTSTAMP:20261101T170903Z
+UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
+DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
+  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
+ y-row-boot-drop
+LAST-MODIFIED:20261101T170903Z
+LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
 END:VEVENT
 END:VCALENDAR
