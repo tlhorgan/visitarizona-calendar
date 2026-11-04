@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261103
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261103T183457Z
-UID:547eed911ec8e65b5923699c@arizona-regional
+DTSTAMP:20261104T185058Z
+UID:95b7c1689e2395b066adbba4@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261103
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261103T183457Z
-UID:927d5915545ab92ef2887bf0@arizona-regional
+DTSTAMP:20261104T185058Z
+UID:4656dae39cc0281c73ffffc1@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
@@ -27,10 +27,10 @@ URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater for the Very Young Presents: RED
-DTSTART;VALUE=DATE:20261103
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261103T183457Z
-UID:76304b6c1cb3d8af8f07ac49@arizona-regional
+DTSTAMP:20261104T185058Z
+UID:b783c900f62bc53b55474cfb@arizona-regional
 DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
  ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
 LOCATION:1 E Main St Mesa\, Arizona 85201
@@ -38,22 +38,21 @@ URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
  ed/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia Tuesday
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261103T183457Z
-UID:123015a96f17c1260ea793fa@arizona-regional
-DESCRIPTION:Beer Barn 3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296 \, Ariz
- ona\n\nSource: https://www.visitmesa.com/events/trivia-tuesday/
-LOCATION:3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296
-URL:https://www.visitmesa.com/events/trivia-tuesday/
+SUMMARY:Paint and Sip
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:e30bf73dc8ab0a1cb260b829@arizona-regional
+DESCRIPTION:Beer Barn 3150 E. Ray Rd. Gilbert\, Arizona\n\nSource: https:/
+ /www.visitmesa.com/events/paint-and-sip/
+URL:https://www.visitmesa.com/events/paint-and-sip/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karaōke
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261103T183457Z
-UID:2f5ed532965b0a984cb6e2d8@arizona-regional
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:54871616fadc0220e8e817f2@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
@@ -61,10 +60,10 @@ URL:https://www.visitmesa.com/events/karaoke/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261103T183457Z
-UID:ebbe05e1f574f6748d5dd5a1@arizona-regional
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:b7b6c5c35e405db7a5e3d044@arizona-regional
 DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
  04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
  ernoon-high-tea/
@@ -72,45 +71,58 @@ LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Phoenix Sky Harbor Job Fair
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261103T183457Z
-UID:0341227bf854724ae8af2018@arizona-regional
-DESCRIPTION:44th Street PHX Sky Train® Station 44th and Washington street
- \n\nSource: https://www.visitmesa.com/events/phoenix-sky-harbor-job-fair/
-URL:https://www.visitmesa.com/events/phoenix-sky-harbor-job-fair/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Night
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261103T183457Z
-UID:4e13e1090d81c3a0f3717bf1@arizona-regional
-DESCRIPTION:Scratch Pub and Grill 2401 S Lansing Mesa\, AZ 85209\n\nSource
- : https://www.visitmesa.com/events/trivia-night-7/
-LOCATION:2401 S Lansing Mesa\, AZ 85209
-URL:https://www.visitmesa.com/events/trivia-night-7/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paint and Sip
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261103T183457Z
-UID:e30bf73dc8ab0a1cb260b829@arizona-regional
-DESCRIPTION:Beer Barn 3150 E. Ray Rd. Gilbert\, Arizona\n\nSource: https:/
- /www.visitmesa.com/events/paint-and-sip/
-URL:https://www.visitmesa.com/events/paint-and-sip/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Live Music Cruises
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261103T183457Z
+DTSTAMP:20261104T185058Z
 UID:ab9c9dddac7fc8b9de0ce352@arizona-regional
 DESCRIPTION:Saguaro Lake Marina 14011 N Bush Hwy\, Mesa\, AZ 85215\n\nSour
  ce: https://www.visitmesa.com/events/live-music-cruises/
 LOCATION:14011 N Bush Hwy\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/live-music-cruises/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seedlings Program
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:8745a046c7fca1dee7abc0e0@arizona-regional
+DESCRIPTION:1201 N. Galvin Parkway Phoenix\, AZ 85008 \, Arizona\n\nSource
+ : https://www.visitmesa.com/events/seedlings-program/
+LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
+URL:https://www.visitmesa.com/events/seedlings-program/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agritopia Farm Nights
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:a833551e4003d1f555e9f1a7@arizona-regional
+DESCRIPTION:Agritopia 3000 E Ray Rd\, Gilbert\, AZ 85296\n\nSource: https:
+ //www.visitmesa.com/events/agritopia-farm-nights/
+LOCATION:3000 E Ray Rd\, Gilbert\, AZ 85296
+URL:https://www.visitmesa.com/events/agritopia-farm-nights/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dog Days After Dark
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:b2d26033a6c191664ed7a175@arizona-regional
+DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
+ 008\n\nSource: https://www.visitmesa.com/events/dog-days-after-dark/
+LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
+URL:https://www.visitmesa.com/events/dog-days-after-dark/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Haunt — Mesa
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261104T185058Z
+UID:c74ea29c0de65ec045e8b0a9@arizona-regional
+DESCRIPTION:The Underground At Nile Theater 105 W Main St Mesa\, Arizona 8
+ 5210\n\nSource: https://www.visitmesa.com/events/the-haunt-mesa/
+LOCATION:105 W Main St Mesa\, Arizona 85210
+URL:https://www.visitmesa.com/events/the-haunt-mesa/
 END:VEVENT
 END:VCALENDAR
