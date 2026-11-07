@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261106T180123Z
-UID:5c85243bf6b46dbe7ef8607b@arizona-regional
+DTSTAMP:20261107T165306Z
+UID:da406ea7cde53260f10a64e8@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261106T180123Z
-UID:bc56276d2c6b2542e18d1f8b@arizona-regional
+DTSTAMP:20261107T165306Z
+UID:8a373a869c130b00bfeb51ff@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
@@ -27,10 +27,10 @@ URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater for the Very Young Presents: RED
-DTSTART;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261106T180123Z
-UID:53c2ae91d4f9b55b47af5c3a@arizona-regional
+DTSTAMP:20261107T165306Z
+UID:a2256799c7a10e5863ff41fb@arizona-regional
 DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
  ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
 LOCATION:1 E Main St Mesa\, Arizona 85201
@@ -38,44 +38,68 @@ URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
  ed/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Día de Muertos Festival at DBG
-DTSTART;VALUE=DATE:20261106
+SUMMARY:DÃ­a de Muertos Festival at DBG
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261106T180123Z
-UID:d85402ea74630c31fbe16f07@arizona-regional
+DTSTAMP:20261107T165306Z
+UID:cc9c46177272f8a742e5e9dc@arizona-regional
 DESCRIPTION:Desert Botanical Garden 1201 N. Galvin Parkway Phoenix\, AZ 85
- 008\n\nSource: https://www.visitmesa.com/events/día-de-muertos-festival-a
- t-dbg/
+ 008\n\nSource: https://www.visitmesa.com/events/dÃ­a-de-muertos-festival
+ -at-dbg/
 LOCATION:1201 N. Galvin Parkway Phoenix\, AZ 85008
-URL:https://www.visitmesa.com/events/día-de-muertos-festival-at-dbg/
+URL:https://www.visitmesa.com/events/dÃ­a-de-muertos-festival-at-dbg/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BBQ & Bluegrass Festival
-DTSTART;VALUE=DATE:20261106
+SUMMARY:Yoga With Jordan
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261106T180123Z
-UID:9c133f7dc496342f9d325fc6@arizona-regional
-DESCRIPTION:Source: https://www.visitmesa.com/events/bbq-bluegrass-festiva
- l/
-URL:https://www.visitmesa.com/events/bbq-bluegrass-festival/
+DTSTAMP:20261107T165306Z
+UID:ed127b3658a2c42813059354@arizona-regional
+DESCRIPTION:The Windmill Winery KOI Pond 1140 W Butte Ave Florence\, Arizo
+ na 85118\n\nSource: https://www.visitmesa.com/events/yoga-with-jordan/
+URL:https://www.visitmesa.com/events/yoga-with-jordan/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Karaōke
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261106T180123Z
-UID:10ee147b409cf50b2e22c90d@arizona-regional
+SUMMARY:Eastmark Farmers Market
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T165306Z
+UID:18c0912f8e8482331429ea5a@arizona-regional
+DESCRIPTION:Eastmark Great Park 5100 S. Eastmark Pkwy Mesa\, AZ 85212\n\nS
+ ource: https://www.visitmesa.com/events/eastmark-farmers-market/
+LOCATION:5100 S. Eastmark Pkwy Mesa\, AZ 85212
+URL:https://www.visitmesa.com/events/eastmark-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KaraÅke
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T165306Z
+UID:3fad23e19f361c657609942d@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
 URL:https://www.visitmesa.com/events/karaoke/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Animals in Focus: Photography Classes
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T165306Z
+UID:e3b7162610f7203f8a3a8f92@arizona-regional
+DESCRIPTION:Phoenix Zoo 455 North Galvin Parkway Phoenix\, AZ 85008\n\nSou
+ rce: https://www.visitmesa.com/events/animals-in-focus-photography-classes
+ -2-2/
+LOCATION:455 North Galvin Parkway Phoenix\, AZ 85008
+URL:https://www.visitmesa.com/events/animals-in-focus-photography-classes-
+ 2-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261106T180123Z
-UID:7c07d043a85c8ac69d0b0c31@arizona-regional
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T165306Z
+UID:15651bf6d9de142df8feac43@arizona-regional
 DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
  04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
  ernoon-high-tea/
@@ -84,46 +108,13 @@ URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music Cruises
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261106T180123Z
-UID:1bbba4e0659a5fbb2c65b206@arizona-regional
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261107T165306Z
+UID:cf350a4bde94d1ffa841f900@arizona-regional
 DESCRIPTION:Saguaro Lake Marina 14011 N Bush Hwy\, Mesa\, AZ 85215\n\nSour
  ce: https://www.visitmesa.com/events/live-music-cruises/
 LOCATION:14011 N Bush Hwy\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/live-music-cruises/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Year Anniversary Party!
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261106T180123Z
-UID:7a366fa8ecafdfc68ce16905@arizona-regional
-DESCRIPTION:Phantom Fox Beer Co. 150 W Main St Mesa\, AZ 85201\n\nSource: 
- https://www.visitmesa.com/events/3-year-anniversary-party/
-LOCATION:150 W Main St Mesa\, AZ 85201
-URL:https://www.visitmesa.com/events/3-year-anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High Voltage
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DTSTAMP:20261106T180123Z
-UID:d88a8c10862f03091650df6b@arizona-regional
-DESCRIPTION:Mesa Social Club 1933 E University Dr. Suite 8 Mesa\, Arizona 
- 85203\n\nSource: https://www.visitmesa.com/events/high-voltage/
-LOCATION:1933 E University Dr. Suite 8 Mesa\, Arizona 85203
-URL:https://www.visitmesa.com/events/high-voltage/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karaōke Night with DJ Robot 5000
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261106T180123Z
-UID:9ec7473c770245b2f64ceb5b@arizona-regional
-DESCRIPTION:Level 1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201\n\nSour
- ce: https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
-LOCATION:1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201
-URL:https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
 END:VEVENT
 END:VCALENDAR
