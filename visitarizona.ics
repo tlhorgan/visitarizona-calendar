@@ -5,112 +5,551 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:43rd Annual Fall Artisans Market
+SUMMARY:Canal Convergence 2026
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:5088944638d4f6af97393cb4@visitarizona-calendar
+DESCRIPTION:An annual outdoor\, immersive event featuring large-scale artw
+ orks\, educational workshops\, family-friendly activities\, live music and
+  dance performances and more!\n\nEvent website: https://scottsdalearts.org
+ /explore-scottsdale-arts/canal-convergence/\n\nVisit Arizona listing: http
+ s://www.visitarizona.com/events/canal-convergence-2026
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/canal-convergence-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado River Crossing Balloon Festival
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:34dda0f0450d91cb27e7ad42@visitarizona-calendar
+DESCRIPTION:A three-day event featuring mass ascensions of hot air balloon
+ s. Yuma skies comes alive with an array of colors and shapes\, showcasing 
+ the skill and artistry of balloon pilots. The festival culminates in the D
+ esert Balloon Glow\, a spectacle where tethered balloons illuminate the ni
+ ght sky\, synchronized to the rhythm of music.\n\nEvent website: https://w
+ ww.caballeros.org/colorado-river-crossing-hot-air-balloon-festival/\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/colorado-river-cro
+ ssing-balloon-festival
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/colorado-river-crossing-balloon-fe
+ stival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Art Walk
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:d5e09b3f50e55845f54b5871@visitarizona-calendar
+DESCRIPTION:This long-standing tradition allows visitors to meet the artis
+ ts inside the Village’s galleries and artist studios. See art in action\
+ , and enjoy the hospitality of Tubac’s many art galleries\, specialty sh
+ ops\, and restaurants. Enjoy live music\, free parking\, and admission![ht
+ tps://tubacartwalk.com/](https://tubacartwalk.com/)\n\nEvent website: http
+ s://tubacaz.com/tubac-art-walk/\n\nVisit Arizona listing: https://www.visi
+ tarizona.com/events/fall-art-walk
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/fall-art-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hondo Rodeo Fest
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:73b467301fecd98494de60ee@visitarizona-calendar
+DESCRIPTION:A high-energy fusion of live country music and rodeo action. T
+ hree nights of elite rodeo performances including bareback\, steer wrestli
+ ng\, team roping\, saddle bronc\, tie down\, breakaway\, barrel racing and
+  bull riding! Wee the best in the world compete for their piece of a milli
+ on dollar payout. Concerts will immediately follow the rodeo action each n
+ ight and ONE ticket will grant you full access to all of it!\n\nEvent webs
+ ite: https://thehondorodeofest.com/\n\nVisit Arizona listing: https://www.
+ visitarizona.com/events/hondo-rodeo-fest
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Chase Field\, East Jefferson Street\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/hondo-rodeo-fest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Studio Tour
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:1a01bee12238a3dacc95a184@visitarizona-calendar
+DESCRIPTION:Be immersed in a rich cultural scene\, presented by the Arts F
+ oundation. This is the largest self-guided showcase of artist studios and 
+ creative workspaces in the region\, for more than 30 years. Tucson artists
+  invite visitors into their studios\, free of charge\, allowing visitors t
+ o engage with local working artists\, see where the art is created\, and l
+ earn more about each artist’s artistic processes.\n\nEvent website: http
+ s://artsfoundtucson.org/open-studio-tours/\n\nVisit Arizona listing: https
+ ://www.visitarizona.com/events/open-studio-tour
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/open-studio-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verde Valley Pottery Festival
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:dd5679ae46eb9ccf12bc2d01@visitarizona-calendar
+DESCRIPTION:Meet the artists\, free demos and live music.\n\nEvent website
+ : https://www.verdevalleypotteryfestival.com/\n\nVisit Arizona listing: ht
+ tps://www.visitarizona.com/events/verde-valley-pottery-festival
+LAST-MODIFIED:20261117T195902Z
+LOCATION:DA Ranch Vineyards
+URL:https://www.visitarizona.com/events/verde-valley-pottery-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11th Annual Pizza Festival
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261117T195902Z
+UID:6fcb91773523d6a96476e088@visitarizona-calendar
+DESCRIPTION:Celebrates local pizza makers and features all types of pizza\
+ , Italian foods and desserts. Enjoy local beer\, wine\, live music stage\,
+  a vendor market\, a kids zone and more.\n\nEvent website: https://www.pho
+ enix.pizza/\n\nVisit Arizona listing: https://www.visitarizona.com/events/
+ 11th-annual-pizza-festival
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Margaret T. Hance Park\, West Culver Street\, Phoenix\, AZ\, USA
+URL:https://www.visitarizona.com/events/11th-annual-pizza-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5th Annual Route 66 UltraRun
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261117T195902Z
+UID:43171bbd989b032f2960eec7@visitarizona-calendar
+DESCRIPTION:140 Miles of History and A Race for Everyone - The race recogn
+ izes and celebrates the history of the Mother Road. From the Bunion Derbie
+ s\; “Oakie’s” during the Dust Bowl\; the boom years of family road t
+ rips after WWII\; decline after the interstate system bypassed mom- and-po
+ p motels\, restaurants\, and shops\; to grassroots resurgence leading to o
+ fficial recognition that Route 66 had “become a symbol of the American p
+ eople’s heritage of travel and their legacy of seeking a better life.”
+  Options are available for a fast solo runner\, a team player or even a wa
+ lker.\n\nEvent website: https://route66ultrarun.com/\n\nVisit Arizona list
+ ing: https://www.visitarizona.com/events/5th-annual-route-66-ultrarun
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/5th-annual-route-66-ultrarun
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BorderLands Gravel
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261117T195902Z
+UID:a2f8bc6d6d31b83775729cac@visitarizona-calendar
+DESCRIPTION:Ride real gravel through the rugged landscapes and breathtakin
+ g vistas of Douglas\, Arizona\, and Cochise County\, uncovering hidden gem
+ s and unforgettable experiences along the way. The gravel on the Geronimo 
+ Trail is nothing short of exceptional\, offering fantastic conditions for 
+ riders of all levels and passing through historic landmarks such as the Jo
+ hn Slaughter Ranch and the San Bernardino National Wildlife Refuge. It isn
+ ’t just a race. It’s an experience.\n\nEvent website: https://www.bord
+ erlandsgravel.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
+ events/borderlands-gravel
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/borderlands-gravel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Gilbert Days Rodeo
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261116T210709Z
-UID:b9805e54d27fc2917bbfb3b2@visitarizona-calendar
-DESCRIPTION:Features more than 100 unique and local artists and artisans w
- ith crafts\, original artwork\, pottery\, glass\, jewelry\, textiles\, and
-  gift items in an outdoor street fair setting.\n\nEvent website: https://w
- ww.tucsonmuseumofart.org/artisans-market\n\nVisit Arizona listing: https:/
- /www.visitarizona.com/events/43rd-annual-fall-artisans-market
-LAST-MODIFIED:20261116T210709Z
-URL:https://www.visitarizona.com/events/43rd-annual-fall-artisans-market
+DTSTAMP:20261117T195902Z
+UID:d73e27c446bb240690fe79f5@visitarizona-calendar
+DESCRIPTION:Steer riding open to kids ages 8-11. Also the Lil’ Dudes Rod
+ eo for ages 4-7.\n\nEvent website: https://www.gilbertdaysrodeo.org/\n\nVi
+ sit Arizona listing: https://www.visitarizona.com/events/2026-gilbert-days
+ -rodeo
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Horseshoe Park & Equestrian Centre
+URL:https://www.visitarizona.com/events/2026-gilbert-days-rodeo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:8th Annual Portal Fest
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261116T210709Z
-UID:0a4fe93a71cec47f7fcfa008@visitarizona-calendar
-DESCRIPTION:Presented by[Desert Diamond Casinos](https://tsknpceab.cc.rs6.
- net/tn.jsp?f=0012NlbnvhOB4HOvUiRBECFmm8nIxWeg-6K9453ndTitbZYrcuOhZN7PLNpV9
- 72fbSR7-4S5mgITBspR33pBky1Wh25_CSLCF4cr2RUi_rdlGfiJmah8PbB9EY5G087OFXuLzJH
- ootN-v-nPMGoP5fHzQ==&c=Djb2K4Nry_vARjfHp3LwdBTVqc_AHfvx9dWDkfd2w_xwXLN8VJH
- SRQ==&ch=AEbJrKmTglYZs6eJoXPhPUkbhOjPkkvXSxFzlmnEI5yXji1rKTnRqQ==)\, this 
- free\, family-friendly event connects our community to the Ancient Sonoran
-  Desert People\, their legacy of water in the state of Arizona\, and the t
- raditions of O'odham and Piipaash artists. There will be a Toka Match\, li
- ve music\, basket dancing\, artisan demonstrations\, food\, kids crafts\, 
- and free Museum admission.\n\nEvent website: https://culturalcoalition.com
- /portalfest/\n\nVisit Arizona listing: https://www.visitarizona.com/events
- /8th-annual-portal-fest
-LAST-MODIFIED:20261116T210709Z
-LOCATION:S'edav Va'aki Museum (formerly Pueblo Grande Museum)\, East Washi
- ngton Street\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/8th-annual-portal-fest
+SUMMARY:30th Annual Hidden in the Hills Artists Studio Tour
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261117T195902Z
+UID:3ab20d6258742ebe218e3ffa@visitarizona-calendar
+DESCRIPTION:The Sonoran Arts League\, provides an opportunity to visit the
+  workspaces of dedicated artists in the Sonoran Foothills\, to learn about
+  the artist’s methodology and process\, and purchase art directly from t
+ he artists in a friendly\, engaging atmosphere that showcases quality art.
+  Fridays – Sundays.\n\nEvent website: https://sonoranartsleague.org/hidd
+ en-in-the-hills/\n\nVisit Arizona listing: https://www.visitarizona.com/ev
+ ents/30th-annual-hidden-in-the-hills-artists-studio-tour
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/30th-annual-hidden-in-the-hills-ar
+ tists-studio-tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
+SUMMARY:The North Pole Experience
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261117T195902Z
+UID:f9a43995da800bc45f8399f6@visitarizona-calendar
+DESCRIPTION:The North Pole Experience’s Trolley Launch Station is locate
+ d on 500 acres of beautiful forest\, decorated with more than a million Ch
+ ristmas lights. The perfect backdrop for Christmas. Families take a trolle
+ y ride through the magic portal to Santa’s massive workshop and work wit
+ h Santa and his elves\, building toys.\n\nEvent website: https://flagstaff
+ .littleamerica.com/north-pole-experience/\n\nVisit Arizona listing: https:
+ //www.visitarizona.com/events/the-north-pole-experience
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Little America Hotel\, East Butler Avenue\, Flagstaff\, AZ\, USA
+URL:https://www.visitarizona.com/events/the-north-pole-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kimes Breakaway Roping
 DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DTSTAMP:20261116T210709Z
-UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
-DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
- genous artists\, both professional and youth-led mariachi groups\, and the
-  colorful cultural dances of local ballet folklorico troupes. Also larger-
- than-life giant puppets\, art demonstrations\, the ancestral wisdom of cur
- anderas\, and a community altar.\n\nEvent website: https://culturalcoaliti
- on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
- ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
- ertos-phx-festival
-LAST-MODIFIED:20261116T210709Z
-LOCATION:Arizona Center
-URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
- ertos-phx-festival
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261117T195902Z
+UID:7f8855bab63c664898af1fdb@visitarizona-calendar
+DESCRIPTION:The Kimes Ranch Million Dollar Breakaway is an open event for 
+ all female Breakaway ropers.These are the finals. [h](https://milliondolla
+ rbreakaway.com/)\n\nEvent website: https://milliondollarbreakaway.com/\n\n
+ Visit Arizona listing: https://www.visitarizona.com/events/kimes-breakaway
+ -roping
+LAST-MODIFIED:20261117T195902Z
+LOCATION:WestWorld of Scottsdale\, N Pima Rd\, Scottsdale\, AZ\, USA
+URL:https://www.visitarizona.com/events/kimes-breakaway-roping
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Annual Home Tour and Art\, Chairs & More Auction
+SUMMARY:42nd Annual Thanksgiving Day Parade
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261117T195902Z
+UID:8cf7e632ff3adfceb2d5313e@visitarizona-calendar
+DESCRIPTION:A hometown favorite drawing spectators from across the state w
+ ho wish to ring in Thanksgiving Day with a classic parade.\n\nEvent websit
+ e: https://fhchamber.com/thanksgiving-day-parade/\n\nVisit Arizona listing
+ : https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parade
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/42nd-annual-thanksgiving-day-parad
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33rd Annual Glendale Glitters
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261117T195902Z
+UID:cda2bccac1679cf2e11fa26d@visitarizona-calendar
+DESCRIPTION:Exquisite arrangement of lights\, complimented by interactive 
+ features and holiday displays! Products from vendors\, holiday songs from 
+ carolers\, and a visit with Santa!The Light display remains up until Janua
+ ry 1st.\n\nEvent website: https://www.glendaleaz.gov/Play/Special-Events\n
+ \nVisit Arizona listing: https://www.visitarizona.com/events/33rd-annual-g
+ lendale-glitters
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Murphy Park\, West Glendale Avenue\, Glendale\, AZ\, USA
+URL:https://www.visitarizona.com/events/33rd-annual-glendale-glitters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:80th Annual SCSC Thanksgiving Regatta
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261116T210709Z
-UID:e0c8c3cb9a55b1da5f85d0bc@visitarizona-calendar
-DESCRIPTION:For some years\, the event has not solely featured historic ho
- mes. It has expanded to include the wonderfully quirky\, art-filled homes 
- of Bisbee that aren’t historically accurate. The companion auction began
-  with chairs but has gone far beyond that to include art of every kind. Al
- ways held on the Friday and Saturday after Thanksgiving.\n\nEvent website:
-  https://www.bisbeewomansclub.com/home-tour-chair-auction\n\nVisit Arizona
-  listing: https://www.visitarizona.com/events/annual-home-tour-and-art-cha
- irs-more-auction
-LAST-MODIFIED:20261116T210709Z
-URL:https://www.visitarizona.com/events/annual-home-tour-and-art-chairs-mo
- re-auction
+DTSTAMP:20261117T195902Z
+UID:7fda9bb1f20de67688f23366@visitarizona-calendar
+DESCRIPTION:The Southern California Speedboat Club has been producing this
+  Sprint Boat (circle boats) event. Circle boat classes including the Crack
+ erboxes\, Pro Stocks\, Grand Nationals\, F1 Tunnel boats and a host of oth
+ ers will be on hand showcasing their speed and power against each other in
+  heat races on Colorado River.\n\nEvent website: https://www.scscracing.co
+ m/\n\nVisit Arizona listing: https://www.visitarizona.com/events/80th-annu
+ al-scsc-thanksgiving-regatta
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Bluewater Resort and Casino\, Resort Drive\, Parker\, AZ\, USA
+URL:https://www.visitarizona.com/events/80th-annual-scsc-thanksgiving-rega
+ tta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:32nd Annual Christmas Parade of Lights
+SUMMARY:Desert Bash & Off Road Poker Run
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261117T195902Z
+UID:f06aaaccda3b1de3412923bd@visitarizona-calendar
+DESCRIPTION:A 64-mile course with five checkpoints for participants to bui
+ ld the best poker hand possible and win cash. This event sells out every y
+ ear with over 250 vehicles and 1\,000 participants. LIVE Entertainment\, 5
+ 0/50 and drawing prizes.\n\nEvent website: https://www.golakehavasu.com/ev
+ ents/desert-bash-off-road-poker-run/\n\nVisit Arizona listing: https://www
+ .visitarizona.com/events/desert-bash-off-road-poker-run
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/desert-bash-off-road-poker-run
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32nd Annual Downtown Parade of Lights & Festival
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:3901c66f40a4427f1c18dd99@visitarizona-calendar
+DESCRIPTION:Make sure to visit and support downtown businesses before and 
+ after the parade!\n\nEvent website: https://downtownparadeoflights.com/\n\
+ nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-do
+ wntown-parade-of-lights-festival
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Armory Park\, Tucson\, AZ\, USA
+URL:https://www.visitarizona.com/events/32nd-annual-downtown-parade-of-lig
+ hts-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:33rd Annual Chocolate Walk
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:4978b82143ad7d6a6ef56384@visitarizona-calendar
+DESCRIPTION:Purchase your ticket\, receive map & collect chocolates. (choc
+ olate walk limited to 300).\n\nEvent website: https://www.oldtown.org/choc
+ olate.html\n\nVisit Arizona listing: https://www.visitarizona.com/events/3
+ 3rd-annual-chocolate-walk
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Old Town Cottonwood\, North Main Street\, Cottonwood\, AZ\, USA
+URL:https://www.visitarizona.com/events/33rd-annual-chocolate-walk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:39th Annual APS Electric Light Parade
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:9de0c0e9f197b7ba8c91ed2e@visitarizona-calendar
+DESCRIPTION:For more than three decades\, the APS Electric Light Parade ha
+ s been an event where families\, neighborhood groups and businesses from a
+ cross the city come together to celebrate the joy of the holiday season.\n
+ \nEvent website: https://www.phoenix.gov/administration/departments/parks/
+ classes-programs/featured-events/aps-electric-light-parade.html\n\nVisit A
+ rizona listing: https://www.visitarizona.com/events/39th-annual-aps-electr
+ ic-light-parade
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/39th-annual-aps-electric-light-par
+ ade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40th Annual F.Q. Story Historic Home Tour & Holiday Street Market
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:5996183fb95000512c91e979@visitarizona-calendar
+DESCRIPTION:Stroll through 10 beautiful homes and 6 gardens. Browse the vi
+ brant street market\, and enjoy live music\, local bites\, and our new bee
+ r & wine garden. Carolers\, luminaries\, and the iconic Cookie House.\n\nE
+ vent website: https://www.fqstoryhometour.org/\n\nVisit Arizona listing: h
+ ttps://www.visitarizona.com/events/40th-annual-f-q-story-historic-home-tou
+ r-holiday-street-market
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/40th-annual-f-q-story-historic-hom
+ e-tour-holiday-street-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:72nd Annual Arizona Christmas Parade & Courthouse Lighting & Cerem
+ ony
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:1a82b8b9daa6aa434e24aa2b@visitarizona-calendar
+DESCRIPTION:In Arizona's official Christmas City\, 1 pm parade\, 6 pm ligh
+ ting.\n\nEvent website: https://www.experienceprescott.com/christmas-city/
+ events/\n\nVisit Arizona listing: https://www.visitarizona.com/events/72nd
+ -annual-arizona-christmas-parade-courthouse-lighting-ceremony
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/72nd-annual-arizona-christmas-para
+ de-courthouse-lighting-ceremony
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mayhem Night Trail
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261117T195902Z
+UID:3942f023f738002c4b13e739@visitarizona-calendar
+DESCRIPTION:Conquer the challenging trails of McDowell Mountain Regional P
+ ark under the cover of darkness. Experience the thrill of navigating throu
+ gh the desert landscape illuminated only by your headlamp and the moonligh
+ t\, as you push your limits across distances perfect for every trail runni
+ ng enthusiast. 25K\, 10 miles and 5 mile.\n\nEvent website: https://www.ar
+ avaiparunning.com/arizona/\n\nVisit Arizona listing: https://www.visitariz
+ ona.com/events/mayhem-night-trail
+LAST-MODIFIED:20261117T195902Z
+LOCATION:McDowell Mountain Regional Park\, McDowell Mountain Park Drive\, 
+ Fort McDowell\, AZ\, USA
+URL:https://www.visitarizona.com/events/mayhem-night-trail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:38th Annual Acker Night
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261116T210709Z
-UID:4155c484c1cb488591868844@visitarizona-calendar
-DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
- t and take photos with Santa by the train on Frontier Street. Maverik gas 
- station will provide hot chocolate and cookies for all. Visitors are encou
- raged to shop and eat with local businesses before or after the event.\n\n
- Event website: https://www.wickenburgchamber.com/annual-events#1764294707\
- n\nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-
- christmas-parade-of-lights
-LAST-MODIFIED:20261116T210709Z
-URL:https://www.visitarizona.com/events/32nd-annual-christmas-parade-of-li
- ghts
+DTSTAMP:20261117T195902Z
+UID:cfac4ac61cea87c093554d93@visitarizona-calendar
+DESCRIPTION:Acker Night is an evening when participating downtown business
+ es partner with local and national musical talent to bring you a fulfillin
+ g evening of music\, food\, and fun during the Christmas season all while 
+ donating to a worthy cause. More than 100 performers in more than 100 shop
+ s.\n\nEvent website: https://www.ackernight.com/\n\nVisit Arizona listing:
+  https://www.visitarizona.com/events/38th-annual-acker-night
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/38th-annual-acker-night
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4th Annual Art at Anthem
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261116T210709Z
-UID:a2065ce77497dd86d9d97c0e@visitarizona-calendar
-DESCRIPTION:Brings together 60 juried artists\, local makers\, live music\
- , and family fun. Highlights everything from fine art and photography to j
- ewelry\, pottery\, Native American works and gourmet gifts\, plus local fa
- vorites like Queen Bee Gourmet Honey and Homemade Mommy & Me Aprons. Visit
- ors can also enjoy live music\, Santa visits\, and the sight of Arizona’
- s tallest fresh-cut Christmas tree.\n\nEvent website: https://oakcreekarts
- andcraftsshow.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
- events/4th-annual-art-at-anthem
-LAST-MODIFIED:20261116T210709Z
-LOCATION:Outlets North Phoenix\, West Anthem Way\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/4th-annual-art-at-anthem
+SUMMARY:21st Annual Vail Jingle Trail
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261117T195902Z
+UID:c4c8669eb2e069795e1cf1b2@visitarizona-calendar
+DESCRIPTION:Enjoy a holiday themed race with course decorations\, cheering
+  and motivation from Mica Mountain Cross Country\, themed shirts\, and awa
+ rds.\n\nEvent website: https://runsignup.com/Race/AZ/Tucson/VailJingleTrai
+ l\n\nVisit Arizona listing: https://www.visitarizona.com/events/21st-annua
+ l-vail-jingle-trail
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Mica Mountain High School
+URL:https://www.visitarizona.com/events/21st-annual-vail-jingle-trail
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4th Annual Winter Wonderland and 36th annual Electric Light Parade
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261117T195902Z
+UID:d879fd8adcf0b6d11e41f4f5@visitarizona-calendar
+DESCRIPTION:Festive inflatables and games on the lawn. Santa will make an 
+ appearance. Enjoy the picnic area and food vendors. Merchandise vendors on
+  site for those looking for the perfect Christmas gifts. Join Sonoran Swin
+ g for live music. The ceremonial Christmas Tree Lighting followed by the b
+ est Electric Light Parade around!\n\nEvent website: https://adventurepayso
+ n.com/mec-category/signature-events/\n\nVisit Arizona listing: https://www
+ .visitarizona.com/events/4th-annual-winter-wonderland-and-36th-annual-elec
+ tric-light-parade
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Green Valley Park\, West Country Club Drive\, Payson\, AZ\, USA
+URL:https://www.visitarizona.com/events/4th-annual-winter-wonderland-and-3
+ 6th-annual-electric-light-parade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Parade and Craft Fair
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261117T195902Z
+UID:dd75f29d8167828d71710677@visitarizona-calendar
+DESCRIPTION:A dazzling display of lights\, laughter\, and community joy. I
+ t transforms our quaint town into a winter wonderland. There's something m
+ agical for everyone to enjoy at this enchanting celebration of the holiday
+  season.\n\nEvent website: https://visitwillcox.az.gov/christmas-parade-cr
+ aft-fair\n\nVisit Arizona listing: https://www.visitarizona.com/events/chr
+ istmas-parade-and-craft-fair
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Railroad Park\, N Railroad Ave\, Willcox\, AZ\, USA
+URL:https://www.visitarizona.com/events/christmas-parade-and-craft-fair
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Million Lights 5K Fun Run
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20261117T195902Z
+UID:54d14c8ac9caab8f6fd6843c@visitarizona-calendar
+DESCRIPTION:Along the course\, recharge at our water and peppermint statio
+ n\, then celebrate at the finish line with hot chocolate\, holiday cookies
+ \, chocolate treats\, and a commemorative finisher mug for every participa
+ nt.\n\nEvent website: https://www.millionlights5k.com/\n\nVisit Arizona li
+ sting: https://www.visitarizona.com/events/million-lights-5k-fun-run
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/million-lights-5k-fun-run
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Run Rudolph
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20261117T195902Z
+UID:cc5879b6b0fffba9df67a020@visitarizona-calendar
+DESCRIPTION:Get Rudolph & the rest of the reindeer ready for delivery day 
+ with a Half Marathon\, Quarter Marathon\, 5K\,and Reindeer Dash!The course
+  is on dedicated running trails (all asphalt and concrete) of the New Rive
+ r Trail System\, starting and ending at Peoria Sports Complex.\n\nEvent we
+ bsite: https://www.runguides.com/event/2495/phoenix-run-run-rudolph\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/run-run-rudolph
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Rio Vista Community Park\, West Thunderbird Road\, Peoria\, AZ\, 
+ USA
+URL:https://www.visitarizona.com/events/run-run-rudolph
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12th Annual Decadence Arizona 2026 | Sands of Eternity
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261117T195902Z
+UID:f3c8a9f3e02a5dfd0e256b6e@visitarizona-calendar
+DESCRIPTION:Electronic digital music festival.\n\nEvent website: https://d
+ ecadencearizona.com/%20%20\n\nVisit Arizona listing: https://www.visitariz
+ ona.com/events/12th-annual-decadence-arizona-2026-sands-of-eternity
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Phoenix Raceway\, Jimmie Johnson Dr\, Avondale\, AZ\, USA
+URL:https://www.visitarizona.com/events/12th-annual-decadence-arizona-2026
+ -sands-of-eternity
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vrbo Fiesta Bowl Football Classic
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20261117T195902Z
+UID:1406510439e86d6853056bb6@visitarizona-calendar
+DESCRIPTION:An annual American college football bowl game. The Vrbo Fiesta
+  Bowl is a must-see postseason game\, with some of college football’s mo
+ st memorable moments and signature games\, taking place in the Valley of t
+ he Sun.\n\nEvent website: https://www.fiestasportsfoundation.org/\n\nVisit
+  Arizona listing: https://www.visitarizona.com/events/vrbo-fiesta-bowl-foo
+ tball-classic
+LAST-MODIFIED:20261117T195902Z
+LOCATION:State Farm Stadium\, Cardinals Drive\, Glendale\, AZ\, USA
+URL:https://www.visitarizona.com/events/vrbo-fiesta-bowl-football-classic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15th Annual Whiskey Row Boot Drop
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261117T195902Z
+UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
+DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
+  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
+ it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
+ y-row-boot-drop
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
+URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Taco Bell New Year’s Eve Downtown Bowl Bash
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261117T195902Z
+UID:d104c3721bf1bc4536858a03@visitarizona-calendar
+DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
+ s Band! A Silent Disco\, presented by Tucson Federal Credit Union. Food tr
+ ucks and beer stations throughout the area to keep you fueled up for the b
+ ig countdown to the taco touchdown. When the clock strikes 12:00:00 a big 
+ taco is lowered from the sky to welcome 2026!\n\nEvent website: https://th
+ earizonabowl.com/event/2025-taco-bell-new-years-eve-downtown-bowl-bash/\n\
+ nVisit Arizona listing: https://www.visitarizona.com/events/2025-taco-bell
+ -new-year-s-eve-downtown-bowl-bash
+LAST-MODIFIED:20261117T195902Z
+LOCATION:Jácome Plaza\, North Stone Avenue\, Tucson\, AZ\, USA
+URL:https://www.visitarizona.com/events/2025-taco-bell-new-year-s-eve-down
+ town-bowl-bash
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22nd Annual Sedona Plein Air Festival
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271025
+DTSTAMP:20261117T195902Z
+UID:49d7cc0a815e2fc44134c9a6@visitarizona-calendar
+DESCRIPTION:An immersive celebration of art set against the awe-inspiring 
+ red rock landscapes of Sedona. As one of the oldest continuously running p
+ lein air festivals in the western United States\, this iconic event brings
+  together master artists from across the country to paint on location and 
+ share their talents with the public during Sedona’s most beautiful seaso
+ n. The festival features a week of outdoor painting\, special exhibitions\
+ , engaging workshops\, and free community events.\n\nEvent website: https:
+ //sedonaartscenter.org/events\n\nVisit Arizona listing: https://www.visita
+ rizona.com/events/22nd-annual-sedona-plein-air-festival
+LAST-MODIFIED:20261117T195902Z
+URL:https://www.visitarizona.com/events/22nd-annual-sedona-plein-air-festi
+ val
 END:VEVENT
 END:VCALENDAR

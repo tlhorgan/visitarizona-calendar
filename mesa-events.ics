@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261116T210930Z
-UID:14324be62b7ac9a008b9878d@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:4566ecc6843ac99bd126ce21@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261116T210930Z
-UID:2a3567184293efc2d05369ef@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:57d2eed2cfa7edabdef05e60@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
@@ -27,10 +27,10 @@ URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater for the Very Young Presents: RED
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261116T210930Z
-UID:361a13f97c79cc1097ceb7c2@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:d704f9c656e3afc8bb80e6cf@arizona-regional
 DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
  ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
 LOCATION:1 E Main St Mesa\, Arizona 85201
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celebration
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20271108
-DTSTAMP:20261116T210930Z
-UID:3820b367dbd1011e5e0ffbe9@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:b66d71d610a99c9a1a06b9b5@arizona-regional
 DESCRIPTION:Mesa Arts Center - Ikeda Theater 1 West Main Street Mesa\, Ari
  zona 85201\n\nSource: https://www.visitmesa.com/events/celebration/
 LOCATION:1 West Main Street Mesa\, Arizona 85201
@@ -50,10 +50,10 @@ URL:https://www.visitmesa.com/events/celebration/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter 6wk Session BOOKING NOW
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261116T210930Z
-UID:3f85d2ae27cff25a71027aca@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:ce14da4023cfad22cb563e3f@arizona-regional
 DESCRIPTION:943 S Gilbert Rd STE 102 943 S Gilbert Rd STE 102 Mesa\, Arizo
  na 85204\n\nSource: https://www.visitmesa.com/events/winter-6wk-session-bo
  oking-now/
@@ -63,10 +63,10 @@ URL:https://www.visitmesa.com/events/winter-6wk-session-booking-now/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nothing Bundt Cakes Mesa Grand Opening Celebration
-DTSTART;VALUE=DATE:20261116
+DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261116T210930Z
-UID:2985da7417f0eedb56197056@arizona-regional
+DTSTAMP:20261117T200038Z
+UID:6f7e46b9f07643a1174e8120@arizona-regional
 DESCRIPTION:Nothing Bundt Cakes Mesa 1130 S. Alma School Rd.\, Suite 102\,
   Mesa\, AZ 85210\n\nSource: https://www.visitmesa.com/events/nothing-bundt
  -cakes-mesa-grand-opening-celebration/
@@ -75,45 +75,10 @@ URL:https://www.visitmesa.com/events/nothing-bundt-cakes-mesa-grand-openin
  g-celebration/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KaraÅke
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261116T210930Z
-UID:7038df01e22f110f69701e8a@arizona-regional
-DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
- ce: https://www.visitmesa.com/events/karaoke/
-LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
-URL:https://www.visitmesa.com/events/karaoke/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Music at Las Sendas Golf Club
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261116T210930Z
-UID:ff8247686e70f69d00b05e3a@arizona-regional
-DESCRIPTION:The Grille & Patio at Las Sendas Golf Club 7555 E. Eagle Crest
-  Drive\, Mesa\, AZ 85207\n\nSource: https://www.visitmesa.com/events/live-
- music-at-las-sendas-golf-club/
-LOCATION:7555 E. Eagle Crest Drive\, Mesa\, AZ 85207
-URL:https://www.visitmesa.com/events/live-music-at-las-sendas-golf-club/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plant Bingo at Desert Bloom
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261116T210930Z
-UID:742b20721209553c4a5eb120@arizona-regional
-DESCRIPTION:Desert Bloom Pilates & Boutique 1350 S Gilbert Road\, Unit C1 
- Mesa\, Arizona 85204\n\nSource: https://www.visitmesa.com/events/plant-bin
- go-at-desert-bloom/
-LOCATION:1350 S Gilbert Road\, Unit C1 Mesa\, Arizona 85204
-URL:https://www.visitmesa.com/events/plant-bingo-at-desert-bloom/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trivia Tuesday
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T210930Z
+DTSTAMP:20261117T200038Z
 UID:9f2927bc79712e7726c323b0@arizona-regional
 DESCRIPTION:Beer Barn 3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296 \, Ariz
  ona\n\nSource: https://www.visitmesa.com/events/trivia-tuesday/
@@ -121,15 +86,49 @@ LOCATION:3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296
 URL:https://www.visitmesa.com/events/trivia-tuesday/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KaraÅke
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T200038Z
+UID:353c42b591e469c7da274845@arizona-regional
+DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
+ ce: https://www.visitmesa.com/events/karaoke/
+LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
+URL:https://www.visitmesa.com/events/karaoke/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afternoon High Tea
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261116T210930Z
+DTSTAMP:20261117T200038Z
 UID:eefb43beaea76ac31fb586c8@arizona-regional
 DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
  04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
  ernoon-high-tea/
 LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
 URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live Music at Las Sendas Golf Club
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T200038Z
+UID:2c6fd43dda6e7da45276d127@arizona-regional
+DESCRIPTION:The Grille & Patio at Las Sendas Golf Club 7555 E. Eagle Crest
+  Drive\, Mesa\, AZ 85207\n\nSource: https://www.visitmesa.com/events/live-
+ music-at-las-sendas-golf-club/
+LOCATION:7555 E. Eagle Crest Drive\, Mesa\, AZ 85207
+URL:https://www.visitmesa.com/events/live-music-at-las-sendas-golf-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music Video Bingo
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T200038Z
+UID:e9d2ce82f09bba1146705cea@arizona-regional
+DESCRIPTION:Augusta Ranch 2401 S Lansing Mesa\, AZ 85209\n\nSource: https:
+ //www.visitmesa.com/events/music-video-bingo-4/
+LOCATION:2401 S Lansing Mesa\, AZ 85209
+URL:https://www.visitmesa.com/events/music-video-bingo-4/
 END:VEVENT
 END:VCALENDAR
