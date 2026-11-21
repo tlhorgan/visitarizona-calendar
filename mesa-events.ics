@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261120T190849Z
-UID:795c0aaca192ff7b67ea8600@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:8370367387784a1105905bde@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261120T190849Z
-UID:97e5bee301fe0de09adc7c73@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:8dee7f97aaf9b8f21b39f889@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
@@ -27,10 +27,10 @@ URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater for the Very Young Presents: RED
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261120T190849Z
-UID:fe6a0af02bff8b25dcdaa453@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:7d40ec4d4bb515f182354a28@arizona-regional
 DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
  ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
 LOCATION:1 E Main St Mesa\, Arizona 85201
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celebration
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20271108
-DTSTAMP:20261120T190849Z
-UID:4f864277804a31f9acf38d30@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:0cc0a2538cfb864ed53dd8e9@arizona-regional
 DESCRIPTION:Mesa Arts Center - Ikeda Theater 1 West Main Street Mesa\, Ari
  zona 85201\n\nSource: https://www.visitmesa.com/events/celebration/
 LOCATION:1 West Main Street Mesa\, Arizona 85201
@@ -50,10 +50,10 @@ URL:https://www.visitmesa.com/events/celebration/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter 6wk Session BOOKING NOW
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261120T190849Z
-UID:e99f8042307b5fc9e155e26f@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:618668c82f854e8c450a6f15@arizona-regional
 DESCRIPTION:943 S Gilbert Rd STE 102 943 S Gilbert Rd STE 102 Mesa\, Arizo
  na 85204\n\nSource: https://www.visitmesa.com/events/winter-6wk-session-bo
  oking-now/
@@ -62,71 +62,58 @@ LOCATION:943 S Gilbert Rd STE 102 943 S Gilbert Rd STE 102 Mesa\, Arizona
 URL:https://www.visitmesa.com/events/winter-6wk-session-booking-now/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nothing Bundt Cakes Mesa Grand Opening Celebration
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261120T190849Z
-UID:8aedf416922ef5310533435b@arizona-regional
-DESCRIPTION:Nothing Bundt Cakes Mesa 1130 S. Alma School Rd.\, Suite 102\,
-  Mesa\, AZ 85210\n\nSource: https://www.visitmesa.com/events/nothing-bundt
- -cakes-mesa-grand-opening-celebration/
-LOCATION:1130 S. Alma School Rd.\, Suite 102\, Mesa\, AZ 85210
-URL:https://www.visitmesa.com/events/nothing-bundt-cakes-mesa-grand-openin
- g-celebration/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Saturday Speakers Program
-DTSTART;VALUE=DATE:20261120
+DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261120T190849Z
-UID:dad3d0ef8ab839fb4a9c70e3@arizona-regional
+DTSTAMP:20261121T180814Z
+UID:893b3890e1ab351dc4d40bed@arizona-regional
 DESCRIPTION:2017 N Greenfield Rd Mesa\, Arizona\n\nSource: https://www.vis
  itmesa.com/events/saturday-speakers-program/
 URL:https://www.visitmesa.com/events/saturday-speakers-program/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Wiz
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261121T180814Z
+UID:7b8c8a38b2033b4fb0711ede@arizona-regional
+DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
+ ttps://www.visitmesa.com/events/the-wiz/
+LOCATION:1 E Main St Mesa\, Arizona 85201
+URL:https://www.visitmesa.com/events/the-wiz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:November Sangria Social
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261121T180814Z
+UID:d13eb885b2b423e362a09775@arizona-regional
+DESCRIPTION:Queen Creek Olive Mill 25062 S Meridian Rd Queen Creek\, Arizo
+ na 85142\n\nSource: https://www.visitmesa.com/events/november-sangria-soci
+ al/
+LOCATION:25062 S Meridian Rd Queen Creek\, Arizona 85142
+URL:https://www.visitmesa.com/events/november-sangria-social/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastmark Farmers Market
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261121T180814Z
+UID:55343a2b7c2dd549677db00f@arizona-regional
+DESCRIPTION:Eastmark Great Park 5100 S. Eastmark Pkwy Mesa\, AZ 85212\n\nS
+ ource: https://www.visitmesa.com/events/eastmark-farmers-market/
+LOCATION:5100 S. Eastmark Pkwy Mesa\, AZ 85212
+URL:https://www.visitmesa.com/events/eastmark-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KaraÅke
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DTSTAMP:20261120T190849Z
-UID:8edb6e45d59e4bb8796e64aa@arizona-regional
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261121T180814Z
+UID:f7a21fc4ad607fa630352ac2@arizona-regional
 DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
  ce: https://www.visitmesa.com/events/karaoke/
 LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
 URL:https://www.visitmesa.com/events/karaoke/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DTSTAMP:20261120T190849Z
-UID:7fb05e3f42943d1988ef6c74@arizona-regional
-DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
- 04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
- ernoon-high-tea/
-LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
-URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Music Cruises
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DTSTAMP:20261120T190849Z
-UID:38be38c013433ae3b9eb2e1d@arizona-regional
-DESCRIPTION:Saguaro Lake Marina 14011 N Bush Hwy\, Mesa\, AZ 85215\n\nSour
- ce: https://www.visitmesa.com/events/live-music-cruises/
-LOCATION:14011 N Bush Hwy\, Mesa\, AZ 85215
-URL:https://www.visitmesa.com/events/live-music-cruises/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KaraÅke Night with DJ Robot 5000
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261120T190849Z
-UID:8cfba4246936d852d2f5378b@arizona-regional
-DESCRIPTION:Level 1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201\n\nSour
- ce: https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
-LOCATION:1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201
-URL:https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
 END:VEVENT
 END:VCALENDAR
