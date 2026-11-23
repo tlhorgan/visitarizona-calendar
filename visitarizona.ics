@@ -5,54 +5,39 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:Charles Schwab Cup Championship
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261122T183345Z
-UID:9d794580b103b1a841bbc6c3@visitarizona-calendar
-DESCRIPTION:The final event of the PGA TOUR Champions season and the third
-  and final event of the Charles Schwab Cup Playoffs\, used to determine th
- e annual Charles Schwab Cup Champion. The event consists of the top-36 pla
- yers on the Charles Schwab Cup points list following the second Playoff ev
- ent in Little Rock\, Arkansas.\n\nEvent website: https://charlesschwabcupc
- hampionship.com/\n\nVisit Arizona listing: https://www.visitarizona.com/ev
- ents/charles-schwab-cup-championship
-LAST-MODIFIED:20261122T183345Z
-LOCATION:Phoenix Country Club\, North 7th Street\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/charles-schwab-cup-championship
+SUMMARY:15th Annual MIKIZTLI: Día de los Muertos PHX Festival
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261123T224141Z
+UID:6b8139ec2ccb2e1078aadb25@visitarizona-calendar
+DESCRIPTION:Captivating performances by local Chicano\, Latiné\, and Indi
+ genous artists\, both professional and youth-led mariachi groups\, and the
+  colorful cultural dances of local ballet folklorico troupes. Also larger-
+ than-life giant puppets\, art demonstrations\, the ancestral wisdom of cur
+ anderas\, and a community altar.\n\nEvent website: https://culturalcoaliti
+ on.com/events/mikiztli-dia-de-los-muertos-festival/\n\nVisit Arizona listi
+ ng: https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
+LAST-MODIFIED:20261123T224141Z
+LOCATION:Arizona Center
+URL:https://www.visitarizona.com/events/15th-annual-mikiztli-dia-de-los-mu
+ ertos-phx-festival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Native American Indian Heritage Month Social Indian Craft Market
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261122T183345Z
-UID:ef9cc37d925b530171bdfe8d@visitarizona-calendar
-DESCRIPTION:Indian craft market\, pow wow contest\, children’s activitie
- s\, traditional food\, exhibition dancing\, craft demos.\n\nEvent website:
-  https://usaindianinfo.com/events/craft-market\n\nVisit Arizona listing: h
- ttps://www.visitarizona.com/events/native-american-indian-heritage-month-s
- ocial-indian-craft-market
-LAST-MODIFIED:20261122T183345Z
-URL:https://www.visitarizona.com/events/native-american-indian-heritage-mo
- nth-social-indian-craft-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Magical Christmas Journey
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261225
-DTSTAMP:20261122T183345Z
-UID:7abfa51f4e357e4d9e8de6b8@visitarizona-calendar
-DESCRIPTION:At the depot Santa’s elves tell of Princess Noel and Flurry\
- , the Christmas Eagle. Flurry\, a real live bald eagle\, greets children a
- nd gives “wing-flapping” lessons. At the tiny Bird’s-Eye Village\, c
- hildren can slip on eagle wings and soar through the miniature town featur
- ing 10 tiny houses surrounding a musical Christmas tree.Santa hops onboard
-  the train for the return trip to Clarkdale and gifts each with a little m
- emento signifying their North Pole Adventure.\n\nEvent website: https://ve
- rdecanyonrr.com/magical-christmas-journey/\n\nVisit Arizona listing: https
- ://www.visitarizona.com/events/the-magical-christmas-journey
-LAST-MODIFIED:20261122T183345Z
-LOCATION:Verde Canyon Railroad Depot.
-URL:https://www.visitarizona.com/events/the-magical-christmas-journey
+SUMMARY:32nd Annual Christmas Parade of Lights
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261123T224141Z
+UID:4155c484c1cb488591868844@visitarizona-calendar
+DESCRIPTION:A free\, family-fun event. After the parade\, children can mee
+ t and take photos with Santa by the train on Frontier Street. Maverik gas 
+ station will provide hot chocolate and cookies for all. Visitors are encou
+ raged to shop and eat with local businesses before or after the event.\n\n
+ Event website: https://www.wickenburgchamber.com/annual-events#1764294707\
+ n\nVisit Arizona listing: https://www.visitarizona.com/events/32nd-annual-
+ christmas-parade-of-lights
+LAST-MODIFIED:20261123T224141Z
+URL:https://www.visitarizona.com/events/32nd-annual-christmas-parade-of-li
+ ghts
 END:VEVENT
 END:VCALENDAR
