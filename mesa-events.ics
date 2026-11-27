@@ -4,10 +4,10 @@ PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Mesa
 BEGIN:VEVENT
 SUMMARY:Community Open Studio (every Wed & Sat)
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261126T201546Z
-UID:7e37b5dd35f10494fd4bc7cc@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:77975dc90f5062ba7d6d64b7@arizona-regional
 DESCRIPTION:Sol CIty Clay Mesa 943 S Gilbert Rd\, Suite 102 Mesa\, Arizona
   85204\n\nSource: https://www.visitmesa.com/events/community-open-studio-e
  very-wed-sat/
@@ -16,10 +16,10 @@ URL:https://www.visitmesa.com/events/community-open-studio-every-wed-sat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Market
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261126T201546Z
-UID:17073be00259653fccdb4f30@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:6d734e73c12f3458c037994c@arizona-regional
 DESCRIPTION:EVIT Main St. Campus 1601 W Main ST Mesa\, Arizona 85201\n\nSo
  urce: https://www.visitmesa.com/events/thieves-market/
 LOCATION:1601 W Main ST Mesa\, Arizona 85201
@@ -27,10 +27,10 @@ URL:https://www.visitmesa.com/events/thieves-market/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beginner/âIntermediate Drawing: Animal Portraits
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261215
-DTSTAMP:20261126T201546Z
-UID:37121657afb28b3f9eef3ed5@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:71439f9933ed67443ae9d9c4@arizona-regional
 DESCRIPTION:Drawing/Painting Studio 1 E Main St Mesa\, Arizona\n\nSource: 
  https://www.visitmesa.com/events/beginner-intermediate-drawing-animal-port
  raits/
@@ -39,10 +39,10 @@ URL:https://www.visitmesa.com/events/beginner-intermediate-drawing-animal-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater for the Very Young Presents: RED
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261209
-DTSTAMP:20261126T201546Z
-UID:3ae464c7ee354d0b802bc7ba@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:3497ca9c99f3d627897180ec@arizona-regional
 DESCRIPTION:Mesa Arts Center 1 E Main St Mesa\, Arizona 85201\n\nSource: h
  ttps://www.visitmesa.com/events/theater-for-the-very-young-presents-red/
 LOCATION:1 E Main St Mesa\, Arizona 85201
@@ -51,10 +51,10 @@ URL:https://www.visitmesa.com/events/theater-for-the-very-young-presents-r
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Celebration
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20271108
-DTSTAMP:20261126T201546Z
-UID:a34ee3a0b0cceadad805acc4@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:2463ac2eacbc03cf093944b1@arizona-regional
 DESCRIPTION:Mesa Arts Center - Ikeda Theater 1 West Main Street Mesa\, Ari
  zona 85201\n\nSource: https://www.visitmesa.com/events/celebration/
 LOCATION:1 West Main Street Mesa\, Arizona 85201
@@ -62,10 +62,10 @@ URL:https://www.visitmesa.com/events/celebration/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter 6wk Session BOOKING NOW
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261126T201546Z
-UID:4c1f1865b36b8fc548591c4b@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:0016165d00ff82c5047838f3@arizona-regional
 DESCRIPTION:943 S Gilbert Rd STE 102 943 S Gilbert Rd STE 102 Mesa\, Arizo
  na 85204\n\nSource: https://www.visitmesa.com/events/winter-6wk-session-bo
  oking-now/
@@ -75,20 +75,20 @@ URL:https://www.visitmesa.com/events/winter-6wk-session-booking-now/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Speakers Program
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261126T201546Z
-UID:b642bfb2fe7588311a159597@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:8f2f03185f1657eaea969416@arizona-regional
 DESCRIPTION:2017 N Greenfield Rd Mesa\, Arizona\n\nSource: https://www.vis
  itmesa.com/events/saturday-speakers-program/
 URL:https://www.visitmesa.com/events/saturday-speakers-program/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZooLights: Timeless tradition. Endless wonder. Presented by SRP
-DTSTART;VALUE=DATE:20261126
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261126T201546Z
-UID:b5293201d135dff4886d09fe@arizona-regional
+DTSTAMP:20261127T200044Z
+UID:7454f0ad60a74829bc6768bc@arizona-regional
 DESCRIPTION:Phoenix Zoo 455 North Galvin Parkway Phoenix\, AZ 85008\n\nSou
  rce: https://www.visitmesa.com/events/zoolights-timeless-tradition-endless
  -wonder-presented-by-srp/
@@ -97,37 +97,37 @@ URL:https://www.visitmesa.com/events/zoolights-timeless-tradition-endless-
  wonder-presented-by-srp/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cornhole Tournament
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261126T201546Z
-UID:2f7d704cb4c97947348e17c0@arizona-regional
-DESCRIPTION:Beer Barn 3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296 \, Ariz
- ona\n\nSource: https://www.visitmesa.com/events/cornhole-tournament/
-LOCATION:3150 E Ray Rd Suite 150\, Gilbert\, AZ 85296
-URL:https://www.visitmesa.com/events/cornhole-tournament/
+SUMMARY:A Christmas Carol
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261127T200044Z
+UID:3b35c5ca23c256db0cf4e2f2@arizona-regional
+DESCRIPTION:Hale Centre Theatre 50 W Page Ave Gilbert\, AZ 85233\n\nSource
+ : https://www.visitmesa.com/events/a-christmas-carol-play-with-music/
+LOCATION:50 W Page Ave Gilbert\, AZ 85233
+URL:https://www.visitmesa.com/events/a-christmas-carol-play-with-music/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KaraÅke
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261126T201546Z
-UID:847faadcbeef2c541cf35067@arizona-regional
-DESCRIPTION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210\n\nSour
- ce: https://www.visitmesa.com/events/karaoke/
-LOCATION:414 Pizza Mesa 706 W Southern Ave #106 Mesa\, AZ 85210
-URL:https://www.visitmesa.com/events/karaoke/
+SUMMARY:P.S. I Love You Holiday Market at AAG
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261127T200044Z
+UID:ab7fa70b8edb38bf6ee6b8aa@arizona-regional
+DESCRIPTION:Arizona Athletic Grounds â Field House A ï»¿6321 S. El
+ lsworth Road\, Mesa\, AZ 85212\n\nSource: https://www.visitmesa.com/events
+ /p-s-i-love-you-holiday-market-at-aag/
+LOCATION:6321 S. Ellsworth Road\, Mesa\, AZ 85212
+URL:https://www.visitmesa.com/events/p-s-i-love-you-holiday-market-at-aag/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afternoon High Tea
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261126T201546Z
-UID:fa64c050dd5f801f8f812170@arizona-regional
-DESCRIPTION:Elysian Fields Artisan Bakery & Dainties 6727 E McDowell Rd #1
- 04\, Mesa\, AZ 85215\n\nSource: https://www.visitmesa.com/events/enjoy-aft
- ernoon-high-tea/
-LOCATION:6727 E McDowell Rd #104\, Mesa\, AZ 85215
-URL:https://www.visitmesa.com/events/enjoy-afternoon-high-tea/
+SUMMARY:KaraÅke Night with DJ Robot 5000
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261127T200044Z
+UID:2fe15bd715287cf7d7798a4c@arizona-regional
+DESCRIPTION:Level 1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201\n\nSour
+ ce: https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
+LOCATION:1 Arcade Bar Mesa 48 W Main St\, Mesa\, AZ 85201
+URL:https://www.visitmesa.com/events/karaoke-night-with-dj-robot-5000/
 END:VEVENT
 END:VCALENDAR
