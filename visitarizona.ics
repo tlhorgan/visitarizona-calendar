@@ -5,86 +5,37 @@ CALSCALE:GREGORIAN
 X-WR-CALDESC:Events collected from VisitArizona.com
 X-WR-CALNAME:Visit Arizona Events
 BEGIN:VEVENT
-SUMMARY:45th Annual Fort McDowell Orme Dam Victory Days
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261126T201408Z
-UID:4029abdac9e69e277cf373bc@visitarizona-calendar
-DESCRIPTION:Celebrating Yavapai land\, culture and tradition.\n\nEvent web
- site: https://fmyn.org/events/\n\nVisit Arizona listing: https://www.visit
- arizona.com/events/45th-annual-fort-mcdowell-orme-dam-victory-days
-LAST-MODIFIED:20261126T201408Z
-URL:https://www.visitarizona.com/events/45th-annual-fort-mcdowell-orme-dam
- -victory-days
+SUMMARY:Anthem Turkey Trot
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261128T190159Z
+UID:103809d120c7171c1e92ac95@visitarizona-calendar
+DESCRIPTION:Whether you’re running\, walking\, or trotting\, this family
+ -friendly event has something for everyone — from competitive racers to 
+ casual strollers. With festive vibes and a scenic desert backdrop\, it’s
+  the perfect way to kick off the holiday. 10K run\, 5K run/walk.\n\nEvent 
+ website: https://4peaksracing.com/events/\n\nVisit Arizona listing: https:
+ //www.visitarizona.com/events/anthem-turkey-trot
+LAST-MODIFIED:20261128T190159Z
+LOCATION:Anthem Community Center\, North Freedom Way\, Anthem\, AZ\, USA
+URL:https://www.visitarizona.com/events/anthem-turkey-trot
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oro Valley Holiday Festival of the Arts & Tree Lighting Celebratio
- n
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20261126T201408Z
-UID:7f7a54d13e87749c8bad2b2b@visitarizona-calendar
-DESCRIPTION:The Oro Valley Marketplace transforms into a vibrant hub of cr
- eativity\, community\, and festive wonder. This cherished event is a corne
- rstone of the season\, inviting people of all ages to experience stunning 
- holiday décor\, live performances\, and Santa Claus’s much-anticipated 
- arrival.\n\nEvent website: https://artstateaz.org/oro-valley-holiday-festi
- val-of-lights-tree-lighting-celebration/\n\nVisit Arizona listing: https:/
- /www.visitarizona.com/events/oro-valley-holiday-festival-of-the-arts-tree-
- lighting-celebration
-LAST-MODIFIED:20261126T201408Z
-URL:https://www.visitarizona.com/events/oro-valley-holiday-festival-of-the
- -arts-tree-lighting-celebration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4th Annual Art at Anthem
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261126T201408Z
-UID:a2065ce77497dd86d9d97c0e@visitarizona-calendar
-DESCRIPTION:Brings together 60 juried artists\, local makers\, live music\
- , and family fun. Highlights everything from fine art and photography to j
- ewelry\, pottery\, Native American works and gourmet gifts\, plus local fa
- vorites like Queen Bee Gourmet Honey and Homemade Mommy & Me Aprons. Visit
- ors can also enjoy live music\, Santa visits\, and the sight of Arizona’
- s tallest fresh-cut Christmas tree.\n\nEvent website: https://oakcreekarts
- andcraftsshow.com/\n\nVisit Arizona listing: https://www.visitarizona.com/
- events/4th-annual-art-at-anthem
-LAST-MODIFIED:20261126T201408Z
-LOCATION:Outlets North Phoenix\, West Anthem Way\, Phoenix\, AZ\, USA
-URL:https://www.visitarizona.com/events/4th-annual-art-at-anthem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15th Annual Whiskey Row Boot Drop
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T201408Z
-UID:6f6cc1532cd631bc4336d421@visitarizona-calendar
-DESCRIPTION:Ring in 2027 with thousands of people on Whiskey Row.\n\nEvent
-  website: https://www.experienceprescott.com/christmas-city/events/\n\nVis
- it Arizona listing: https://www.visitarizona.com/events/15th-annual-whiske
- y-row-boot-drop
-LAST-MODIFIED:20261126T201408Z
-LOCATION:Courthouse Plaza\, South Cortez Street\, Prescott\, AZ\, USA
-URL:https://www.visitarizona.com/events/15th-annual-whiskey-row-boot-drop
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Taco Bell New Year’s Eve Downtown Bowl Bash
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T201408Z
-UID:d104c3721bf1bc4536858a03@visitarizona-calendar
-DESCRIPTION:Live music throughout the night\, headlined by the Lucky Devil
- s Band! A Silent Disco\, presented by Tucson Federal Credit Union. Food tr
- ucks and beer stations throughout the area to keep you fueled up for the b
- ig countdown to the taco touchdown. When the clock strikes 12:00:00 a big 
- taco is lowered from the sky to welcome 2026!\n\nEvent website: https://th
- earizonabowl.com/event/2025-taco-bell-new-years-eve-downtown-bowl-bash/\n\
- nVisit Arizona listing: https://www.visitarizona.com/events/2025-taco-bell
- -new-year-s-eve-downtown-bowl-bash
-LAST-MODIFIED:20261126T201408Z
-LOCATION:Jácome Plaza\, North Stone Avenue\, Tucson\, AZ\, USA
-URL:https://www.visitarizona.com/events/2025-taco-bell-new-year-s-eve-down
- town-bowl-bash
+SUMMARY:Annual Home Tour and Art\, Chairs & More Auction
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190159Z
+UID:e0c8c3cb9a55b1da5f85d0bc@visitarizona-calendar
+DESCRIPTION:For some years\, the event has not solely featured historic ho
+ mes. It has expanded to include the wonderfully quirky\, art-filled homes 
+ of Bisbee that aren’t historically accurate. The companion auction began
+  with chairs but has gone far beyond that to include art of every kind. Al
+ ways held on the Friday and Saturday after Thanksgiving.\n\nEvent website:
+  https://www.bisbeewomansclub.com/home-tour-chair-auction\n\nVisit Arizona
+  listing: https://www.visitarizona.com/events/annual-home-tour-and-art-cha
+ irs-more-auction
+LAST-MODIFIED:20261128T190159Z
+URL:https://www.visitarizona.com/events/annual-home-tour-and-art-chairs-mo
+ re-auction
 END:VEVENT
 END:VCALENDAR

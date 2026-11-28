@@ -3,242 +3,10 @@ VERSION:2.0
 PRODID:-//Arizona Regional Events//EN
 X-WR-CALNAME:Visit Sedona
 BEGIN:VEVENT
-SUMMARY:Aerial Sound Healing in Sedona
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:3d3bdc74fb19e5a5b10be4a1@arizona-regional
-DESCRIPTION:Get details about Aerial Sound Healing in Sedona and explore S
- edona attractions\, restaurants\, places to stay\, events\, live music and
-  more with the official Sedona Chamber of Commerce Event Calendar.\n\nSour
- ce: https://visitsedona.com/events-calendar/aerial-sound-healing-in-sedona
-LOCATION:1785 W. State Route 89A\, Suite 1B Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/aerial-sound-healing-in-sedona
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cosmic Gong Bath Experience with ISSA
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:cc0a37a8ca1b8564658da72a@arizona-regional
-DESCRIPTION:Experience Cosmic Gongs in Sedona through immersive sound heal
- ing\, deep relaxation\, meditation\, and powerful vibrational frequencies 
- in a sacred setting.\n\nSource: https://visitsedona.com/events-calendar/co
- smic-gong-bath-with-issa-wilson
-URL:https://visitsedona.com/events-calendar/cosmic-gong-bath-with-issa-wil
- son
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Energy Clearing & Chakra Balancing Session with Nichole Nash Clean
- se & Invigorate while Realigning
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:7e28e9ab144a3ccd51f8c28a@arizona-regional
-DESCRIPTION:Get details about Energy Clearing & Chakra Balancing Session w
- ith Nichole Nash Cleanse & Invigorate while Realigning and explore Sedona 
- attractions\, restaurants\, places to stay\, events\, live music and more 
- with the official Sedona Chamber of Commerce Event Calendar.\n\nSource: ht
- tps://visitsedona.com/events-calendar/energy-clearing-chakra-balancing-ses
- sion-with-nichole-nash-cleanse-and-invi
-LOCATION:162 D Coffee Pot Drive Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/energy-clearing-chakra-balanci
- ng-session-with-nichole-nash-cleanse-and-invi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‘Everest: The Other Side’ Film Premiere
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:8df0a528f245deb3fe1f7543@arizona-regional
-DESCRIPTION:Get details about ‘Everest: The Other Side’ Film Premiere 
- and explore Sedona attractions\, restaurants\, places to stay\, events\, l
- ive music and more with the official Sedona Chamber of Commerce Event Cale
- ndar.\n\nSource: https://visitsedona.com/events-calendar/everest-the-other
- -side-film-premiere
-LOCATION:2030 W. State Route 89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/everest-the-other-side-film-pr
- emiere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‘Fjord’ Film Premiere
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:f90a52e16387efbd8c734ec5@arizona-regional
-DESCRIPTION:Get details about ‘Fjord’ Film Premiere and explore Sedona
-  attractions\, restaurants\, places to stay\, events\, live music and more
-  with the official Sedona Chamber of Commerce Event Calendar.\n\nSource: h
- ttps://visitsedona.com/events-calendar/fjord-film-premiere
-LOCATION:2030 W. State Route 89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/fjord-film-premiere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gratitude Friday - Buy a Heart\, Lift a Neighbor
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:40e8592aac20ca805ea68971@arizona-regional
-DESCRIPTION:Get details about Gratitude Friday - Buy a Heart\, Lift a Neig
- hbor and explore Sedona attractions\, restaurants\, places to stay\, event
- s\, live music and more with the official Sedona Chamber of Commerce Event
-  Calendar.\n\nSource: https://visitsedona.com/events-calendar/gratitude-fr
- iday-buy-a-heart-lift-a-neighbor
-LOCATION:140 Coffee Pot Dr Ste 104 Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/gratitude-friday-buy-a-heart-l
- ift-a-neighbor
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holiday Hoedown at the Blazin’ M Ranch
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:de399fea46710de5445ad7f5@arizona-regional
-DESCRIPTION:Get details about Holiday Hoedown at the Blazin’ M Ranch and
-  explore Sedona attractions\, restaurants\, places to stay\, events\, live
-  music and more with the official Sedona Chamber of Commerce Event Calenda
- r.\n\nSource: https://visitsedona.com/events-calendar/holiday-hoedown-at-t
- he-blazin-m-ranch
-LOCATION:1875 Mabery Ranch Rd. Cottonwood\, Arizona
-URL:https://visitsedona.com/events-calendar/holiday-hoedown-at-the-blazin-
- m-ranch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holiday Reserve Release
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:f8e3b1c14cb0775e32828b61@arizona-regional
-DESCRIPTION:Get details about Holiday Reserve Release and explore Sedona a
- ttractions\, restaurants\, places to stay\, events\, live music and more w
- ith the official Sedona Chamber of Commerce Event Calendar.\n\nSource: htt
- ps://visitsedona.com/events-calendar/holiday-reserve-release
-URL:https://visitsedona.com/events-calendar/holiday-reserve-release
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‘Jimi Plays Berkeley’ Film Premiere
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:ff03e7c2c07fd85024ae3626@arizona-regional
-DESCRIPTION:Get details about ‘Jimi Plays Berkeley’ Film Premiere and 
- explore Sedona attractions\, restaurants\, places to stay\, events\, live 
- music and more with the official Sedona Chamber of Commerce Event Calendar
- .\n\nSource: https://visitsedona.com/events-calendar/jimi-plays-berkeley-f
- ilm-premiere
-LOCATION:2030 W. State Route 89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/jimi-plays-berkeley-film-premi
- ere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Layered - A Solo Exhibition by Lana Nguyen
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:e10f7f958c645ab84614f2ee@arizona-regional
-DESCRIPTION:Get details about Layered - A Solo Exhibition by Lana Nguyen a
- nd explore Sedona attractions\, restaurants\, places to stay\, events\, li
- ve music and more with the official Sedona Chamber of Commerce Event Calen
- dar.\n\nSource: https://visitsedona.com/events-calendar/layered-a-solo-exh
- ibition-by-lana-nguyen
-LOCATION:55 Shelby Drive\, Suite A1 Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/layered-a-solo-exhibition-by-l
- ana-nguyen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meditate in the Sedona Vortex Energy
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:fd2f4fb8ac2933e25682d76c@arizona-regional
-DESCRIPTION:Get details about Meditate in the Sedona Vortex Energy and exp
- lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
- ic and more with the official Sedona Chamber of Commerce Event Calendar.\n
- \nSource: https://visitsedona.com/events-calendar/meditate-in-the-sedona-v
- ortex-energy
-LOCATION:230 Sunset Dr. Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/meditate-in-the-sedona-vortex-
- energy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oak Creek Arts and Craft Show
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:9376654956a95052756f7b00@arizona-regional
-DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
-  Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
-  paintings\, photography\, pottery\, jewelry\, Native American art\, gourm
- et food booths\, kettle corn\, live music/entertainment\, free\, open-air 
- venue\, high visibility sites\, The Oak Creek Arts and Crafts Shows\, Marl
- o Johnson\n\nSource: https://visitsedona.com/events-calendar/oak-creek-art
- s-and-craft-show7
-LOCATION:1655 W SR 89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/oak-creek-arts-and-craft-show7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oak Creek Arts and Crafts Show
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:796f42b1c5609ad0ab1f7403@arizona-regional
-DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
-  Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
-  paintings\, photography\, pottery\, jewelry\, Native American art\, gourm
- et food booths\, kettle corn\, live music/entertainment\, free\, open-air 
- venue\, high visibility sites\, The Oak Creek Arts and Crafts Shows\, Marl
- o Johnson\n\nSource: https://visitsedona.com/events-calendar/oak-creek-art
- s-and-crafts-show44
-LOCATION:6657 AZ-179 Sedona\, Arizona Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/oak-creek-arts-and-crafts-show
- 44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shamangelic Breathwork Ceremony with Anahata Ananda
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:d72623d4b0378b4a947055c3@arizona-regional
-DESCRIPTION:Get details about Shamangelic Breathwork Ceremony with Anahata
-  Ananda and explore Sedona attractions\, restaurants\, places to stay\, ev
- ents\, live music and more with the official Sedona Chamber of Commerce Ev
- ent Calendar.\n\nSource: https://visitsedona.com/events-calendar/shamangel
- ic-breathwork-ceremony-with-anahata-ananda-1
-LOCATION:162 D Coffee Pot Drive Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/shamangelic-breathwork-ceremon
- y-with-anahata-ananda-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sky Rock Sedona - Live Music
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:3d922fdb334578a0c9e63597@arizona-regional
-DESCRIPTION:Get details about Sky Rock Sedona - Live Music and explore Sed
- ona attractions\, restaurants\, places to stay\, events\, live music and m
- ore with the official Sedona Chamber of Commerce Event Calendar.\n\nSource
- : https://visitsedona.com/events-calendar/sky-rock-inn-live-music
-LOCATION:1200 SR89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/sky-rock-inn-live-music
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:‘Wildwood’ Film Premiere
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261127T200044Z
-UID:3360152f7fb9c0f0cca5ae78@arizona-regional
-DESCRIPTION:Get details about ‘Wildwood’ Film Premiere and explore Sed
- ona attractions\, restaurants\, places to stay\, events\, live music and m
- ore with the official Sedona Chamber of Commerce Event Calendar.\n\nSource
- : https://visitsedona.com/events-calendar/wildwood-film-premiere
-LOCATION:2030 W. State Route 89A Sedona\, Arizona
-URL:https://visitsedona.com/events-calendar/wildwood-film-premiere
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Tribute to Michael Bublé Christmas
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:a390b282306ca7a70e99aedd@arizona-regional
 DESCRIPTION:Get details about A Tribute to Michael Bublé Christmas and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -253,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Energy Clearing & Healing Session with Gentle Thunder
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:01bafeeb372c6e48d2f50821@arizona-regional
 DESCRIPTION:Get details about Energy Clearing & Healing Session with Gentl
  e Thunder and explore Sedona attractions\, restaurants\, places to stay\, 
@@ -265,10 +33,25 @@ URL:https://visitsedona.com/events-calendar/energy-clearing-healing-sessio
  n-with-gentle-thunder
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:‘Everest: The Other Side’ Film Premiere
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:08406d915b56bc58bc9fc5ac@arizona-regional
+DESCRIPTION:Get details about ‘Everest: The Other Side’ Film Premiere 
+ and explore Sedona attractions\, restaurants\, places to stay\, events\, l
+ ive music and more with the official Sedona Chamber of Commerce Event Cale
+ ndar.\n\nSource: https://visitsedona.com/events-calendar/everest-the-other
+ -side-film-premiere
+LOCATION:2030 W. State Route 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/everest-the-other-side-film-pr
+ emiere
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Guided Red Rock Hike
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:9169606bb9a9f300d65d4cbf@arizona-regional
 DESCRIPTION:Get details about Guided Red Rock Hike and explore Sedona attr
  actions\, restaurants\, places to stay\, events\, live music and more with
@@ -277,10 +60,88 @@ DESCRIPTION:Get details about Guided Red Rock Hike and explore Sedona attr
 URL:https://visitsedona.com/events-calendar/guided-red-rock-hike
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Hoedown at the Blazin’ M Ranch
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:8259dac9362cfb46ce7b6603@arizona-regional
+DESCRIPTION:Get details about Holiday Hoedown at the Blazin’ M Ranch and
+  explore Sedona attractions\, restaurants\, places to stay\, events\, live
+  music and more with the official Sedona Chamber of Commerce Event Calenda
+ r.\n\nSource: https://visitsedona.com/events-calendar/holiday-hoedown-at-t
+ he-blazin-m-ranch
+LOCATION:1875 Mabery Ranch Rd. Cottonwood\, Arizona
+URL:https://visitsedona.com/events-calendar/holiday-hoedown-at-the-blazin-
+ m-ranch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:‘Jimi Plays Berkeley’ Film Premiere
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:029a68d215a9e073d60b48b8@arizona-regional
+DESCRIPTION:Get details about ‘Jimi Plays Berkeley’ Film Premiere and 
+ explore Sedona attractions\, restaurants\, places to stay\, events\, live 
+ music and more with the official Sedona Chamber of Commerce Event Calendar
+ .\n\nSource: https://visitsedona.com/events-calendar/jimi-plays-berkeley-f
+ ilm-premiere
+LOCATION:2030 W. State Route 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/jimi-plays-berkeley-film-premi
+ ere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Layered - A Solo Exhibition by Lana Nguyen
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:54e0a768fa056cae1271ba12@arizona-regional
+DESCRIPTION:Get details about Layered - A Solo Exhibition by Lana Nguyen a
+ nd explore Sedona attractions\, restaurants\, places to stay\, events\, li
+ ve music and more with the official Sedona Chamber of Commerce Event Calen
+ dar.\n\nSource: https://visitsedona.com/events-calendar/layered-a-solo-exh
+ ibition-by-lana-nguyen
+LOCATION:55 Shelby Drive\, Suite A1 Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/layered-a-solo-exhibition-by-l
+ ana-nguyen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oak Creek Arts and Craft Show
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:603fdfe78ca66b95da24ba63@arizona-regional
+DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
+  Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
+  paintings\, photography\, pottery\, jewelry\, Native American art\, gourm
+ et food booths\, kettle corn\, live music/entertainment\, free\, open-air 
+ venue\, high visibility sites\, The Oak Creek Arts and Crafts Shows\, Marl
+ o Johnson\n\nSource: https://visitsedona.com/events-calendar/oak-creek-art
+ s-and-craft-show7
+LOCATION:1655 W SR 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/oak-creek-arts-and-craft-show7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oak Creek Arts and Crafts Show
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:c7ff8f06b61af7fa89e05aad@arizona-regional
+DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
+  Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
+  paintings\, photography\, pottery\, jewelry\, Native American art\, gourm
+ et food booths\, kettle corn\, live music/entertainment\, free\, open-air 
+ venue\, high visibility sites\, The Oak Creek Arts and Crafts Shows\, Marl
+ o Johnson\n\nSource: https://visitsedona.com/events-calendar/oak-creek-art
+ s-and-crafts-show44
+LOCATION:6657 AZ-179 Sedona\, Arizona Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/oak-creek-arts-and-crafts-show
+ 44
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paint Your Pet! (on canvas)
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:7b7ee2a0944090b238211f12@arizona-regional
 DESCRIPTION:Get details about Paint Your Pet! (on canvas) and explore Sedo
  na attractions\, restaurants\, places to stay\, events\, live music and mo
@@ -295,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Scientific Vortex Information
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:bd64062b13a217c896ec8d43@arizona-regional
 DESCRIPTION:Get details about Scientific Vortex Information and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -309,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Vortex Land Journey with Anahata Ananda
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:79feb13fa3dbca2c879f7623@arizona-regional
 DESCRIPTION:Get details about Sedona Vortex Land Journey with Anahata Anan
  da and explore Sedona attractions\, restaurants\, places to stay\, events\
@@ -321,10 +182,36 @@ URL:https://visitsedona.com/events-calendar/sedona-vortex-land-journey-wit
  h-anahata-ananda2-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sky Rock Sedona - Live Music
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:6cf6f4603b7f1680de579a67@arizona-regional
+DESCRIPTION:Get details about Sky Rock Sedona - Live Music and explore Sed
+ ona attractions\, restaurants\, places to stay\, events\, live music and m
+ ore with the official Sedona Chamber of Commerce Event Calendar.\n\nSource
+ : https://visitsedona.com/events-calendar/sky-rock-inn-live-music
+LOCATION:1200 SR89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/sky-rock-inn-live-music
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:‘Wildwood’ Film Premiere
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261128T190343Z
+UID:fbe233d40d8f3250d4d43301@arizona-regional
+DESCRIPTION:Get details about ‘Wildwood’ Film Premiere and explore Sed
+ ona attractions\, restaurants\, places to stay\, events\, live music and m
+ ore with the official Sedona Chamber of Commerce Event Calendar.\n\nSource
+ : https://visitsedona.com/events-calendar/wildwood-film-premiere
+LOCATION:2030 W. State Route 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/wildwood-film-premiere
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ancestral Healing Experience
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:85316bda326d2546e2af9efb@arizona-regional
 DESCRIPTION:Get details about Ancestral Healing Experience and explore Sed
  ona attractions\, restaurants\, places to stay\, events\, live music and m
@@ -337,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Ecstatic Dance Sedona Sundays
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:503eb1b48c327dd839f373d3@arizona-regional
 DESCRIPTION:Get details about Ecstatic Dance Sedona Sundays and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -347,10 +234,35 @@ LOCATION:2050 Yavapai Drive \, Suite 3A Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/ecstatic-dance-sedona-sundays
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:‘Fjord’ Film Premiere
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261128T190343Z
+UID:6a635735b6c9fea230030ca1@arizona-regional
+DESCRIPTION:Get details about ‘Fjord’ Film Premiere and explore Sedona
+  attractions\, restaurants\, places to stay\, events\, live music and more
+  with the official Sedona Chamber of Commerce Event Calendar.\n\nSource: h
+ ttps://visitsedona.com/events-calendar/fjord-film-premiere
+LOCATION:2030 W. State Route 89A Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/fjord-film-premiere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Reserve Release
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261128T190343Z
+UID:cd9278511af4644a267bf0dd@arizona-regional
+DESCRIPTION:Get details about Holiday Reserve Release and explore Sedona a
+ ttractions\, restaurants\, places to stay\, events\, live music and more w
+ ith the official Sedona Chamber of Commerce Event Calendar.\n\nSource: htt
+ ps://visitsedona.com/events-calendar/holiday-reserve-release
+URL:https://visitsedona.com/events-calendar/holiday-reserve-release
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Self-Empowerment QiGong Retreat
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:5ef74dacd2e992f03ee26389@arizona-regional
 DESCRIPTION:Get details about Self-Empowerment QiGong Retreat and explore 
  Sedona attractions\, restaurants\, places to stay\, events\, live music an
@@ -362,10 +274,22 @@ URL:https://visitsedona.com/events-calendar/self-empowerment-qigong-retrea
  t
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sound Journey Session
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261128T190343Z
+UID:2d2f03af1020a559557de4dc@arizona-regional
+DESCRIPTION:Get details about Sound Journey Session and explore Sedona att
+ ractions\, restaurants\, places to stay\, events\, live music and more wit
+ h the official Sedona Chamber of Commerce Event Calendar.\n\nSource: https
+ ://visitsedona.com/events-calendar/sound-journey-session-1
+URL:https://visitsedona.com/events-calendar/sound-journey-session-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scientific Vortex Information
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:3dc4224d558503e52cf305f8@arizona-regional
 DESCRIPTION:MIT Honors Grad\, Pete Sanders on how to tap the\n\nSource: ht
  tps://visitsedona.com/events-calendar/scientific-vortex-information94
@@ -378,7 +302,7 @@ SUMMARY:Sedona Speaker Series: Cemeteries of the Verde Valley with Parker
  Anderson
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:bf537ae55e48267a46226d3d@arizona-regional
 DESCRIPTION:Get details about Sedona Speaker Series: Cemeteries of the Ver
  de Valley with Parker Anderson and explore Sedona attractions\, restaurant
@@ -394,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Healing
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:f86a65d334059de580bccb61@arizona-regional
 DESCRIPTION:Experience transformative sound healing at Down Dog Sedona. Re
  lax\, restore\, and rebalance with crystal bowls\, guided meditation\, and
@@ -407,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Wellness Retreat
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:b518d376a8edf5b5882dfb16@arizona-regional
 DESCRIPTION:Get details about Sedona Wellness Retreat and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -420,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Gong Meditation
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:b815950b64d2652bd50cc533@arizona-regional
 DESCRIPTION:Get details about Gong Meditation and explore Sedona attractio
  ns\, restaurants\, places to stay\, events\, live music and more with the 
@@ -433,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:‘The Nutcracker Ballet’ on Screen
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:146b848f4054972a4fbd1912@arizona-regional
 DESCRIPTION:Get details about ‘The Nutcracker Ballet’ on Screen and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -448,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Wine Wednesday
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:e54b4d1c7566eb92261b2cf5@arizona-regional
 DESCRIPTION:Wine Wednesday\n\nSource: https://visitsedona.com/events-calen
  dar/wine-wednesday
@@ -458,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Fiddler on the Rock Concerts
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:dd807f38b73bb8f4a0a55b10@arizona-regional
 DESCRIPTION:Fiddler on the Rock\, fiddler\, Tyler Carson\n\nSource: https:
  //visitsedona.com/events-calendar/fiddler-on-the-rock-concerts-2
@@ -469,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Sound Bath / Tai Chi / Qigong / Yoga
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:37d66829ea1595c4815048a0@arizona-regional
 DESCRIPTION:Get details about Sound Bath / Tai Chi / Qigong / Yoga and exp
  lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
@@ -483,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Surround Sound Christmas Extravaganza
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:c0bd6c44f5e7b2cdf89a2beb@arizona-regional
 DESCRIPTION:Get details about Surround Sound Christmas Extravaganza and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -498,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:UQUALLA in CEREMONY ​
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:6a95a955e73e5a5d9a489111@arizona-regional
 DESCRIPTION:Get details about UQUALLA in CEREMONY ​ and explore Sedona a
  ttractions\, restaurants\, places to stay\, events\, live music and more w
@@ -508,10 +432,36 @@ LOCATION:120 Deer Trail Drive Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/uqualla-in-ceremony
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aerial Sound Healing in Sedona
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261128T190343Z
+UID:e271eb8c9233e4b512da24ab@arizona-regional
+DESCRIPTION:Get details about Aerial Sound Healing in Sedona and explore S
+ edona attractions\, restaurants\, places to stay\, events\, live music and
+  more with the official Sedona Chamber of Commerce Event Calendar.\n\nSour
+ ce: https://visitsedona.com/events-calendar/aerial-sound-healing-in-sedona
+LOCATION:1785 W. State Route 89A\, Suite 1B Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/aerial-sound-healing-in-sedona
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmic Gong Bath Experience with ISSA
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261128T190343Z
+UID:5a6162e6713e992ded8170a5@arizona-regional
+DESCRIPTION:Experience Cosmic Gongs in Sedona through immersive sound heal
+ ing\, deep relaxation\, meditation\, and powerful vibrational frequencies 
+ in a sacred setting.\n\nSource: https://visitsedona.com/events-calendar/co
+ smic-gong-bath-with-issa-wilson
+URL:https://visitsedona.com/events-calendar/cosmic-gong-bath-with-issa-wil
+ son
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holiday Celebration: A Time to Give & A Time to Receive
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:6ad4d6a54325a686910f57c6@arizona-regional
 DESCRIPTION:Get details about Holiday Celebration: A Time to Give & A Time
   to Receive and explore Sedona attractions\, restaurants\, places to stay\
@@ -526,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Indoor Line Dancing at Blazin’ M Ranch
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:aff203732ca838cec7fdd17c@arizona-regional
 DESCRIPTION:Get details about Indoor Line Dancing at Blazin’ M Ranch and
   explore Sedona attractions\, restaurants\, places to stay\, events\, live
@@ -541,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Ladies Sing the Blues
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:91708c8a11a686f55994dc59@arizona-regional
 DESCRIPTION:Get details about Ladies Sing the Blues and explore Sedona att
  ractions\, restaurants\, places to stay\, events\, live music and more wit
@@ -554,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:‘Long Day’s Journey Into Night’ Film Premiere
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:6520f6c4938c0fd16548d9b2@arizona-regional
 DESCRIPTION:Get details about ‘Long Day’s Journey Into Night’ Film P
  remiere and explore Sedona attractions\, restaurants\, places to stay\, ev
@@ -566,10 +516,25 @@ URL:https://visitsedona.com/events-calendar/long-days-journey-into-night-f
  ilm-premiere
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meditate in the Sedona Vortex Energy
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261128T190343Z
+UID:34edbcef47d5bf84f1588b3f@arizona-regional
+DESCRIPTION:Get details about Meditate in the Sedona Vortex Energy and exp
+ lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
+ ic and more with the official Sedona Chamber of Commerce Event Calendar.\n
+ \nSource: https://visitsedona.com/events-calendar/meditate-in-the-sedona-v
+ ortex-energy
+LOCATION:230 Sunset Dr. Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/meditate-in-the-sedona-vortex-
+ energy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:‘Once Upon a Time in Harlem’ Film Premiere
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:2d19a08004c1e7457cdf2fbc@arizona-regional
 DESCRIPTION:Get details about ‘Once Upon a Time in Harlem’ Film Premie
  re and explore Sedona attractions\, restaurants\, places to stay\, events\
@@ -584,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Tree Lighting
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:74d5caa80d3a28fdfc073542@arizona-regional
 DESCRIPTION:Kick off the holidays at Sedona's free Tree Lighting at Tlaque
  paque North on Dec. 4\, 2026. Meet Santa\, sip hot chocolate\, and see the
@@ -598,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:‘Wild Horse Nine’ Film Premiere
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:4f0f85020d689e6dac385ffe@arizona-regional
 DESCRIPTION:Get details about ‘Wild Horse Nine’ Film Premiere and expl
  ore Sedona attractions\, restaurants\, places to stay\, events\, live musi
@@ -612,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:‘Samson et Dalila’ Met Live Opera
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:970240cfbdf2e605b4d3dcff@arizona-regional
 DESCRIPTION:Get details about ‘Samson et Dalila’ Met Live Opera and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -627,7 +592,7 @@ BEGIN:VEVENT
 SUMMARY:Sedona Poetry Slam - December 2026
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:227a4ac3cebb3ce6d5ffb29a@arizona-regional
 DESCRIPTION:Get details about Sedona Poetry Slam - December 2026 and explo
  re Sedona attractions\, restaurants\, places to stay\, events\, live music
@@ -641,7 +606,7 @@ SUMMARY:What’s Really Blocking You? A Family Constellation Workshop with
   Iara Line
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:1230660811d0ff0d971a5bdf@arizona-regional
 DESCRIPTION:Get details about What’s Really Blocking You? A Family Const
  ellation Workshop with Iara Line and explore Sedona attractions\, restaura
@@ -657,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:‘Elvis\, Rocky & Me: The Carol Connors Story’ Film Premiere
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:f1ba71c77c32a9c1c3a76cdd@arizona-regional
 DESCRIPTION:Get details about ‘Elvis\, Rocky & Me: The Carol Connors Sto
  ry’ Film Premiere and explore Sedona attractions\, restaurants\, places 
@@ -672,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Revitalizing Detox Retreat
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:75540d8fd7f473de7b89e3c1@arizona-regional
 DESCRIPTION:Get details about Revitalizing Detox Retreat and explore Sedon
  a attractions\, restaurants\, places to stay\, events\, live music and mor
@@ -685,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:In the Living Room Music Series: Tommy ‘Rocks’ Anderson
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:484da9f040898155922cec2c@arizona-regional
 DESCRIPTION:Get details about In the Living Room Music Series: Tommy ‘Ro
  cks’ Anderson and explore Sedona attractions\, restaurants\, places to s
@@ -700,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Live Theatre: Christmas in Montpelier
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:e6e9f29f7930cc81a24ad12c@arizona-regional
 DESCRIPTION:Get details about Live Theatre: Christmas in Montpelier and ex
  plore Sedona attractions\, restaurants\, places to stay\, events\, live mu
@@ -715,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:New Moon Under the Sedona Sky
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:595b470ff361f82903049049@arizona-regional
 DESCRIPTION:Get details about New Moon Under the Sedona Sky and explore Se
  dona attractions\, restaurants\, places to stay\, events\, live music and 
@@ -728,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:A Winter’s Eve with David Arkenstone & Friends
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:ca746e3a2ca8b3a2abe93df9@arizona-regional
 DESCRIPTION:Get details about A Winter’s Eve with David Arkenstone & Fri
  ends and explore Sedona attractions\, restaurants\, places to stay\, event
@@ -743,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:Finding True Self
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:8a4a568e7c60d0280d530f54@arizona-regional
 DESCRIPTION:Get details about Finding True Self and explore Sedona attract
  ions\, restaurants\, places to stay\, events\, live music and more with th
@@ -756,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Chakra Healing Retreat
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:f202ccef7f8e33c326833ed3@arizona-regional
 DESCRIPTION:Get details about Chakra Healing Retreat and explore Sedona at
  tractions\, restaurants\, places to stay\, events\, live music and more wi
@@ -769,7 +734,7 @@ BEGIN:VEVENT
 SUMMARY:Anton Nowels Artist Demo
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:3a4a62abe28697b61f8780eb@arizona-regional
 DESCRIPTION:Get details about Anton Nowels Artist Demo and explore Sedona 
  attractions\, restaurants\, places to stay\, events\, live music and more 
@@ -782,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:SHINE Holiday Fundraising Gala
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:1032d88e99c8d12ade5f310b@arizona-regional
 DESCRIPTION:Get details about SHINE Holiday Fundraising Gala and explore S
  edona attractions\, restaurants\, places to stay\, events\, live music and
@@ -796,7 +761,7 @@ SUMMARY:The Sedona SpiritFlow Weekend Retreat: 2-Day Vortex & Energy Align
  ment Retreat
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:f44dc19a456b3688082763b6@arizona-regional
 DESCRIPTION:Get details about The Sedona SpiritFlow Weekend Retreat: 2-Day
   Vortex & Energy Alignment Retreat and explore Sedona attractions\, restau
@@ -812,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Local Roots\, Global Reach
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:ca6448487d1d47917f44bab9@arizona-regional
 DESCRIPTION:Get details about Local Roots\, Global Reach and explore Sedon
  a attractions\, restaurants\, places to stay\, events\, live music and mor
@@ -825,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Yavapai College Sedona Job Fair 2026
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:9c2f9dcdca0f419dcbdc59f0@arizona-regional
 DESCRIPTION:Get details about Yavapai College Sedona Job Fair 2026 and exp
  lore Sedona attractions\, restaurants\, places to stay\, events\, live mus
@@ -840,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Lydia Gatzow Artist Demo
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:0333f43ebe703c225b10232f@arizona-regional
 DESCRIPTION:Get details about Lydia Gatzow Artist Demo and explore Sedona 
  attractions\, restaurants\, places to stay\, events\, live music and more 
@@ -853,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Sweet Stroll at Tlaquepaque
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:12698d07f7e10c75ea816410@arizona-regional
 DESCRIPTION:Get details about Sweet Stroll at Tlaquepaque and explore Sedo
  na attractions\, restaurants\, places to stay\, events\, live music and mo
@@ -866,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:TRIBALISM: A Ritual Journey Through Percussion
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:d77afcdef7735dfd6cb30eeb@arizona-regional
 DESCRIPTION:Get details about TRIBALISM: A Ritual Journey Through Percussi
  on and explore Sedona attractions\, restaurants\, places to stay\, events\
@@ -882,7 +847,7 @@ SUMMARY:Winter Solstice Sound Healing & Light Language Journey with Sasha
  Starseed
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:ae942107fb754a120640ea38@arizona-regional
 DESCRIPTION:Get details about Winter Solstice Sound Healing & Light Langua
  ge Journey with Sasha Starseed and explore Sedona attractions\, restaurant
@@ -898,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Meditation & Sound Bath
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:49753c0a1faabf580aa13e0e@arizona-regional
 DESCRIPTION:Get details about Full Moon Meditation & Sound Bath and explor
  e Sedona attractions\, restaurants\, places to stay\, events\, live music 
@@ -913,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:Oak Creek Arts and Crafts Show
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:1dc8fb22c133ccc9384798e0@arizona-regional
 DESCRIPTION:Arts and crafts lovers\, Oak Creek Arts and Craft Show at Tres
   Amigos West Sedona\, Bell Rock Plaza and Sedona Vista Village\, artists\,
@@ -929,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:New Year Renewal Retreat
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-DTSTAMP:20261127T200044Z
+DTSTAMP:20261128T190343Z
 UID:01b7e672cba73201d636b802@arizona-regional
 DESCRIPTION:Get details about New Year Renewal Retreat and explore Sedona 
  attractions\, restaurants\, places to stay\, events\, live music and more 
@@ -937,5 +902,18 @@ DESCRIPTION:Get details about New Year Renewal Retreat and explore Sedona
  tps://visitsedona.com/events-calendar/new-year-renewal-retreat
 LOCATION:3500 E Bill Gray Rd Sedona\, Arizona
 URL:https://visitsedona.com/events-calendar/new-year-renewal-retreat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiritual Group Retreat
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20261128T190343Z
+UID:d7fc959fdec0a44ffac070a2@arizona-regional
+DESCRIPTION:Get details about Spiritual Group Retreat and explore Sedona a
+ ttractions\, restaurants\, places to stay\, events\, live music and more w
+ ith the official Sedona Chamber of Commerce Event Calendar.\n\nSource: htt
+ ps://visitsedona.com/events-calendar/spiritual-group-retreat-1
+LOCATION:2880 Hopi Dr Sedona\, Arizona
+URL:https://visitsedona.com/events-calendar/spiritual-group-retreat-1
 END:VEVENT
 END:VCALENDAR
